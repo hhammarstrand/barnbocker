@@ -7,37 +7,37 @@
   "pages": [
     {
       "text": "Fifi the fox lives in a bright forest. She loves to run and jump. One day, she hears a new sound. She is curious.",
-      "image": null,
+      "image": "images/page-1.png",
       "audio": null,
       "video": null
     },
     {
       "text": "She follows the sound and meets Bruno the bear. Bruno is big but gentle. He smiles and says hello. Fifi feels happy.",
-      "image": null,
+      "image": "images/page-2.png",
       "audio": null,
       "video": null
     },
     {
       "text": "They decide to play together. They find a meadow with soft grass. Fifi runs fast, Bruno rolls a big ball. They laugh and share.",
-      "image": null,
+      "image": "images/page-3.png",
       "audio": null,
       "video": null
     },
     {
       "text": "Bruno shares his honey snack with Fifi. Fifi gives Bruno a shiny berry. They taste each treat and say thank you. Friendship grows.",
-      "image": null,
+      "image": "images/page-4.png",
       "audio": null,
       "video": null
     },
     {
       "text": "The sun starts to set. Fifi feels tired, and Bruno is sleepy too. They find a cozy cave. They snuggle and dream together.",
-      "image": null,
+      "image": "images/page-5.png",
       "audio": null,
       "video": null
     },
     {
       "text": "Morning comes with bright light. Fifi and Bruno wake up, smile, and hug. They promise to be friends forever. The forest cheers.",
-      "image": null,
+      "image": "images/page-6.png",
       "audio": null,
       "video": null
     }
