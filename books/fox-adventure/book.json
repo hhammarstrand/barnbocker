@@ -1,0 +1,53 @@
+{
+  "id": "fox-adventure",
+  "title": "Fifi the Fox's First Adventure",
+  "description": "Join Fifi the Fox on her first adventure through the magical forest! Fifi is a curious and friendly little fox who loves making new friends and exploring new places.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "Once upon a time, in a cozy den beneath an old oak tree, there lived a little fox named Fifi. She had bright orange fur and a fluffy white tail.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Every morning, Fifi would peek out of her den to see what the day would bring. 'What shall we discover today?' she would ask the sun.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "One sunny morning, Fifi decided to explore the forest. She hopped and skipped along the mossy path, saying hello to every creature she met.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Soon, Fifi met a big friendly bear named Bruno. 'Hello there, little fox!' said Bruno with a warm smile. 'Would you like to explore with me?'",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi and Bruno became the best of friends. They wandered through meadows of wildflowers and splashed in the cool stream. What a wonderful day!",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "As the golden sun began to set, Fifi hugged her new friend goodbye. 'See you tomorrow, Bruno!' she called. And they both lived happily ever after.",
+      "image": null,
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": ["Bruno the Bear"],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 142,
+    "generatedAt": "2026-04-06T08:00:00.000Z"
+  }
+}

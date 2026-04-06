@@ -1,0 +1,55 @@
+{
+  "id": "fifi-the-fox-adventure-textonly",
+  "title": "Fifi the Fox's Friendship Adventure",
+  "description": "Join Fifi the Fox on an exciting friendship adventure!",
+  "coverColor": "E67E22",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "Fifi the Fox lived in a bright forest. She loved to run and jump. One day she felt lonely and wished for a friend. She looked around the trees and smiled.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "She saw a big brown bear sitting by a river. 'Hello,' said Fifi. 'I am Fifi. Do you want to play?' The bear smiled and said, 'I am Bruno.'",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi and Bruno played tag around the old oak tree. They chased butterflies and laughed. Bruno showed Fifi how to find sweet berries. Fifi taught Bruno a fun dance.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "One sunny afternoon they walked to a hilltop. The view was amazing. Fifi got tired and Bruno gave her a big hug. Together they watched the clouds roll by.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "When the sky turned pink, they shared a picnic under a big tree. Fifi gave Bruno a juicy apple. Bruno gave Fifi a crunchy carrot. Both felt happy.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "At night the stars twinkled. Fifi and Bruno hugged and said, 'Best friends forever.' They fell asleep, dreaming of more fun days together.",
+      "image": null,
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear"
+    ],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 169,
+    "generatedAt": "2026-04-06T08:45:58.691338"
+  }
+}
