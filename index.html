@@ -114,34 +114,43 @@
   </div>
 
   <script>
-    const bookPath = 'books/fifi-the-fox-adventure';
+    const REPO = 'hhammarstrand/barnbocker';
+    const BRANCH = 'main';
+    const BOOK_PATH = 'books/fifi-the-fox-adventure';
+    const BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${BOOK_PATH}`;
+    
     let bookData = null;
     let currentPage = 0;
 
     async function loadBook() {
       try {
-        const res = await fetch(`${bookPath}/book.json`);
+        const res = await fetch(`${BASE_URL}/book.json`);
         bookData = await res.json();
         document.getElementById('bookTitle').textContent = bookData.title;
         renderPage(0);
       } catch (e) {
         document.getElementById('pageContainer').innerHTML = 
-          '<div class="loading">Error loading book. Make sure you are running on a local server.</div>';
+          '<div class="loading">Error loading book. Check your internet connection.</div>';
       }
     }
 
     function renderPage(index) {
       const page = bookData.pages[index];
-      const imgPath = page.image ? `${bookPath}/${page.image}` : '';
-      const coverPath = index === 0 && page.image === null ? `${bookPath}/cover.png` : '';
+      let imgSrc;
       
-      const imgSrc = index === 0 && page.image === null ? coverPath : imgPath;
+      if (page.image) {
+        imgSrc = `${BASE_URL}/${page.image}`;
+      } else if (index === 0) {
+        imgSrc = `${BASE_URL}/cover.png`;
+      }
       
-      document.getElementById('pageContainer').innerHTML = `
-        <img class="page-image" src="${imgSrc}" alt="Page ${index + 1}" 
-             onerror="this.style.display='none'">
-        <div class="page-text">${page.text}</div>
-      `;
+      let html = '';
+      if (imgSrc) {
+        html += `<img class="page-image" src="${imgSrc}" alt="Page ${index + 1}" onerror="this.style.display='none'">`;
+      }
+      html += `<div class="page-text">${page.text}</div>`;
+      
+      document.getElementById('pageContainer').innerHTML = html;
       document.getElementById('pageIndicator').textContent = `${index + 1} / ${bookData.pages.length}`;
       document.getElementById('prevBtn').disabled = index === 0;
       document.getElementById('nextBtn').disabled = index === bookData.pages.length - 1;
