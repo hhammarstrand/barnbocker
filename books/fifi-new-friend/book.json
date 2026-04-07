@@ -1,42 +1,42 @@
 {
   "id": "fifi-new-friend",
-  "title": "Fifi Makes a New Friend",
+  "title": "Fifi hittar en v\u00e4n",
   "description": "Join Fifi the Fox on an exciting friendship adventure!",
   "coverColor": "6366f1",
   "coverEmoji": "\ud83e\udd8a",
   "pages": [
     {
-      "text": "Fifi was playing alone near the meadow when she heard a soft rustling in the tall grass. A tiny gray bunny peeked out with big shiny eyes.",
+      "text": "Fifi lekte ensam n\u00e4ra \u00e4ngen n\u00e4r hon h\u00f6rde ett mjukt prasslande i det h\u00f6ga gr\u00e4set. En liten gr\u00e5 kanin kikade fram med stora, glittrande \u00f6gon.",
       "image": "images/page-1.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Hello, said Fifi with a warm smile. I am Fifi. What is your name? The bunny trembled slightly and whispered, I am Bella.",
+      "text": "Hej, sa Fifi med ett varmt leende. Jag \u00e4r Fifi. Vad heter du? Kaninen darrade l\u00e4tt och viskade: Jag \u00e4r Bella.",
       "image": "images/page-2.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Bella was shy and had never made a friend before. Fifi sat down next to her and offered a sweet berry from her pocket.",
+      "text": "Bella var blyg och hade aldrig haft en v\u00e4n f\u00f6rut. Fifi satte sig bredvid henne och erbj\u00f6d ett s\u00f6tt b\u00e4r fr\u00e5n sin ficka.",
       "image": "images/page-3.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Bella smiled for the first time and shared a crunchy carrot with Fifi. They munched together and giggled about butterfly chases.",
+      "text": "Bella log f\u00f6r f\u00f6rsta g\u00e5ngen och delade en krispig morot med Fifi. De smaskade ihop och skrattade \u00e5t fj\u00e4rilsjakten.",
       "image": "images/page-4.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Would you like to be my friend? asked Fifi. Bella nodded happily and gave Fifi a gentle hug under the warm sunshine.",
+      "text": "Vill du vara min v\u00e4n? fr\u00e5gade Fifi. Bella nickade glatt och gav Fifi en mjuk kram i den varma solen.",
       "image": "images/page-5.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "From that day on, Fifi and Bella played together every day. They learned that friends make the world brighter and happier.",
+      "text": "Fr\u00e5n den dagen lekte Fifi och Bella tillsammans varje dag. De l\u00e4rde sig att v\u00e4nner g\u00f6r v\u00e4rlden ljusare och gladare.",
       "image": "images/page-6.png",
       "audio": null,
       "video": null
@@ -49,7 +49,7 @@
     ],
     "theme": "friendship",
     "targetAge": "1-5",
-    "wordCount": 138,
-    "generatedAt": "2026-04-07T21:06:29.665620"
+    "wordCount": 128,
+    "generatedAt": "2026-04-07T22:05:26.549671"
   }
 }
