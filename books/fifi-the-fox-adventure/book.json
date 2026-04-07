@@ -1,42 +1,42 @@
 {
   "id": "fifi-the-fox-adventure",
-  "title": "Fifi the Fox's Adventure Adventure",
-  "description": "Join Fifi the Fox on an exciting adventure adventure!",
+  "title": "Fifi och Brunos \u00e4ventyr",
+  "description": "Join Fifi the Fox on an exciting friendship adventure!",
   "coverColor": "6366f1",
-  "coverEmoji": "\ud83d\udcda",
+  "coverEmoji": "\ud83e\udd8a",
   "pages": [
     {
-      "text": "One sunny morning, Fifi the Fox woke up and saw Bruno the Bear at her door. \u201cLet\u2019s go on an adventure!\u201d said Fifi. Bruno smiled and nodded. Together they set off into the bright forest.",
+      "text": "En solig morgon vaknade Fifi r\u00e4ven och s\u00e5g Bruno bj\u00f6rn vid sin d\u00f6rr. V\u00e4lkommen! sa Fifi glatt. Vill du vara med p\u00e5 \u00e4ventyr?",
       "image": "images/page-1.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Fifi and Bruno followed a winding path. They heard chirping birds and rustling leaves. Soon they reached a sparkling stream. Fifi dipped her paw in the cool water. \u201cSo fresh!\u201d she laughed.",
+      "text": "Bruno log stort och de gick tillsammans l\u00e4ngs en krokig stig. De h\u00f6rde f\u00e5glar sjunga och s\u00e5g\u79fb blommor dansa i vinden.",
       "image": "images/page-2.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "The friends climbed a gentle hill. At the top stood a tall oak tree. Its branches swayed like a soft green sea. \u201cLet\u2019s climb up!\u201d cried Bruno. Fifi\u2019s eyes twinkled with excitement.",
+      "text": "V\u00e4nner f\u00f6ljde stigen upp till en liten kulle. D\u00e4r stod ett gammalt tr\u00e4d med massa r\u00f6da \u00e4pplen. Fifi plockade ett \u00e5t Bruno.",
       "image": "images/page-3.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "From the high branches they saw a meadow full of bright flowers. \u201cWhat a view!\u201d whispered Fifi. They spotted a tiny rabbit hopping by. Bruno waved a friendly paw, and the rabbit hopped away.",
+      "text": "Bruno tackade och de sprang ner f\u00f6r backen till en \u00e4ng full av fj\u00e4rilar. Fifi f\u00e5ngade en och Bruno skrattade.",
       "image": "images/page-4.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Later, Fifi and Bruno discovered a hidden garden bursting with berries. \u201cYummy!\u201d said Bruno. They picked a few, shared them together, and felt warm inside. The sun began to set, painting the sky pink.",
+      "text": "Senare hittade Fifi och Bruno en hemlig tr\u00e4dg\u00e5rd med glittrande stenar. De lekte d\u00e4r tills solen b\u00f6rjade g\u00e5 ner.",
       "image": "images/page-5.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Back at Fifi\u2019s cozy den, they yawned and snuggled. \u201cWhat a great adventure!\u201d whispered Bruno. Fifi smiled and said, \u201cLet\u2019s do it again tomorrow.\u201d They fell asleep under the twinkling stars.",
+      "text": "Tillbaka vid Fifis mysiga koja g\u00e4spade de och kurrade ihop. De lovade att vara v\u00e4nner f\u00f6r alltid. Godnatt!",
       "image": "images/page-6.png",
       "audio": null,
       "video": null
@@ -45,13 +45,11 @@
   "metadata": {
     "mainCharacter": "Fifi the Fox",
     "sideCharacters": [
-      "Bruno the Bear",
-      "--prompt",
-      "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of curiosity. Fluffy white-tipped tail. Small friendly appearance with soft rounded features. Children's book illustration style. Warm colors, soft edges, adorable and child-friendly. NO TEXT IN IMAGE."
+      "Bruno the Bear"
     ],
-    "theme": "adventure",
+    "theme": "friendship",
     "targetAge": "1-5",
-    "wordCount": 198,
-    "generatedAt": "2026-04-07T20:52:37.868292"
+    "wordCount": 123,
+    "generatedAt": "2026-04-07T22:07:46.016569"
   }
 }
