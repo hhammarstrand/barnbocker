@@ -1,0 +1,64 @@
+{
+  "id": "fifi-thankyou",
+  "title": "Fifi säger tack",
+  "description": "Fifi tackar alla sina vänner för deras hjälpsamhet och vänskap. En varm historia om tacksamhet.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "Fifi vaknade en morgon och tänkte på alla sina vänner. Bruno hade burit henne över floden. Bella hade delat sina karotter. Oliver hade lärt henne bokstäver. Och Milo... Milo hade gett henne en glädje i hjärtat.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Jag vill säga tack till alla!' sa Fifi glatt. Hon packade en liten korg med blommor och började sin resa.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Först kom Fifi till Brunos koja. 'Tack för att du bar mig över floden!' sa Fifi och gav Bruno en stor kram och en gul blomma.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan besökte Fifi Bella vid hennes hus. 'Tack för att du delade dina karotter!' sa Fifi och gav Bella en ros och en kram.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Oliver satt i sitt biblioteksträd och läste. 'Tack för att du lärde mig bokstäver!' sa Fifi och gav Oliver en vacker fjäder.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Till slut hittade Fifi Milo i skogen. 'Tack för att du var en så fin vän!' sa Fifi och de gav varandra en värmekram.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Alla Fifi:s vänner samlades i skogen och hade en liten fest. 'Tack för att ni finns!' sa Fifi. 'Att säga tack visar att man bryr sig!'",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear",
+      "Bella the Bunny",
+      "Oliver the Owl",
+      "Milo the Mouse"
+    ],
+    "theme": "gratitude",
+    "targetAge": "2-5",
+    "wordCount": 178,
+    "generatedAt": "2026-04-07T21:45:51.078369"
+  }
+}
