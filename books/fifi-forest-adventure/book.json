@@ -1,0 +1,55 @@
+{
+  "id": "fifi-forest-adventure",
+  "title": "Fifi Explores the Forest",
+  "description": "Join Fifi the Fox on an exciting adventure adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "One bright morning, Fifi the Fox woke up and decided to explore the big forest. She packed some snacks and waved goodbye to her family.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi walked past tall trees and heard a hoot from above. Oliver the Owl looked down and asked, Where are you going, little fox?",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "I am exploring the forest, said Fifi. Would you like to come? Oliver flew down and said, I know every tree here!",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Together they discovered a sparkling stream. Fifi drank cool water while Oliver pointed out colorful butterflies dancing nearby.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Oliver showed Fifi a hidden cave with beautiful paintings on the walls. Fifi gasped with wonder at the ancient art.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "As the sun set, Fifi and Oliver found a cozy hollow tree. They snuggled together and fell asleep under the twinkling stars.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Oliver the Owl"
+    ],
+    "theme": "adventure",
+    "targetAge": "1-5",
+    "wordCount": 131,
+    "generatedAt": "2026-04-07T21:04:13.653125"
+  }
+}
