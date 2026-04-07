@@ -1,42 +1,42 @@
 {
   "id": "fifi-forest-adventure",
-  "title": "Fifi Explores the Forest",
+  "title": "Fifi utforskar skogen",
   "description": "Join Fifi the Fox on an exciting adventure adventure!",
   "coverColor": "6366f1",
   "coverEmoji": "\ud83e\udd8a",
   "pages": [
     {
-      "text": "One bright morning, Fifi the Fox woke up and decided to explore the big forest. She packed some snacks and waved goodbye to her family.",
+      "text": "En solig morgon vaknade Fifi r\u00e4ven och best\u00e4mde sig f\u00f6r att utforska den stora skogen. Hon packade lite frukt och vinkade hejd\u00e5 till sin familj.",
       "image": "images/page-1.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Fifi walked past tall trees and heard a hoot from above. Oliver the Owl looked down and asked, Where are you going, little fox?",
+      "text": "Fifi gick f\u00f6rbi h\u00f6ga tr\u00e4d och h\u00f6rde ett hoande fr\u00e5n ovan. Oliver ugglan tittade ner och fr\u00e5gade: Var ska du g\u00e5, lilla r\u00e4v?",
       "image": "images/page-2.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "I am exploring the forest, said Fifi. Would you like to come? Oliver flew down and said, I know every tree here!",
+      "text": "Jag utforskar skogen, sa Fifi. Vill du f\u00f6lja med? Oliver fl\u00f6g ner och sa: Jag k\u00e4nner varje tr\u00e4d h\u00e4r!",
       "image": "images/page-3.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Together they discovered a sparkling stream. Fifi drank cool water while Oliver pointed out colorful butterflies dancing nearby.",
+      "text": "Tillsammans uppt\u00e4ckte de en glittrande b\u00e4ck. Fifi drack kallt vatten medan Oliver pekade p\u00e5 f\u00e4rgglada fj\u00e4rilar som dansade.",
       "image": "images/page-4.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Oliver showed Fifi a hidden cave with beautiful paintings on the walls. Fifi gasped with wonder at the ancient art.",
+      "text": "Oliver visade Fifi en g\u00f6mld grotta med vackra m\u00e5lningar p\u00e5 v\u00e4ggarna. Fifi h\u00e4pnade \u00f6ver konsten.",
       "image": "images/page-5.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "As the sun set, Fifi and Oliver found a cozy hollow tree. They snuggled together and fell asleep under the twinkling stars.",
+      "text": "N\u00e4r solen gick ner hittade Fifi och Oliver ett mysigt ih\u00e5ligt tr\u00e4d. De kurrade ihop och somnade under de glittrande stj\u00e4rnorna.",
       "image": "images/page-6.png",
       "audio": null,
       "video": null
@@ -49,7 +49,7 @@
     ],
     "theme": "adventure",
     "targetAge": "1-5",
-    "wordCount": 131,
-    "generatedAt": "2026-04-07T21:04:13.653125"
+    "wordCount": 121,
+    "generatedAt": "2026-04-07T22:01:56.129655"
   }
 }
