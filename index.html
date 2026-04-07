@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
-  <title>Fifi the Fox's Friendship Adventure</title>
+  <title>Barnböcker - Children's Books</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
     body {
@@ -11,171 +11,85 @@
       background: #1a1a2e;
       color: #fff;
       min-height: 100vh;
-      display: flex;
-      flex-direction: column;
+      padding: 20px;
     }
     .header {
-      background: #16213e;
-      padding: 16px 20px;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.3);
+      text-align: center;
+      padding: 40px 20px;
     }
     .header h1 {
-      font-size: 18px;
-      font-weight: 600;
+      font-size: 28px;
+      font-weight: 700;
+      margin-bottom: 8px;
     }
-    .page-indicator {
-      font-size: 14px;
+    .header p {
       color: #888;
+      font-size: 16px;
     }
-    .book-container {
-      flex: 1;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      padding: 20px;
-      max-width: 800px;
+    .book-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 24px;
+      max-width: 900px;
       margin: 0 auto;
-      width: 100%;
+      padding: 20px 0;
     }
-    .page {
-      background: #fff;
+    .book-card {
+      background: #16213e;
       border-radius: 16px;
       overflow: hidden;
-      box-shadow: 0 8px 32px rgba(0,0,0,0.4);
-      max-width: 100%;
-      width: 100%;
+      text-decoration: none;
+      color: inherit;
+      transition: transform 0.2s, box-shadow 0.2s;
     }
-    .page-image {
+    .book-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 12px 40px rgba(99, 102, 241, 0.3);
+    }
+    .book-card:active {
+      transform: scale(0.98);
+    }
+    .book-cover {
       width: 100%;
       aspect-ratio: 4/3;
       object-fit: cover;
       display: block;
     }
-    .page-text {
-      padding: 24px 20px;
-      color: #333;
-      font-size: 20px;
-      line-height: 1.6;
-      text-align: center;
-      min-height: 120px;
-    }
-    .nav-controls {
-      display: flex;
-      gap: 12px;
-      justify-content: center;
+    .book-info {
       padding: 20px;
-      background: #16213e;
     }
-    .nav-btn {
-      background: #6366f1;
-      color: white;
-      border: none;
-      padding: 14px 32px;
-      border-radius: 12px;
-      font-size: 16px;
+    .book-title {
+      font-size: 18px;
       font-weight: 600;
-      cursor: pointer;
-      min-width: 120px;
+      margin-bottom: 8px;
     }
-    .nav-btn:disabled {
-      opacity: 0.4;
-      cursor: not-allowed;
+    .book-description {
+      font-size: 14px;
+      color: #aaa;
+      line-height: 1.4;
     }
-    .nav-btn:active:not(:disabled) {
-      transform: scale(0.97);
-    }
-    .loading {
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      min-height: 300px;
-      color: #888;
+    .book-meta {
+      margin-top: 12px;
+      font-size: 12px;
+      color: #666;
     }
   </style>
 </head>
 <body>
   <div class="header">
-    <h1 id="bookTitle">Loading...</h1>
-    <span class="page-indicator" id="pageIndicator">- / -</span>
+    <h1>📚 Barnböcker</h1>
+    <p>Välj en bok att läsa</p>
   </div>
   
-  <div class="book-container">
-    <div class="page" id="pageContainer">
-      <div class="loading">Loading book...</div>
-    </div>
+  <div class="book-grid">
+    <a class="book-card" href="book-fifi.html">
+      <img class="book-cover" src="books/fifi-the-fox-adventure/cover.png" alt="Cover">
+      <div class="book-info">
+        <div class="book-title">Fifi the Fox's Friendship Adventure</div>
+        <div class="book-description">Join Fifi the Fox on an exciting friendship adventure!</div>
+        <div class="book-meta">6 pages • Ages 1-5</div>
+      </div>
+    </a>
   </div>
-  
-  <div class="nav-controls">
-    <button class="nav-btn" id="prevBtn" onclick="prevPage()">Previous</button>
-    <button class="nav-btn" id="nextBtn" onclick="nextPage()">Next</button>
-  </div>
-
-  <script>
-    const REPO = 'hhammarstrand/barnbocker';
-    const BRANCH = 'main';
-    const BOOK_PATH = 'books/fifi-the-fox-adventure';
-    const BASE_URL = `https://raw.githubusercontent.com/${REPO}/${BRANCH}/${BOOK_PATH}`;
-    
-    let bookData = null;
-    let currentPage = 0;
-
-    async function loadBook() {
-      try {
-        const res = await fetch(`${BASE_URL}/book.json`);
-        bookData = await res.json();
-        document.getElementById('bookTitle').textContent = bookData.title;
-        renderPage(0);
-      } catch (e) {
-        document.getElementById('pageContainer').innerHTML = 
-          '<div class="loading">Error loading book. Check your internet connection.</div>';
-      }
-    }
-
-    function renderPage(index) {
-      const page = bookData.pages[index];
-      let imgSrc;
-      
-      if (page.image) {
-        imgSrc = `${BASE_URL}/${page.image}`;
-      } else if (index === 0) {
-        imgSrc = `${BASE_URL}/cover.png`;
-      }
-      
-      let html = '';
-      if (imgSrc) {
-        html += `<img class="page-image" src="${imgSrc}" alt="Page ${index + 1}" onerror="this.style.display='none'">`;
-      }
-      html += `<div class="page-text">${page.text}</div>`;
-      
-      document.getElementById('pageContainer').innerHTML = html;
-      document.getElementById('pageIndicator').textContent = `${index + 1} / ${bookData.pages.length}`;
-      document.getElementById('prevBtn').disabled = index === 0;
-      document.getElementById('nextBtn').disabled = index === bookData.pages.length - 1;
-    }
-
-    function prevPage() {
-      if (currentPage > 0) {
-        currentPage--;
-        renderPage(currentPage);
-      }
-    }
-
-    function nextPage() {
-      if (currentPage < bookData.pages.length - 1) {
-        currentPage++;
-        renderPage(currentPage);
-      }
-    }
-
-    document.addEventListener('keydown', (e) => {
-      if (e.key === 'ArrowLeft') prevPage();
-      if (e.key === 'ArrowRight') nextPage();
-    });
-
-    loadBook();
-  </script>
 </body>
 </html>
