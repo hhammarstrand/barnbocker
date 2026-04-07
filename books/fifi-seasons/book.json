@@ -1,0 +1,49 @@
+{
+  "id": "fifi-seasons",
+  "title": "Årstider med Fifi och Bruno!",
+  "description": "Fifi Räven och Bruno Björnen upptäcker alla årstider tillsammans. Vår, sommar, höst och vinter - varje säsong är magisk!",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "Fifi Räven och Bruno Björnen går ut i skogen. Det är vår! Fifi ser blommor och fjärilar. De leker och är glada.",
+      "image": "images/page-1.png",
+      "audio": null
+    },
+    {
+      "text": "Nu är det sommar och solen skiner. Fifi och Bruno badar i sjön. De skrattar och plaskar i vattnet. Det är så roligt!",
+      "image": "images/page-2.png",
+      "audio": null
+    },
+    {
+      "text": "Hösten kommer med röda och gula löv. Fifi och Bruno samlar löv i fina färger. De bygger en hög och hoppar i den.",
+      "image": "images/page-3.png",
+      "audio": null
+    },
+    {
+      "text": "Nu är det vinter och snön faller. Fifi och Bruno bygger en snögubbe tillsammans. De ger den en stor glad glimt i ögonen.",
+      "image": "images/page-4.png",
+      "audio": null
+    },
+    {
+      "text": "Fifi och Bruno pratar om alla årstider. Varje årstid är fin och unik. De älskar vår, sommar, höst och vinter.",
+      "image": "images/page-5.png",
+      "audio": null
+    },
+    {
+      "text": "Fifi och Bruno är glada för alla årstider. Varje säsong är magisk och fylld med glädje. De ser fram emot nästa äventyr tillsammans.",
+      "image": "images/page-6.png",
+      "audio": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear"
+    ],
+    "theme": "seasons",
+    "targetAge": "2-5",
+    "wordCount": 86,
+    "generatedAt": "2026-04-07T12:28:30.722811"
+  }
+}

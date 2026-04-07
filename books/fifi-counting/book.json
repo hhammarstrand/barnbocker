@@ -1,0 +1,55 @@
+{
+  "id": "fifi-counting",
+  "title": "Counting with Fifi and Oliver",
+  "description": "Join Fifi the Fox and Oliver the Owl on a sunny meadow adventure as they count from one to five!",
+  "coverColor": "e67e22",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "Fifi the Fox and Oliver the Owl Count in the Sunny Meadow",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Look! One big red apple lies on the soft grass. Fifi and Oliver giggle with delight.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Two orange butterflies dance in the warm sunshine. 'Two!' shouts Fifi, clapping her tiny paws.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Three pink flowers sway gently beside a sparkling stream. 'Three!' says Oliver, his spectacles shining.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Four smooth grey pebbles sit in a sunny spot. 'Four!' chirps Fifi, picking one up.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Five golden dandelions flutter like little suns. 'Five!' they cheer, counting together with happy hearts.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Oliver the Owl"
+    ],
+    "theme": "counting",
+    "targetAge": "2-4",
+    "wordCount": 88,
+    "generatedAt": "2026-04-07T09:21:47.904780"
+  }
+}

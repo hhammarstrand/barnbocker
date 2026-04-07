@@ -1,0 +1,53 @@
+{
+  "id": "fifi-bedtime",
+  "title": "Goodnight, Fifi!",
+  "description": "Join Fifi the Fox on a cozy bedtime adventure. Follow her routine from pajamas to sweet dreams.",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83c\udf19",
+  "pages": [
+    {
+      "text": "Fifi snuggles into soft, star\u2011spangled pajamas, feeling warm and cozy like a blanket.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "She brushes tiny teeth with fruity toothpaste, making sparkly smiles before bedtime.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Mom reads a gentle story about sleepy clouds, and Fifi listens with wide eyes.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "A warm hug from Mom feels like sunshine, sealing safe dreams tonight.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "The den glows softly with a nightlight, giving comforting twilight until morning.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi drifts off, dreaming sweet dreams of fluffy clouds and twinkling stars.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [],
+    "theme": "bedtime",
+    "targetAge": "1-3",
+    "wordCount": 75,
+    "generatedAt": "2026-04-07T08:29:47.617156"
+  }
+}

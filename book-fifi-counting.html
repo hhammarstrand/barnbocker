@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Counting with Fifi and Oliver</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #1a1a2e; color: #fff; min-height: 100vh; display: flex; flex-direction: column; }
+    .header { background: #16213e; padding: 16px 20px; display: flex; align-items: center; justify-content: space-between; }
+    .header h1 { font-size: 18px; font-weight: 600; }
+    .page-indicator { font-size: 14px; color: #888; }
+    .book-container { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; max-width: 800px; margin: 0 auto; width: 100%; }
+    .page { background: #fff; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.4); max-width: 100%; width: 100%; display: none; }
+    .page.active { display: block; }
+    .page img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; }
+    .page-text { padding: 24px 20px; color: #333; font-size: 20px; line-height: 1.6; text-align: center; }
+    .nav-controls { display: flex; gap: 12px; justify-content: center; padding: 20px; background: #16213e; }
+    .nav-btn { background: #e67e22; color: white; border: none; padding: 14px 32px; border-radius: 12px; font-size: 16px; font-weight: 600; cursor: pointer; min-width: 120px; }
+    .nav-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .nav-btn:active:not(:disabled) { transform: scale(0.97); }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Counting with Fifi and Oliver</h1>
+    <span class="page-indicator" id="pageIndicator">1 / 6</span>
+  </div>
+  <div class="book-container">
+    <div class="page active" id="page0">
+      <img src="books/fifi-counting/images/page-1.png" alt="Page 1">
+      <div class="page-text">Fifi the Fox and Oliver the Owl Count in the Sunny Meadow</div>
+    </div>
+    <div class="page" id="page1">
+      <img src="books/fifi-counting/images/page-2.png" alt="Page 2">
+      <div class="page-text">Look! One big red apple lies on the soft grass. Fifi and Oliver giggle with delight.</div>
+    </div>
+    <div class="page" id="page2">
+      <img src="books/fifi-counting/images/page-3.png" alt="Page 3">
+      <div class="page-text">Two orange butterflies dance in the warm sunshine. 'Two!' shouts Fifi, clapping her tiny paws.</div>
+    </div>
+    <div class="page" id="page3">
+      <img src="books/fifi-counting/images/page-4.png" alt="Page 4">
+      <div class="page-text">Three pink flowers sway gently beside a sparkling stream. 'Three!' says Oliver, his spectacles shining.</div>
+    </div>
+    <div class="page" id="page4">
+      <img src="books/fifi-counting/images/page-5.png" alt="Page 5">
+      <div class="page-text">Four smooth grey pebbles sit in a sunny spot. 'Four!' chirps Fifi, picking one up.</div>
+    </div>
+    <div class="page" id="page5">
+      <img src="books/fifi-counting/images/page-6.png" alt="Page 6">
+      <div class="page-text">Five golden dandelions flutter like little suns. 'Five!' they cheer, counting together with happy hearts.</div>
+    </div>
+  </div>
+  <div class="nav-controls">
+    <button class="nav-btn" id="prevBtn" onclick="prevPage()">Previous</button>
+    <button class="nav-btn" id="nextBtn" onclick="nextPage()">Next</button>
+  </div>
+  <script>
+    const totalPages = 6;
+    let currentPage = 0;
+    const pages = document.querySelectorAll('.page');
+
+    function showPage(index) {
+      pages.forEach((p, i) => p.classList.toggle('active', i === index));
+      document.getElementById('pageIndicator').textContent = `${index + 1} / ${totalPages}`;
+      document.getElementById('prevBtn').disabled = index === 0;
+      document.getElementById('nextBtn').disabled = index === totalPages - 1;
+    }
+
+    function prevPage() { if (currentPage > 0) showPage(--currentPage); }
+    function nextPage() { if (currentPage < totalPages - 1) showPage(++currentPage); }
+
+    document.addEventListener('keydown', (e) => {
+      if (e.key === 'ArrowLeft') prevPage();
+      if (e.key === 'ArrowRight') nextPage();
+    });
+
+    showPage(0);
+  </script>
+</body>
+</html>

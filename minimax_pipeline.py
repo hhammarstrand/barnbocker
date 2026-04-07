@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+import base64
 import json
 import os
 import sys
@@ -55,7 +56,7 @@ Example format:
         
         return json.loads(content.strip())
 
-    def generate_image(self, text, character_prompt, page_num):
+    def generate_image(self, text, character_prompt, page_num, use_base64=False):
         prompt = f"""{character_prompt}
 
 Children's book illustration for page {page_num}:
@@ -63,18 +64,25 @@ Scene: {text}
 
 Style: Warm, colorful children's book illustration with soft edges, friendly characters, and engaging backgrounds. Suitable for ages 1-5."""
         
+        payload = {
+            "model": "image-01",
+            "prompt": prompt
+        }
+        if use_base64:
+            payload["response_format"] = "base64"
+        
         response = requests.post(
             f"{MINIMAX_API_BASE}/image_generation",
             headers=self.headers,
-            json={
-                "model": "image-01",
-                "prompt": prompt
-            },
+            json=payload,
             timeout=120
         )
         response.raise_for_status()
         result = response.json()
-        return result["data"][0]["url"]
+        if use_base64:
+            image_data = base64.b64decode(result["data"]["image_base64"][0])
+            return image_data
+        return result["data"]["image_urls"][0]
 
     def generate_audio(self, text, voice_id="female-tianmei"):
         response = requests.post(
@@ -85,9 +93,9 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
                 "text": text,
                 "voice_setting": {
                     "voice_id": voice_id,
-                    "speed": 0.85,
-                    "volume": 1.0,
-                    "pitch": 1.1
+                    "speed": 85,
+                    "volume": 100,
+                    "pitch": 11
                 }
             },
             timeout=60
@@ -132,13 +140,15 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
             
             if character_prompt:
                 try:
-                    image_url = self.generate_image(
+                    image_data = self.generate_image(
                         page["text"], 
                         character_prompt, 
-                        i
+                        i,
+                        use_base64=True
                     )
                     page["image"] = f"images/page-{i}.png"
-                    self._download_file(image_url, images_dir / f"page-{i}.png")
+                    with open(images_dir / f"page-{i}.png", "wb") as f:
+                        f.write(image_data)
                     print(f"    Image saved: page-{i}.png")
                 except Exception as e:
                     print(f"    Image generation failed: {e}")
@@ -187,7 +197,7 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
         return book_data
 
     def _download_file(self, url, path):
-        response = requests.get(url, headers=self.headers)
+        response = requests.get(url)
         response.raise_for_status()
         with open(path, "wb") as f:
             f.write(response.content)

@@ -1,0 +1,59 @@
+{
+  "id": "fifi-sharing",
+  "title": "Dela med sig med Fifi och Bella!",
+  "description": "Fifi r\u00e4ven och Bella kaninen l\u00e4r sig vikten av att dela med sig. En varm och uppmuntrande historia om v\u00e4nskap och generositet.",
+  "coverColor": "E67E22",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "I den lilla skogen bodde Fifi, en sn\u00e4ll orange r\u00e4v, och Bella, en mjuk rosa-vit kanin. De var b\u00e4sta v\u00e4nner och \u00e4lskade att leka tillsammans.",
+      "image": "images/page-1.png",
+      "audio": null
+    },
+    {
+      "text": "En dag gick Fifi r\u00e4ven och Bella kaninen ut i skogen. De hittade en stor, r\u00f6d \u00e4pple.",
+      "image": "images/page-2.png",
+      "audio": null
+    },
+    {
+      "text": "Fifi ville ha \u00e4pplet sj\u00e4lv, men Bella log och sa: 'Vi kan dela!'",
+      "image": "images/page-3.png",
+      "audio": null
+    },
+    {
+      "text": "De delade \u00e4pplet i tv\u00e5 bitar. Det smakade s\u00f6tare n\u00e4r de \u00e5t tillsammans.",
+      "image": "images/page-4.png",
+      "audio": null
+    },
+    {
+      "text": "Sedan hittade de en gammal boll i gr\u00e4set. Fifi rullade bollen mot Bella. De rullade bollen fram och tillbaka, skrattade h\u00f6gt och fick fler id\u00e9er f\u00f6r lek.",
+      "image": "images/page-5.png",
+      "audio": null
+    },
+    {
+      "text": "Bella kastade bollen tillbaka till Fifi. De skrattade och lekte l\u00e4nge.",
+      "image": "images/page-6.png",
+      "audio": null
+    },
+    {
+      "text": "N\u00e4r solen gick ner sa Fifi: 'Tack f\u00f6r att du delade, Bella. Du g\u00f6r mig glad!'",
+      "image": "images/page-7.png",
+      "audio": null
+    },
+    {
+      "text": "N\u00e4r de kom hem, sa de till varandra: 'Att dela g\u00f6r oss glada och g\u00f6r v\u00e5ra hj\u00e4rtan varma. Vi ska alltid dela med varandra!' Sedan sov de godnattsagor och dr\u00f6mde om fler \u00e4ventyr tillsammans.",
+      "image": "images/page-8.png",
+      "audio": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bella the Bunny"
+    ],
+    "theme": "sharing",
+    "targetAge": "2-5",
+    "wordCount": 156,
+    "generatedAt": "2026-04-07T11:20:00.000Z"
+  }
+}
