@@ -1,0 +1,55 @@
+{
+  "id": "fifi-new-friend",
+  "title": "Fifi Makes a New Friend",
+  "description": "Join Fifi the Fox on an exciting friendship adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "Fifi was playing alone near the meadow when she heard a soft rustling in the tall grass. A tiny gray bunny peeked out with big shiny eyes.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Hello, said Fifi with a warm smile. I am Fifi. What is your name? The bunny trembled slightly and whispered, I am Bella.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Bella was shy and had never made a friend before. Fifi sat down next to her and offered a sweet berry from her pocket.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Bella smiled for the first time and shared a crunchy carrot with Fifi. They munched together and giggled about butterfly chases.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Would you like to be my friend? asked Fifi. Bella nodded happily and gave Fifi a gentle hug under the warm sunshine.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "From that day on, Fifi and Bella played together every day. They learned that friends make the world brighter and happier.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bella the Bunny"
+    ],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 138,
+    "generatedAt": "2026-04-07T21:06:29.665620"
+  }
+}
