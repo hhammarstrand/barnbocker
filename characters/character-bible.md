@@ -1,4 +1,19 @@
 # Character Bible - Fifi the Fox
+*Version 2.0 — Updated by Creative Director, April 2026*
+
+## Age Group Guidance
+
+This bible serves stories for children aged **1–5 years**. Writing and visual tone should adapt by sub-range:
+
+| Age | Language | Story complexity | Fifi's role |
+|-----|----------|-----------------|-------------|
+| 1–2 | 3–5 words per sentence, max 60 words per book | Single action per page, repetition key | Fifi does one thing, reacts simply |
+| 3–4 | 5–8 words per sentence, max 100 words | Two-step events, mild cause and effect | Fifi solves a small problem |
+| 4–5 | 8–12 words per sentence, max 150 words | Beginning/middle/end, simple emotion arc | Fifi learns something meaningful |
+
+**Target sweet-spot:** 80–140 words total, 5–8 words per page text block.
+
+---
 
 ## Main Character: Fifi the Fox
 
@@ -6,7 +21,7 @@
 
 **Name:** Fifi the Fox  
 **Species:** Red Fox (Vulpes vulpes)  
-**Age:** Young (child equivalent, approximately 4-5 years old in personality)  
+**Age:** Young (child equivalent, approximately 3–4 years old in personality)  
 **Personality:** Curious, friendly, adventurous, kind-hearted, playful  
 **Catchphrase:** "What shall we discover today?"
 
@@ -107,21 +122,44 @@ Children's book celebration illustration with warm cheerful colors.
 
 ### Bruno the Bear
 
-**Appearance:** Large, friendly brown bear with soft fur  
-**Personality:** Gentle giant, protective, enjoys nature  
+**Appearance:** Large, warm brown bear with round belly, soft fur, and a kind smile  
+**Color palette:** #8B5E3C (warm brown), #F5DEB3 (muzzle/chest cream), #2C3E50 (eyes)  
+**Personality:** Gentle giant, protective, enjoys nature, loves honey  
 **Relationship to Fifi:** Best friend and big brother figure  
+**Story role:** The helper — introduces patience, size vs. gentleness, nurturing  
 
 ### Bella the Bunny
 
-**Appearance:** Small grey rabbit with long ears and fluffy tail  
-**Personality:** Shy but sweet, loves carrots and flowers  
+**Appearance:** Small pale-grey rabbit with long ears, fluffy white tail, pink inner ears  
+**Color palette:** #D3D3D3 (grey), #FFFFFF (tail/belly), #FFB6C1 (inner ears, nose)  
+**Personality:** Shy but sweet, loves carrots and flowers, blushes easily  
 **Relationship to Fifi:** Close friend and neighbor  
+**Story role:** The timid friend — introduces courage, overcoming shyness, kindness  
 
 ### Oliver the Owl
 
-**Appearance:** Wise-looking owl with spectacles and fluffy feathers  
-**Personality:** Knows many things, speaks slowly, very kind  
+**Appearance:** Round, fluffy owl with warm tan/brown feathers, big round spectacles, a wise tuft  
+**Color palette:** #C8A96E (tan), #FFFFFF (chest), #8B5E3C (wing tips), gold spectacle frames  
+**Personality:** Knows many things, speaks slowly and warmly, never condescending  
 **Relationship to Fifi:** Mentor and friend  
+**Story role:** The guide — introduces learning, counting, letters, nature facts (age-appropriate)  
+
+---
+
+## Emotional Expression Rules
+
+For all characters, only use these emotion categories in illustrations:
+
+| Emotion | Visual cue |
+|---------|-----------|
+| Happy | Big smile, eyes curved up, arms wide |
+| Curious | Head tilted, one eyebrow raised, eyes open wide |
+| Surprised | Round eyes, small "o" mouth, ears perked |
+| Shy/nervous | Hands together, head slightly down, small smile |
+| Sleepy | Half-closed eyes, soft smile, drooping ears |
+| Proud | Chest out, big grin, tail up |
+
+**Never use:** fear/terror, anger, sadness without resolution, or any expression that could feel threatening to a 1–5 year old.
 
 ---
 
