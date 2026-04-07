@@ -1,42 +1,42 @@
 {
   "id": "fifi-counting",
-  "title": "Counting with Fifi and Oliver",
-  "description": "Join Fifi the Fox and Oliver the Owl on a sunny meadow adventure as they count from one to five!",
-  "coverColor": "e67e22",
+  "title": "R\u00e4kna med Fifi och Oliver",
+  "description": "Join Fifi the Fox on an exciting counting adventure!",
+  "coverColor": "6366f1",
   "coverEmoji": "\ud83e\udd8a",
   "pages": [
     {
-      "text": "Fifi the Fox and Oliver the Owl Count in the Sunny Meadow",
+      "text": "Fifi r\u00e4ven och Oliver ugglan satt i ett stort \u00e4ppeltr\u00e4d. Ett \u00e4pple, sa Fifi och pekade p\u00e5 ett r\u00f6tt \u00e4pple.",
       "image": "images/page-1.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Look! One big red apple lies on the soft grass. Fifi and Oliver giggle with delight.",
+      "text": "Titta! Sa Oliver. D\u00e4r \u00e4r tv\u00e5 fj\u00e4rilar! De fladdrade runt FIFI och Oliver. Tv\u00e5 sm\u00e5 fj\u00e4rilar.",
       "image": "images/page-2.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Two orange butterflies dance in the warm sunshine. 'Two!' shouts Fifi, clapping her tiny paws.",
+      "text": "Tre gula f\u00e5glar fl\u00f6g f\u00f6rbi. Fifi r\u00e4knade: Ett, tv\u00e5, tre! Oliver hoade: Tre sm\u00e5 f\u00e5glar!",
       "image": "images/page-3.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Three pink flowers sway gently beside a sparkling stream. 'Three!' says Oliver, his spectacles shining.",
+      "text": "Fifi s\u00e5g fyra vackra blommor: en rosa, en r\u00f6d, en lila och en gul. Vilken fin bukett, sa Oliver.",
       "image": "images/page-4.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Four smooth grey pebbles sit in a sunny spot. 'Four!' chirps Fifi, picking one up.",
+      "text": "Fem-myran kravlade f\u00f6rbi. Fifi och Oliver r\u00e4knade: En, tv\u00e5, tre, fyra, fem! Myran vinkade hejd\u00e5.",
       "image": "images/page-5.png",
       "audio": null,
       "video": null
     },
     {
-      "text": "Five golden dandelions flutter like little suns. 'Five!' they cheer, counting together with happy hearts.",
+      "text": "Sex stj\u00e4rnor t\u00e4ndes p\u00e5 himlen. Nu \u00e4r det sovdags, sa Fifi. Godnatt, Oliver. Godnatt, Fifi, sa Oliver.",
       "image": "images/page-6.png",
       "audio": null,
       "video": null
@@ -48,8 +48,8 @@
       "Oliver the Owl"
     ],
     "theme": "counting",
-    "targetAge": "2-4",
-    "wordCount": 88,
-    "generatedAt": "2026-04-07T09:21:47.904780"
+    "targetAge": "1-5",
+    "wordCount": 102,
+    "generatedAt": "2026-04-07T22:12:51.603337"
   }
 }
