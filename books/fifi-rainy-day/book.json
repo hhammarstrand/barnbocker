@@ -1,0 +1,61 @@
+{
+  "id": "fifi-rainy-day",
+  "title": "Fifi och den magiska regndagen",
+  "description": "En regnig dag blir magisk n\u00e4r Bruno bj\u00f6rnen kommer p\u00e5 bes\u00f6k! Fifi och Bruno hittar p\u00e5 underbara inomhuslekar.",
+  "coverColor": "E67E22",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "Fifi vaknade en regnig morgon och tittade ut genom f\u00f6nstret. Dropparna f\u00f6ll fr\u00e5n himlen och Fifi suckade: 'Jag vill g\u00e5 ut och leka!'",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi var s\u00e5 uttr\u00e5kad och undrade vad hon skulle g\u00f6ra p\u00e5 hela dagen utan sina v\u00e4nner.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "PL\u00d6TSLIGEN h\u00f6rde Fifi en dunk p\u00e5 d\u00f6rren. Det var Bruno bj\u00f6rnen! 'F\u00e5r jag komma in?' fr\u00e5gade han glatt.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Ja, ja, kom in!' ropade Fifi och hennes \u00f6gon lyste upp. Bruno hade en stor kartong med t\u00e4cka och kuddar!",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Tillsammans byggde de en mysig fort i vardagsrummet. 'Nu har vi v\u00e5rt eget litet hus!' sa Fifi glatt.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De ritade fina bilder, lagade leksaksmat i k\u00f6ket och hade j\u00e4ttekul. Regnet utanf\u00f6r gjorde ingenting!",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Till slut somnade Fifi och Bruno i sin mjuka fort, tr\u00f6tta men glada. 'Regniga dagar \u00e4r magiska!' viskade Fifi.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear"
+    ],
+    "theme": "rainy-day",
+    "targetAge": "2-4",
+    "wordCount": 131,
+    "generatedAt": "2026-04-07T21:32:28.918382"
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "id": "fifi-brave",
+  "title": "Fifi är modig!",
+  "description": "Fifi räven och Bella kaninen lär sig att känna rädsla är okej — man kan alltid försöka. En varm historia om mod och vänskap.",
+  "coverColor": "E67E22",
+  "coverEmoji": "\ud83e\udd8a",
+  "pages": [
+    {
+      "text": "Fifi räven bodde vid en liten kulle med ett gungligt bro över en porlande bäck, ibland rädd men modig.",
+      "image": "images/page-1.png",
+      "audio": null
+    },
+    {
+      "text": "En dag kom Bella kaninen till kullen och såg den vackra men skakiga bron och blev nervös.",
+      "image": "images/page-2.png",
+      "audio": null
+    },
+    {
+      "text": "Fifi märkte Bellas oro och kände en rysning, men hon tog ett djupt andetag och bestämde sig för att försöka.",
+      "image": "images/page-3.png",
+      "audio": null
+    },
+    {
+      "text": "Med bävan steg Fifi på bron, rörde sig långsamt och ropade glatt när hon nådde andra sidan.",
+      "image": "images/page-4.png",
+      "audio": null
+    },
+    {
+      "text": "Bella såg Fifi klara bron, tog mod till sig, andades djupt och följde försiktigt efter, fnissade av lättnad.",
+      "image": "images/page-5.png",
+      "audio": null
+    },
+    {
+      "text": "Tillsammans stod de på kullen och insåg: att känna rädsla är okej – man kan alltid försöka igen.",
+      "image": "images/page-6.png",
+      "audio": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bella the Bunny"
+    ],
+    "theme": "bravery",
+    "targetAge": "3-5",
+    "wordCount": 109,
+    "generatedAt": "2026-04-07T21:15:00.000Z"
+  }
+}
