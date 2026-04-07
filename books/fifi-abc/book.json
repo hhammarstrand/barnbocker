@@ -1,0 +1,55 @@
+{
+  "id": "fifi-abc",
+  "title": "ABCs with Fifi and Oliver",
+  "description": "Join Fifi the Fox and Oliver the Owl on an alphabet adventure in Oliver's magical library tree!",
+  "coverColor": "e67e22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "Fifi the Fox visits Oliver's Library Tree. Oliver the Owl has big colorful letter cards. 'Welcome, little fox! Today we learn our ABCs!'",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'A is for Acorn!' says Oliver, pointing to a big brown acorn. 'B is for Butterfly!' Fifi flaps her tiny paws like wings.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'C is for Caterpillar!' chirps Fifi. 'D is for Duck!' quacks Oliver. They wiggle and waddle, laughing with joy.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'E is for Elephant!' rumbles Oliver. 'F is for Flower!' giggles Fifi. They stomp and smell the pretty petals.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'G is for Goat!' says Fifi. 'H is for House!' adds Oliver. They pretend to climb and build with happy smiles.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Oliver and Fifi sing their ABCs together. 'A, B, C, D, E, F, G, H!' they cheer. Learning letters is the best adventure!",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Oliver the Owl"
+    ],
+    "theme": "alphabet",
+    "targetAge": "3-5",
+    "wordCount": 128,
+    "generatedAt": "2026-04-07T21:12:08.218907"
+  }
+}
