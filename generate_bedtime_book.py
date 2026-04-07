@@ -18,29 +18,29 @@ book_dir = Path(f"books/{book_id}")
 images_dir = book_dir / "images"
 images_dir.mkdir(parents=True, exist_ok=True)
 
-prompt = """Write a short bedtime story for ages 1-3.
+prompt = """Skriv en kort godnattsaga för barn 1-3 år.
 
-Main character: Fifi the Fox (a cute baby red fox with bright orange fur and cream-colored belly and snout, large expressive dark eyes, fluffy white-tipped tail)
+Huvudkaraktär: Fifi Räven (en söt baby-räv med lysande orange päls och gräddfärgad mage och nos, stora uttrycksfulla mörka ögon, luftig vitippat svans)
 
-Theme: Bedtime routine
+Tema: Godnatt rutin
 
-Write about Fifi going through her bedtime routine step by step in a cozy fox den:
-1. Putting on cozy star-patterned pajamas
-2. Brushing teeth with a fruity toothpaste
-3. Listening to a bedtime story
-4. Getting a warm goodnight hug from Mom
-5. Turning off the light with a soft glow nightlight
-6. Falling asleep and dreaming sweet dreams
+Skriv om Fifi som går igenom hennes godnattrutin steg för steg i en mysig rävlya:
+1. Tar på sig mysiga stjärnmönstrade pyjamas
+2. Borstar tänder med fruktig tandkräm
+3. Lyssnar på en godnatt-saga
+4. Får en varm godnatt-kram av Mamma
+5. Stänger av lampan med ett mjukt skenande nattljus
+6. Somnar och drömmer söta drömmar
 
-Requirements:
-- Exactly 6 pages total (one for each step above)
-- Each page: 10-20 words (very simple for ages 1-3)
-- Use soft, sleepy, warm language
-- Positive and cozy feeling - bedtime is safe and wonderful
-- Return ONLY valid JSON, no markdown or extra text
+Krav:
+- Exakt 6 sidor totalt (en för varje steg ovan)
+- Varje sida: 10-20 ord (väldigt enkelt för barn 1-3 år)
+- Använd mjukt, sömning, varmt språk
+- Positiv och mysig känsla - godnatt är tryggt och underbart
+- Returnera ENDAST giltig JSON, inga markdown eller extra text
 
 Format:
-{"pages": [{"text": "Page 1 text..."}, {"text": "Page 2 text..."}]}"""
+{"pages": [{"text": "Sida 1 text..."}, {"text": "Sida 2 text..."}]}"""
 
 print("Generating bedtime story text...")
 response = requests.post(
@@ -132,8 +132,8 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
 
 book_data = {
     "id": book_id,
-    "title": "Goodnight, Fifi!",
-    "description": "Join Fifi the Fox on a cozy bedtime adventure. Follow her routine from pajamas to sweet dreams.",
+    "title": "Godnatt, Fifi!",
+    "description": "Följ med Fifi Räven på en mysig godnattäventyr. Följ hennes rutin från pyjamas till söta drömmar.",
     "coverColor": "6366f1",
     "coverEmoji": "🌙",
     "pages": generated_pages,
