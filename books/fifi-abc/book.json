@@ -1,45 +1,39 @@
 {
   "id": "fifi-abc",
-  "title": "ABCs with Fifi and Oliver",
-  "description": "Join Fifi the Fox and Oliver the Owl on an alphabet adventure in Oliver's magical library tree!",
+  "title": "ABC med Fifi och Oliver",
+  "description": "H\u00e4ng med Fifi r\u00e4ven och Oliver ugglan p\u00e5 ett alfabet-\u00e4ventyr i Olivers magiska bibliotekstr\u00e4d!",
   "coverColor": "e67e22",
-  "coverEmoji": "🦊",
+  "coverEmoji": "\ud83e\udd8a",
   "pages": [
     {
-      "text": "Fifi the Fox visits Oliver's Library Tree. Oliver the Owl has big colorful letter cards. 'Welcome, little fox! Today we learn our ABCs!'",
-      "image": "images/page-1.png",
-      "audio": null,
-      "video": null
+      "text": "Fifi r\u00e4ven h\u00e4lsar p\u00e5 Oliver ugglan i hans bibliotekstr\u00e4d. Oliver har stora f\u00e4rgglada bokstavskort. 'V\u00e4lkommen, lilla r\u00e4ven! Idag l\u00e4r vi oss ABC!'",
+      "scene": "Inside a cozy tree trunk library with books everywhere. A cute baby red fox and a wise owl with round spectacles sit together. Warm golden lamplight. Soft watercolor children's book style.",
+      "image": "images/page-1.png"
     },
     {
-      "text": "'A is for Acorn!' says Oliver, pointing to a big brown acorn. 'B is for Butterfly!' Fifi flaps her tiny paws like wings.",
-      "image": "images/page-2.png",
-      "audio": null,
-      "video": null
+      "text": "'A \u00e4r f\u00f6r Ekollon!' s\u00e4ger Oliver och pekar p\u00e5 en stor brun ekollon. 'B \u00e4r f\u00f6r Fj\u00e4ril!' Fifi flaxar med sina sm\u00e5 tassar som vingar.",
+      "scene": "A cute red fox and a spectacled owl looking at colorful letter cards. A big brown acorn and a beautiful orange butterfly appear in magical sparkles around them. Warm storybook illustration.",
+      "image": "images/page-2.png"
     },
     {
-      "text": "'C is for Caterpillar!' chirps Fifi. 'D is for Duck!' quacks Oliver. They wiggle and waddle, laughing with joy.",
-      "image": "images/page-3.png",
-      "audio": null,
-      "video": null
+      "text": "'C \u00e4r f\u00f6r Fj\u00e4ril!' kvittrar Fifi. 'D \u00e4r f\u00f6r Anka!' s\u00e4ger Oliver. De vickar och vankar och skrattar av gl\u00e4dje.",
+      "scene": "A playful red fox and an owl with spectacles acting out letters C and D. A green caterpillar and a yellow duck float nearby in magical sparkles. Cozy children's book illustration.",
+      "image": "images/page-3.png"
     },
     {
-      "text": "'E is for Elephant!' rumbles Oliver. 'F is for Flower!' giggles Fifi. They stomp and smell the pretty petals.",
-      "image": "images/page-4.png",
-      "audio": null,
-      "video": null
+      "text": "'E \u00e4r f\u00f6r Elefant!' mullrar Oliver. 'F \u00e4r f\u00f6r Blomma!' fnissar Fifi. De stoltserar och doftar p\u00e5 de vackra kronbladen.",
+      "scene": "A red fox and an owl playing with letters E and F. A cute small grey elephant and a pink flower appear in golden sparkles. Warm soft watercolor illustration.",
+      "image": "images/page-4.png"
     },
     {
-      "text": "'G is for Goat!' says Fifi. 'H is for House!' adds Oliver. They pretend to climb and build with happy smiles.",
-      "image": "images/page-5.png",
-      "audio": null,
-      "video": null
+      "text": "'G \u00e4r f\u00f6r Get!' s\u00e4ger Fifi. 'H \u00e4r f\u00f6r Hus!' l\u00e4gger Oliver till. De l\u00e5tsas kl\u00e4ttra och bygga med glada leenden.",
+      "scene": "A red fox and a spectacled owl having fun with letters G and H. A friendly goat and a cozy cottage appear in magical sparkles. Warm children's book style.",
+      "image": "images/page-5.png"
     },
     {
-      "text": "Oliver and Fifi sing their ABCs together. 'A, B, C, D, E, F, G, H!' they cheer. Learning letters is the best adventure!",
-      "image": "images/page-6.png",
-      "audio": null,
-      "video": null
+      "text": "Oliver och Fifi sjunger ABC tillsammans. 'A, B, C, D, E, F, G, H!' jublar de. Att l\u00e4ra sig bokst\u00e4ver \u00e4r det b\u00e4sta \u00e4ventyret!",
+      "scene": "A happy red fox and a wise owl celebrating with big smiles. Colorful letter cards float around them like magic. Warm golden light. Soft cozy storybook illustration.",
+      "image": "images/page-6.png"
     }
   ],
   "metadata": {
@@ -49,7 +43,7 @@
     ],
     "theme": "alphabet",
     "targetAge": "3-5",
-    "wordCount": 128,
-    "generatedAt": "2026-04-07T21:12:08.218907"
+    "wordCount": 132,
+    "generatedAt": "2026-04-08T07:51:33.171929+00:00"
   }
 }
