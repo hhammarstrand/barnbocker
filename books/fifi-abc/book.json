@@ -1,39 +1,57 @@
 {
   "id": "fifi-abc",
-  "title": "ABC med Fifi och Oliver",
-  "description": "H\u00e4ng med Fifi r\u00e4ven och Oliver ugglan p\u00e5 ett alfabet-\u00e4ventyr i Olivers magiska bibliotekstr\u00e4d!",
-  "coverColor": "e67e22",
-  "coverEmoji": "\ud83e\udd8a",
+  "title": "Bokstäver med Fifi och Oliver",
+  "description": "Fifi och Oliver utforskar alfabetet i det magiska biblioteksträdet!",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
   "pages": [
     {
-      "text": "Fifi r\u00e4ven h\u00e4lsar p\u00e5 Oliver ugglan i hans bibliotekstr\u00e4d. Oliver har stora f\u00e4rgglada bokstavskort. 'V\u00e4lkommen, lilla r\u00e4ven! Idag l\u00e4r vi oss ABC!'",
-      "scene": "Inside a cozy tree trunk library with books everywhere. A cute baby red fox and a wise owl with round spectacles sit together. Warm golden lamplight. Soft watercolor children's book style.",
-      "image": "images/page-1.png"
+      "text": "Fifi räven och Oliver ugglan klättrar in i biblioteksträdet. Där finns en stor bok med bokstäverna A, B, C.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
     },
     {
-      "text": "'A \u00e4r f\u00f6r Ekollon!' s\u00e4ger Oliver och pekar p\u00e5 en stor brun ekollon. 'B \u00e4r f\u00f6r Fj\u00e4ril!' Fifi flaxar med sina sm\u00e5 tassar som vingar.",
-      "scene": "A cute red fox and a spectacled owl looking at colorful letter cards. A big brown acorn and a beautiful orange butterfly appear in magical sparkles around them. Warm storybook illustration.",
-      "image": "images/page-2.png"
+      "text": "De vänder bladet och hittar D som dov, E som ekorre, F som fisk. Oliver läser högt, Fifi skrattar och pekar på varje djur.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
     },
     {
-      "text": "'C är för Citron!' kvittrar Fifi. 'D är för Anka!' säger Oliver. De vickar och vankar och skrattar av glädje.",
-      "scene": "A playful red fox and an owl with spectacles acting out letters C and D. A bright yellow lemon and a yellow duck float nearby in magical sparkles. Cozy children's book illustration.",
-      "image": "images/page-3.png"
+      "text": "Nu visas bokstäverna G, H, I, J. G för guld, H för hjärta, I för is, J för juice. Oliver pekar och Fifi smakar.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
     },
     {
-      "text": "'E \u00e4r f\u00f6r Elefant!' mullrar Oliver. 'F \u00e4r f\u00f6r Blomma!' fnissar Fifi. De stoltserar och doftar p\u00e5 de vackra kronbladen.",
-      "scene": "A red fox and an owl playing with letters E and F. A cute small grey elephant and a pink flower appear in golden sparkles. Warm soft watercolor illustration.",
-      "image": "images/page-4.png"
+      "text": "På nästa blad finns K, L, M. K för katt, L för ljus, M för mus. Fifi rör vid pälsen och Oliver läser högt.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
     },
     {
-      "text": "'G \u00e4r f\u00f6r Get!' s\u00e4ger Fifi. 'H \u00e4r f\u00f6r Hus!' l\u00e4gger Oliver till. De l\u00e5tsas kl\u00e4ttra och bygga med glada leenden.",
-      "scene": "A red fox and a spectacled owl having fun with letters G and H. A friendly goat and a cozy cottage appear in magical sparkles. Warm children's book style.",
-      "image": "images/page-5.png"
+      "text": "Nu kommer bokstäverna N, O, P. N för näsa, O för ost, P för panda. Oliver tar fram en bok och Fifi dansar.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
     },
     {
-      "text": "Oliver och Fifi sjunger ABC tillsammans. 'A, B, C, D, E, F, G, H!' jublar de. Att l\u00e4ra sig bokst\u00e4ver \u00e4r det b\u00e4sta \u00e4ventyret!",
-      "scene": "A happy red fox and a wise owl celebrating with big smiles. Colorful letter cards float around them like magic. Warm golden light. Soft cozy storybook illustration.",
-      "image": "images/page-6.png"
+      "text": "På nästa blad syns R, S, T. R för råtta, S för sol, T för tiger. Fifi och Oliver skrattar tillsammans.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Nu visas bokstäverna U, V, Z. U för ugn, V för vante, Z för zebra. Oliver tittar på stjärnorna och Fifi gäspar.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Nu kan Fifi och Oliver alla bokstäver. De kramar varandra och läser en sista saga i biblioteksträdet.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
     }
   ],
   "metadata": {
@@ -43,7 +61,7 @@
     ],
     "theme": "alphabet",
     "targetAge": "3-5",
-    "wordCount": 132,
-    "generatedAt": "2026-04-08T07:51:33.171929+00:00"
+    "wordCount": 174,
+    "generatedAt": "2026-04-08T07:15:54.728207"
   }
 }

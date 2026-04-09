@@ -4,6 +4,7 @@ import json
 import os
 import sys
 import requests
+import subprocess
 from pathlib import Path
 
 MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY", "sk-cp-NFnfASzuMPdbIP-UUqccOfX6nG6vqAt8RxNg9vw0o3fxoiRAGV8EnFyPoYhFUmomX_57eWcAcyNfecs8_I6S2B_O_T7cYoa8CEdXMPc-YFkuooURO0nmvqU")
@@ -21,21 +22,23 @@ class MinimaxPipeline:
         }
 
     def generate_text(self, theme, main_character, side_characters=None, target_age="1-5"):
-        prompt = f"""Write a short children's story for ages {target_age}.
+        side_chars_text = ", ".join(side_characters) if side_characters else "Inga bikaraktärer"
+        prompt = f"""Skriv en kort barnbokshistoria på svenska för barn i åldrarna {target_age}.
 
-Main character: {main_character}
-{"Side characters: " + ", ".join(side_characters) if side_characters else ""}
-Theme: {theme}
+Huvudkaraktär: {main_character}
+Bikaraktärer: {side_chars_text}
+Tema: {theme}
 
-Requirements:
-- 6 pages total
-- Each page: 20-40 words
-- Simple vocabulary suitable for young children
-- Positive, engaging storyline
-- Return as JSON array with 'text' field for each page
+Krav:
+- Minst 10 sidor totalt
+- Varje sida: 25-50 ord
+- Enkel vocabular som passar små barn
+- Positiv och engagerande berättelse
+- Färg, rörelse och spänning i varje scen
+- Ha ALLTID svensk text i alla svar, inget engelska
 
-Example format:
-{{"pages": [{{"text": "Page 1 text..."}}, {{"text": "Page 2 text..."}}]}}"""
+Exempel format:
+{{"pages": [{{"text": "Sidtext på svenska..."}}, {{"text": "Mer svensk text..."}}]}}"""
         
         response = requests.post(
             f"{MINIMAX_API_BASE}/text/chatcompletion_v2",
@@ -59,10 +62,19 @@ Example format:
     def generate_image(self, text, character_prompt, page_num, use_base64=False):
         prompt = f"""{character_prompt}
 
-Children's book illustration for page {page_num}:
-Scene: {text}
+Barnbokillustration för sid {page_num}:
+Scen: {text}
 
-Style: Warm, colorful children's book illustration with soft edges, friendly characters, and engaging backgrounds. Suitable for ages 1-5."""
+Viktiga krav:
+- INGEN text i bilden - inga ord, bokstäver eller siffror av något slag
+- FLERA karaktärer i varje scen där så är lämpligt
+- Rich och komplex bakgrund med detaljer
+- Rörelse och dynamik - karaktärer som rör sig, interagerar, uttrycker känslor
+- Livlig och engagerande scen med mycket att se
+- Varma, barnvänliga färger
+- Söt och lekfull stil lämplig för åldrarna 1-5
+
+Style: Colorful children's book illustration with soft edges, multiple friendly characters, dynamic scenes with lots of activity and life. NO TEXT whatsoever in the image."""
         
         payload = {
             "model": "image-01",
@@ -119,7 +131,8 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
         return result["data"]["video_url"]
 
     def generate_book(self, theme, main_character, side_characters=None, 
-                     character_prompt=None, book_id=None, target_age="1-5"):
+                     character_prompt=None, book_id=None, target_age="1-5",
+                     auto_push=True):
         book_id = book_id or main_character.lower().replace(" ", "-") + "-adventure"
         book_dir = self.output_dir / book_id
         images_dir = book_dir / "images"
@@ -161,10 +174,22 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
             except Exception as e:
                 print(f"    Audio generation failed: {e}")
         
+        swedish_themes = {
+            "friendship": "vänskap",
+            "adventure": "äventyr",
+            "nature": "natur",
+            "bedtime": "godnattsagor",
+            "emotions": "känslor",
+            "animals": "djur",
+            "seasons": "årstider",
+            "family": "familj"
+        }
+        theme_sv = swedish_themes.get(theme.lower(), theme)
+        
         book_data = {
             "id": book_id,
-            "title": f"{main_character}'s {theme.title()} Adventure",
-            "description": f"Join {main_character} on an exciting {theme} adventure!",
+            "title": f"{main_character}s {theme_sv.title()}-äventyr",
+            "description": f" följd {main_character} på ett spännande {theme_sv} äventyr!",
             "coverColor": "6366f1",
             "coverEmoji": "📚",
             "pages": story_data["pages"],
@@ -194,6 +219,10 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
             json.dump(meta_data, f, indent=2)
         
         print(f"Book generated: {book_dir / 'book.json'}")
+        
+        if auto_push:
+            self.auto_push(commit_message=f"Generated book: {book_data['title']}")
+        
         return book_data
 
     def _download_file(self, url, path):
@@ -201,6 +230,25 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
         response.raise_for_status()
         with open(path, "wb") as f:
             f.write(response.content)
+
+    def auto_push(self, commit_message=None):
+        try:
+            result = subprocess.run(["git", "status", "--porcelain"], capture_output=True, text=True, cwd=self.output_dir.parent)
+            if not result.stdout.strip():
+                print("No changes to commit.")
+                return
+            
+            subprocess.run(["git", "add", "."], cwd=self.output_dir.parent, check=True)
+            
+            if commit_message is None:
+                commit_message = f"Auto-commit: book generated at {__import__('datetime').datetime.utcnow().isoformat()}"
+            
+            subprocess.run(["git", "commit", "-m", commit_message], cwd=self.output_dir.parent, check=True)
+            subprocess.run(["git", "push"], cwd=self.output_dir.parent, check=True)
+            print(f"Auto-pushed: {commit_message}")
+        except subprocess.CalledProcessError as e:
+            print(f"Auto-push failed: {e}")
+            raise
 
 
 FIFI_BASE_PROMPT = """A cute baby red fox with bright orange fur and cream-colored belly and snout. 
@@ -211,21 +259,27 @@ in a friendly pose."""
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python minimax_pipeline.py <theme> <main_character> [side_characters...] [--prompt '<character_prompt>']")
+        print("Usage: python minimax_pipeline.py <theme> <main_character> [side_characters...] [--prompt '<character_prompt>'] [--no-auto-push]")
         sys.exit(1)
     
     theme = sys.argv[1]
     main_character = sys.argv[2]
     side_characters = None
     character_prompt = FIFI_BASE_PROMPT
+    auto_push = True
     
     args = sys.argv[3:]
-    if args:
-        if args[0] == '--prompt':
-            character_prompt = args[1]
-            side_characters = args[2:] if len(args) > 2 else None
+    i = 0
+    while i < len(args):
+        if args[i] == '--prompt':
+            character_prompt = args[i + 1]
+            i += 2
+        elif args[i] == '--no-auto-push':
+            auto_push = False
+            i += 1
         else:
-            side_characters = args
+            side_characters = args[i:]
+            break
     
     pipeline = MinimaxPipeline()
-    pipeline.generate_book(theme, main_character, side_characters, character_prompt=character_prompt)
+    pipeline.generate_book(theme, main_character, side_characters, character_prompt=character_prompt, auto_push=auto_push)

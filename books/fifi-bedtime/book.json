@@ -1,43 +1,55 @@
 {
   "id": "fifi-bedtime",
   "title": "Godnatt, Fifi!",
-  "description": "F\u00f6lj med Fifi R\u00e4ven p\u00e5 en mysig godnatt\u00e4ventyr. F\u00f6lj hennes rutin fr\u00e5n pyjamas till s\u00f6ta dr\u00f6mmar.",
-  "coverColor": "6366f1",
-  "coverEmoji": "\ud83c\udf19",
+  "description": "Fifi the Fox ska lägga sig för natten. En varm och trygg godnattstory för små barn.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
   "pages": [
     {
-      "text": "Fifi r\u00e4ven kryper i s\u00e4ngen och drar p\u00e5 sig stj\u00e4rnm\u00f6nstrade pyjamas.",
-      "image": "images/page-1.png",
+      "text": "Fifi är trött. Solen går ner. Hon gäspar och gnuggar sina ögon. \"Nu är det läggdags,\" säger mamma räv.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Med glad mun borstar hon sina t\u00e4nder med fruktig tandkr\u00e4m.",
-      "image": "images/page-2.png",
+      "text": "Fifi bor i en mysig den. Hon har en mjuk säng med rosa lakan. Hennes gosedjur, en kanin, väntar på henne.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Mamma l\u00e4ser en lugn godnatt-saga, och Fifi lyssnar v\u00e4l och trivs.",
-      "image": "images/page-3.png",
+      "text": "Mamma räv bor i en mysig den. Hon kryper upp i sängen och tar sin kanin. Det är så skönt.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "En varm kram av mamma f\u00e5r Fifi att k\u00e4nna sig trygg.",
-      "image": "images/page-4.png",
+      "text": "Mamma räv kramar Fifi. \"Godnatt, min lilla räv,\" viskar hon. Fifi känner sig trygg och varm.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Lampans mjuka skenande nattljus blinkar, och Fifi st\u00e4nger av tryggt.",
-      "image": "images/page-5.png",
+      "text": "Fifi kryper under täcket. Det är så skönt och varmt. Hennes ögonlock känns tunga.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Hon somnar djupt och dr\u00f6mmer s\u00f6ta dr\u00f6mmar under stj\u00e4rnor, vackra.",
-      "image": "images/page-6.png",
+      "text": "Stjärnorna tittar in genom fönstret. De blinkar mjukt. Fifi drömmer om goda saker.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi somnar lugnt. Hennes andetag är mjukt och långsamt. Hon drömmer om skogen och blommor.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Godnatt, Fifi. Sov gott i din lilla den. Imorgon blir det en ny dag.",
+      "image": null,
       "audio": null,
       "video": null
     }
@@ -46,8 +58,8 @@
     "mainCharacter": "Fifi the Fox",
     "sideCharacters": [],
     "theme": "bedtime",
-    "targetAge": "1-3",
-    "wordCount": 63,
-    "generatedAt": "2026-04-07T21:54:15.812511"
+    "targetAge": "1-5",
+    "wordCount": 132,
+    "generatedAt": "2026-04-07T07:15:00.000000"
   }
 }
