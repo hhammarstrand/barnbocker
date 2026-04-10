@@ -1,0 +1,56 @@
+{
+  "id": "fifi-vulnerable",
+  "title": "Fifi the Fox's Vulnerability Adventure",
+  "description": "Join Fifi the Fox on an exciting vulnerability adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox loves to play in the bright forest. She likes to run and jump. Sometimes she feels small and shy when the trees are tall.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F0a09e842-a900-4373-b82b-f4ab182be4a2_aigc.jpeg?Expires=1775930186&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=HUOeMjRHLujZuRXjlxfs%2FrCxP6M%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo the Mouse and Dottle the Duck are Fifi's best friends. They love to chase butterflies and splash in puddles. The three friends always stick together.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F3e6367d1-487a-419f-9b31-3ee98b319211_aigc.jpeg?Expires=1775930206&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=ClnG5yYXTlcLy0vOtwAGWcDYfZM%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "One sunny day, Fifi saw a big, rocky hill. She wanted to climb it, but her heart beat fast. She whispered, 'I am scared.'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fdbcaf291-2727-4485-b55d-1ce3a932e476_aigc.jpeg?Expires=1775930246&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=Lr%2Fit%2BnDRpE8mNxwnH9SFo%2FbMLE%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo climbed close and said, 'It is okay to feel scared.' Dottle waddled near and added, 'We can go together, step by step.'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fbc298d01-fb6e-46a8-bfab-868266bc1ea0_aigc.jpeg?Expires=1775930314&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=DfpAOI8MIZrV3sWmQIYUb7wAVpw%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Together they started up the hill. Fifi held Milo's paw and Dottle\u2019s wing. With each step she felt braver. At the top, she smiled wide.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Faeb30568-f836-4254-8f6c-05b295a86c80_aigc.jpeg?Expires=1775930389&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=oE0dQ4kdut%2Fb2V6qlo5hWlRyiWw%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Now Fifi knows being brave does not mean never being scared. She learned it is okay to show her feelings. The friends hugged and sang a happy song.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Ff7b3eed0-0b30-45f1-b9dd-4ab4638b8fcd_aigc.jpeg?Expires=1775930433&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=KbRWeIDnCF2E19BpQAeOM6cQ3Mg%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse",
+      "Dottle the Duck"
+    ],
+    "theme": "vulnerability",
+    "targetAge": "2-5",
+    "wordCount": 153,
+    "generatedAt": "2026-04-10T18:00:35.820141"
+  }
+}

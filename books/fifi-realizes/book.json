@@ -1,0 +1,56 @@
+{
+  "id": "fifi-realizes",
+  "title": "Fifi the Fox's Realization Adventure",
+  "description": "Join Fifi the Fox on an exciting realization adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox lived in a sunny forest. She had bright orange fur and a wagging tail. Fifi loved to explore, but sometimes she felt shy around new friends.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fe99b9ac7-1cfa-4f91-bcfa-39f3e31ed602_aigc.jpeg?Expires=1775929241&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=LUqN9MR8Gqh0PjPznpVZuvEp68w%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "One day, Milo the Mouse and Dottle the Duck came by. 'Hi, Fifi! Will you play with us?' they asked. Fifi hesitated, but she liked their smiles.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F339d4e5a-c8f6-4ae6-94f5-5dcad85b0b2b_aigc.jpeg?Expires=1775929265&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=8%2Bk9D%2BHbxFHGaTDmJzCgf9HhFI0%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi suggested a game of hide-and-seek. She hid behind a big tree, waiting for the others. But when they couldn't find her, she felt lonely.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F9da8ef88-781c-48f5-9bf1-d0747ecf1ffe_aigc.jpeg?Expires=1775929303&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=xzlD%2FbaGvne6trHnVmfXh3DgZ4Q%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo and Dottle finally found Fifi. 'Why are you sad?' they asked. Fifi realized she wanted to play together, not alone. She felt happy again.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F3d7f4212-d136-437d-a866-fd7692191cd0_aigc.jpeg?Expires=1775929333&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=sIU9dO9x89Am6RyJcSvarC3TEDk%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "The three friends laughed and chased each other through the meadow. They shared treats and told silly jokes. Fifi learned that playing with friends is more fun.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F58527821-0c34-4629-b393-677d92c35042_aigc.jpeg?Expires=1775929352&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=nzMvD2emGyNb3RPB7qCOFKr8HO4%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "As the sun set, Fifi hugged Milo and Dottle. 'Thank you for being my friends,' she said. They all smiled, knowing they would always be together.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F96e307e9-7a02-4254-b8f2-fa9eade48d30_aigc.jpeg?Expires=1775929375&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=bT5j2FAIoDv9sO21O%2BN%2BHVOs5Vw%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse",
+      "Dottle the Duck"
+    ],
+    "theme": "realization",
+    "targetAge": "2-5",
+    "wordCount": 159,
+    "generatedAt": "2026-04-10T17:42:57.254815"
+  }
+}

@@ -25,7 +25,7 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
     response = requests.post(
         f"{API_BASE}/image_generation",
         headers={"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"},
-        json={"model": "image-01", "prompt": prompt},
+        json={"model": "image-02", "prompt": prompt},
         timeout=180
     )
     response.raise_for_status()

@@ -38,7 +38,7 @@ Style: Warm, soft children's book illustration with cozy meadow atmosphere, past
             resp = requests.post(
                 "https://api.minimax.io/v1/image_generation",
                 headers=headers,
-                json={"model": "image-01", "prompt": prompt},
+                json={"model": "image-02", "prompt": prompt},
                 timeout=300
             )
             data = resp.json()

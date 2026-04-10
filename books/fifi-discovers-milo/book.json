@@ -1,0 +1,55 @@
+{
+  "id": "fifi-discovers-milo",
+  "title": "Fifi the Fox's Discovery Adventure",
+  "description": "Join Fifi the Fox on an exciting discovery adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "One bright morning, Fifi the Fox stretched and saw a glittering leaf on the ground. \u201cWhat is that?\u201d she asked. Suddenly, Milo the Mouse peeked out and said, \u201cLet\u2019s find out together!\u201d",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F42e0a352-2dc8-43ea-be33-7bfeecbbcc04_aigc.jpeg?Expires=1775931280&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=31yiN2lkHCYG7XHHeRBfdKFQCY0%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi and Milo followed the leaf\u2019s shiny trail through tall grass. They heard a soft trickle of water. A sparkling stream appeared, with tiny fish swimming in the sun.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F4fe15d4c-8f66-4154-9beb-14096f9eaf69_aigc.jpeg?Expires=1775931311&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=p%2B%2BmtgsAwlFUG8DpJoW%2BU6ZkuU8%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Curious, Fifi hopped over the stream. Milo scampered behind. Near a big oak, they discovered a hidden garden full of bright, sweet flowers and buzzing bees.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F76e5aed1-e4d2-48f6-abaa-741bc94b602f_aigc.jpeg?Expires=1775931328&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=5XTgFIMhbuCe%2B7zFatjL4XEkdEE%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "In the garden, they saw a tiny bunny sitting alone, looking worried. \u201cAre you lost?\u201d asked Milo. \u201cI\u2019m looking for my carrot patch,\u201d the bunny said.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F90a8ae6e-1d7b-4730-aab9-0b6adf9eff1b_aigc.jpeg?Expires=1775931352&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=KmDXKHgowtaE5zpSeONtWP5fCK0%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi and Milo decided to help. They showed the bunny a bright orange carrot field nearby. The bunny hopped happily, thanking her new friends.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F85903302-e517-4931-921f-097f06bc63de_aigc.jpeg?Expires=1775931374&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=MqGlSWR4sgDpo1r9gxru2Fq9taw%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Soon the sun set. Fifi, Milo, and the bunny walked home, sharing stories of their discovery. They felt proud and happy, ready for more adventures tomorrow.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F010e5348-bf26-49e7-b3b2-a0dc6c5b1007_aigc.jpeg?Expires=1775931413&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=hVYrH9X5c%2FgZgEbw%2BMhy9%2Ful9d8%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse"
+    ],
+    "theme": "discovery",
+    "targetAge": "2-5",
+    "wordCount": 163,
+    "generatedAt": "2026-04-10T18:16:55.044454"
+  }
+}

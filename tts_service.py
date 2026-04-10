@@ -93,6 +93,7 @@ class TTSService:
         if output_path:
             with open(output_path, "wb") as f:
                 f.write(audio_data)
+            return output_path
         return audio_data
 
     def _download(self, url, path):

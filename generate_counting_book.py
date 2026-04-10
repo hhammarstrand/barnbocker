@@ -111,7 +111,7 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
             f"{MINIMAX_API_BASE}/image_generation",
             headers=headers,
             json={
-                "model": "image-01",
+                "model": "image-02",
                 "prompt": full_prompt
             },
             timeout=120
@@ -188,7 +188,7 @@ try:
         f"{MINIMAX_API_BASE}/image_generation",
         headers=headers,
         json={
-            "model": "image-01",
+            "model": "image-02",
             "prompt": cover_prompt
         },
         timeout=120

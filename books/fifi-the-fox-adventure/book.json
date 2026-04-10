@@ -1,43 +1,67 @@
 {
   "id": "fifi-the-fox-adventure",
-  "title": "Fifi och Brunos \u00e4ventyr",
-  "description": "Join Fifi the Fox on an exciting friendship adventure!",
+  "title": "Fifi the Foxs V\u00e4nskap-\u00e4ventyr",
+  "description": " f\u00f6ljd Fifi the Fox p\u00e5 ett sp\u00e4nnande v\u00e4nskap \u00e4ventyr!",
   "coverColor": "6366f1",
-  "coverEmoji": "\ud83e\udd8a",
+  "coverEmoji": "\ud83d\udcda",
   "pages": [
     {
-      "text": "En solig morgon vaknade Fifi r\u00e4ven och s\u00e5g Bruno bj\u00f6rn vid sin d\u00f6rr. V\u00e4lkommen! sa Fifi glatt. Vill du vara med p\u00e5 \u00e4ventyr?",
-      "image": "images/page-1.png",
+      "text": "Fifi r\u00e4ven vaknar p\u00e5 morgonen. Solen lyser r\u00f6d och varm. Hon ser sin kompis Milo musen utanf\u00f6r d\u00f6rren. De ska p\u00e5 \u00e4ventyr i skogen tillsammans idag!",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Bruno log stort och de gick tillsammans l\u00e4ngs en krokig stig. De h\u00f6rde f\u00e5glar sjunga och s\u00e5g\u79fb blommor dansa i vinden.",
-      "image": "images/page-2.png",
+      "text": "De springer genom den gr\u00f6na skogen. Fifi hoppar \u00f6ver en stor sten. Milo snurrar runt en bl\u00e5 blomma. B\u00e5da skrattar och sjunger en glad l\u00e5t.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "V\u00e4nner f\u00f6ljde stigen upp till en liten kulle. D\u00e4r stod ett gammalt tr\u00e4d med massa r\u00f6da \u00e4pplen. Fifi plockade ett \u00e5t Bruno.",
-      "image": "images/page-3.png",
+      "text": "Pl\u00f6tsligt m\u00f6ter de en glittrande flod. Vattnet gl\u00e4nser gult i solen. Fifi vill smaka det, men Milo \u00e4r r\u00e4dd f\u00f6r v\u00e4tan. De hittar en bro av stora stenar.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Bruno tackade och de sprang ner f\u00f6r backen till en \u00e4ng full av fj\u00e4rilar. Fifi f\u00e5ngade en och Bruno skrattade.",
-      "image": "images/page-4.png",
+      "text": "Fifi tar ett stort steg p\u00e5 bron. Den gungar lite, men hon h\u00e5ller balansen. Milo h\u00e5ller hennes svans och de dansar fram\u00e5t. Det \u00e4r roligt och sp\u00e4nnande!",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Senare hittade Fifi och Bruno en hemlig tr\u00e4dg\u00e5rd med glittrande stenar. De lekte d\u00e4r tills solen b\u00f6rjade g\u00e5 ner.",
-      "image": "images/page-5.png",
+      "text": "P\u00e5 andra sidan sitter en liten f\u00e5gel med r\u00f6da fj\u00e4drar. Fifi h\u00e4lsar glatt och fr\u00e5gar om de kan leka. F\u00e5geln nickar och sjunger en melodi. Alla dansar i ring.",
+      "image": null,
       "audio": null,
       "video": null
     },
     {
-      "text": "Tillbaka vid Fifis mysiga koja g\u00e4spade de och kurrade ihop. De lovade att vara v\u00e4nner f\u00f6r alltid. Godnatt!",
-      "image": "images/page-6.png",
+      "text": "Pl\u00f6tsligt ser de ett h\u00f6gt tr\u00e4d fullt av r\u00f6da b\u00e4r. Milo hoppar upp och plockar en. Fifi tar en och de smakar s\u00f6tman tillsammans. Det \u00e4r en fest!",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi och Milo leker g\u00f6mma i skogen. Fifi g\u00f6mmer sig bakom en gr\u00f6n buske. Milo r\u00e4knar h\u00f6gt och letar. N\u00e4r han hittar henne skrattar de h\u00f6gt.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Solen b\u00f6rjar sjunka bakom tr\u00e4den. Himlen blir orange och lila. Fifi och Milo sitter p\u00e5 en stubbe och tittar p\u00e5 stj\u00e4rnorna. De k\u00e4nner sig varma och glada.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Det blir m\u00f6rkt och stj\u00e4rnorna blinkar. Fifi g\u00e4spar och vill sova. Milo rullar ihop sig intill henne. De dr\u00f6mmer om fler \u00e4ventyr i morgon tillsammans med varandra.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r morgonljuset vaknar, hoppar Fifi och Milo upp igen. De ler mot varandra och lovar att alltid leka tillsammans. \u00c4ventyren forts\u00e4tter, och v\u00e4nskapen lyser stark.",
+      "image": null,
       "audio": null,
       "video": null
     }
@@ -45,11 +69,12 @@
   "metadata": {
     "mainCharacter": "Fifi the Fox",
     "sideCharacters": [
-      "Bruno the Bear"
+      "Milo the Mouse",
+      "--no-auto-push"
     ],
     "theme": "friendship",
     "targetAge": "1-5",
-    "wordCount": 123,
-    "generatedAt": "2026-04-07T22:07:46.016569"
+    "wordCount": 268,
+    "generatedAt": "2026-04-10T19:38:26.189182"
   }
 }

@@ -1,0 +1,55 @@
+{
+  "id": "fifi-milo-trust",
+  "title": "Fifi the Fox's Trust Adventure",
+  "description": "Join Fifi the Fox on an exciting trust adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox lived in a cozy den under a tall oak tree. One sunny morning, she heard a tiny squeak. A little mouse named Milo peeked out from a leaf.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fc8a10c50-899f-4e61-b053-baf13365560b_aigc.jpeg?Expires=1775931818&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=3%2BAQv9VnFBvfjjnTZkI3%2FmUNxfk%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo was scared of big animals. He shivered and hid. Fifi saw him and smiled gently. She said, 'I will not hurt you. I just want to help.'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F8e9a0f06-ca01-4357-bce5-1435338601ac_aigc.jpeg?Expires=1775931872&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=wRKz3030cI2q8e0HrxYMew9KrUg%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi offered Milo a bright red berry. 'This is sweet,' she said, 'and you can trust me.' Milo looked at the berry, then at Fifi's kind eyes.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fc7f7afcb-00e1-41f3-abac-279a4f22270e_aigc.jpeg?Expires=1775931890&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=RfejB6uOvx4mMfpAxDAPFw2sUu0%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo took a tiny bite. It tasted sweet and juicy! He giggled and thanked Fifi. The fox and the mouse shared the berry together.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F2a921019-bd62-49ac-b2e3-d9cb99dd8fd4_aigc.jpeg?Expires=1775931930&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=JSa%2B%2FYmFAbD%2FNPLusPr8QgRW1Zc%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Now Fifi and Milo played hide-and-seek among the trees. Milo hid behind a mushroom, and Fifi pretended she couldn't see him. Their laughter filled the forest.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fa2256867-d86b-4ac5-825a-1b3d61294b57_aigc.jpeg?Expires=1775931961&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=n%2FIaP7X%2FQ7BrXEJBAZgqzVW7g2s%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "At sunset they returned to Fifi's den. 'You are safe here,' said Fifi. Milo smiled and promised, 'I will always trust you, dear friend.' They snuggled and fell asleep.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F897a7740-7c44-4ea6-bda8-5b1b471a21c4_aigc.jpeg?Expires=1775931985&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=ZJhB0D6ZCOOb92nb5xYx1SwQ8KA%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse"
+    ],
+    "theme": "trust",
+    "targetAge": "2-5",
+    "wordCount": 165,
+    "generatedAt": "2026-04-10T18:26:27.735099"
+  }
+}

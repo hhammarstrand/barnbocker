@@ -78,7 +78,7 @@ Requirements:
         f"{MINIMAX_API_BASE}/image_generation",
         headers=headers,
         json={
-            "model": "image-01",
+            "model": "image-02",
             "prompt": prompt
         },
         timeout=120

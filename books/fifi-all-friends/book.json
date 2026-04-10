@@ -1,0 +1,57 @@
+{
+  "id": "fifi-all-friends",
+  "title": "Fifi the Fox's Friendship Adventure",
+  "description": "Join Fifi the Fox on an exciting friendship adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox loved the sunny forest. She had bright orange fur and a curious smile. One day, she saw tiny Milo the Mouse hopping near a bluebell. She wanted a friend.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fa2b169cb-e956-4164-9f0a-2f85f12d1c97_aigc.jpeg?Expires=1775929541&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=SXbf10ZI7%2BzKfXy9QK2dBzIslLo%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi said, 'Hello, Milo! Do you want to play?' Milo squeaked, 'Yes, I like to play!' They laughed and chased the fluttering butterflies together.",
+      "image": null,
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Next, they met Bella the Bunny under a big oak tree. Bella hopped over and said, 'Can I join?' Fifi and Milo cheered, 'Sure! The more the merrier!'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fd5217c28-76da-412a-935c-f70893e19bfa_aigc.jpeg?Expires=1775929611&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=Z%2FnEuehWN0AyJHgYo0sjdY%2F4xiU%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Suddenly, big Bruno the Bear appeared, smiling gently. He asked, 'May I play too?' All friends said, 'Yes! Let's be friends!' They hugged and felt warm.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fb115c0f5-5e4f-40bf-9658-978812c130d4_aigc.jpeg?Expires=1775929644&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=w9VYpY9gt4pRi7%2FIuk0OWDTtzHQ%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "The friends shared juicy berries, sang silly songs, and played hide-and-seek. Fifi hid behind a mushroom, Milo behind a leaf, Bella behind a carrot, and Bruno behind a pine cone.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F5ed9c8ad-5eea-45ac-bfa3-2d8091f7ec4f_aigc.jpeg?Expires=1775929693&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=LSg68YrqBjva4iFjox%2F6FYlVybQ%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "At sunset, they sat on a soft moss hill, looked at twinkling stars, and promised, 'We will always be friends, no matter where we go.' They hugged and smiled.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F46091648-6768-4aab-b65b-4ac95acd6cc5_aigc.jpeg?Expires=1775929716&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=VSrZVEI%2Bhi1IIxMqqyBkC0UStDw%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse",
+      "Bruno the Bear",
+      "Bella the Bunny"
+    ],
+    "theme": "friendship",
+    "targetAge": "2-5",
+    "wordCount": 169,
+    "generatedAt": "2026-04-10T17:48:38.670627"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "fifi-milo-brave",
+  "title": "Fifi the Fox's Bravery Adventure",
+  "description": "Join Fifi the Fox on an exciting bravery adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox loved to explore the sunny forest. One day, she met Milo the Mouse near a tall oak tree. They became friends and decided to share an adventure.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F5e41c7bd-70a6-4b2c-b0b8-044b04055daf_aigc.jpeg?Expires=1775929867&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=X26W%2Bb%2BUpt%2FJgdkqFcgsE2Ft7yY%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "A big, dark cloud gathered above the forest. It started to rain heavily. The path to the berry patch became slippery. Fifi saw that Milo was scared of the wet ground.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F969e9804-d2cd-4f28-9694-6954bb2dda62_aigc.jpeg?Expires=1775929934&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=Li2gSCkUyvEmGe8E%2BdB5SzYQ%2FB8%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi said, 'Do not worry, Milo! I am brave and I will help you.' She hopped onto a sturdy log and offered her fluffy tail for Milo to hold.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F3bcab107-591d-4c1e-9956-7c52f73f2da9_aigc.jpeg?Expires=1775929955&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=7qiYzv0%2BqUV%2BG3HJGNyrxz1IGvg%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Together, they tip\u2011toed across the log. Milo clung to Fifi's tail, feeling safe. When they reached the other side, the rain slowed, and the sun peeked through the clouds.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F77bbe29c-fa8b-4370-bd39-935ba79c691f_aigc.jpeg?Expires=1775929975&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=%2BO9aSXpRQc4hnivvESQvIQSOMcE%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "The berry bush was full of juicy red berries! Fifi and Milo picked many and ate them happily. 'Thank you, Fifi,' squeaked Milo. 'You are so brave!'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F5cfde1b9-f756-4528-a0ae-f55db283d04a_aigc.jpeg?Expires=1775930001&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=cbgnH1fM0aPC34STnY1JvO3eTtY%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "From that day, Fifi and Milo always looked out for each other. When the forest felt scary, they remembered that being brave means helping friends.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F386e61e3-dfc9-4be2-9e18-4c20b5e79775_aigc.jpeg?Expires=1775930050&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=5vONcTKOvGJ63QuzaGNKTs888h4%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse"
+    ],
+    "theme": "bravery",
+    "targetAge": "2-5",
+    "wordCount": 171,
+    "generatedAt": "2026-04-10T17:54:12.006042"
+  }
+}

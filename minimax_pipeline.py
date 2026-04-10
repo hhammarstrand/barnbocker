@@ -7,6 +7,9 @@ import requests
 import subprocess
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).parent))
+from tts_service import TTSService, generate_audio_for_text
+
 MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY", "sk-cp-NFnfASzuMPdbIP-UUqccOfX6nG6vqAt8RxNg9vw0o3fxoiRAGV8EnFyPoYhFUmomX_57eWcAcyNfecs8_I6S2B_O_T7cYoa8CEdXMPc-YFkuooURO0nmvqU")
 MINIMAX_GROUP_ID = os.environ.get("MINIMAX_GROUP_ID", "2031978439547822419")
 MINIMAX_API_BASE = "https://api.minimax.io/v1"
@@ -77,7 +80,7 @@ Viktiga krav:
 Style: Colorful children's book illustration with soft edges, multiple friendly characters, dynamic scenes with lots of activity and life. NO TEXT whatsoever in the image."""
         
         payload = {
-            "model": "image-01",
+            "model": "image-02",
             "prompt": prompt
         }
         if use_base64:
@@ -96,25 +99,10 @@ Style: Colorful children's book illustration with soft edges, multiple friendly 
             return image_data
         return result["data"]["image_urls"][0]
 
-    def generate_audio(self, text, voice_id="female-tianmei"):
-        response = requests.post(
-            f"{MINIMAX_API_BASE}/t2a_v2",
-            headers=self.headers,
-            json={
-                "model": "speech-02-hd",
-                "text": text,
-                "voice_setting": {
-                    "voice_id": voice_id,
-                    "speed": 85,
-                    "volume": 100,
-                    "pitch": 11
-                }
-            },
-            timeout=60
-        )
-        response.raise_for_status()
-        result = response.json()
-        return result["data"]["audio_file"]["url"]
+    def generate_audio(self, text, voice_id="female-child", output_path=None):
+        tts = TTSService()
+        tts.generate_audio(text, voice_id=voice_id, output_path=output_path)
+        return output_path
 
     def generate_video(self, image_url, text):
         response = requests.post(
@@ -167,9 +155,9 @@ Style: Colorful children's book illustration with soft edges, multiple friendly 
                     print(f"    Image generation failed: {e}")
             
             try:
-                audio_url = self.generate_audio(page["text"])
+                audio_path = audio_dir / f"page-{i}.mp3"
+                result = self.generate_audio(page["text"], output_path=str(audio_path))
                 page["audio"] = f"audio/page-{i}.mp3"
-                self._download_file(audio_url, audio_dir / f"page-{i}.mp3")
                 print(f"    Audio saved: page-{i}.mp3")
             except Exception as e:
                 print(f"    Audio generation failed: {e}")

@@ -144,6 +144,14 @@ Children's book celebration illustration with warm cheerful colors.
 **Relationship to Fifi:** Mentor and friend  
 **Story role:** The guide — introduces learning, counting, letters, nature facts (age-appropriate)  
 
+### Dottle the Duck
+
+**Appearance:** Small yellow duckling with bright fluffy feathers, orange beak and feet, large expressive dark eyes  
+**Color palette:** #FFD700 (bright yellow feathers), #FFA500 (orange beak and feet), #87CEEB (water/sky accents), #2C3E50 (eyes)  
+**Personality:** Cheerful, helpful, shy but brave when friends need her, loves water and singing  
+**Relationship to Fifi:** Supporting friend introduced in Year 3 Books 21-25  
+**Story role:** The cheerful friend — introduces courage, helping others, and the joy of singing  
+
 ---
 
 ## Emotional Expression Rules
@@ -182,7 +190,7 @@ For all characters, only use these emotion categories in illustrations:
 4. **Use soft, rounded shapes** - no sharp angles
 5. **Warm color palette** - oranges, yellows, soft browns, creams
 6. **Consistent eye style** - large, dark, expressive
-7. **Same illustration style** across all books (Minimax image-01 model)
+7. **Same illustration style** across all books (Minimax image-02 model)
 
 ---
 

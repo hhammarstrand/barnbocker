@@ -1,0 +1,55 @@
+{
+  "id": "fifi-milo-together",
+  "title": "Fifi the Fox's Teamwork Adventure",
+  "description": "Join Fifi the Fox on an exciting teamwork adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Meet Fifi the Fox and Milo the Mouse. One sunny day they decide to build a cozy den. But they know they need help, because the den is big!",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fa6e53cb2-9a95-4116-9c8a-3bbcc5530084_aigc.jpeg?Expires=1775930898&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=PdvaCXNjj4n47KGBnJECGNh9syk%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi says, 'Let's work together!' Milo smiles and nods. Together they plan: Fifi will gather soft leaves, and Milo will find tiny stones for the den's floor.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F95df1afd-b2d8-48ef-9f6a-c5686d6ae3a0_aigc.jpeg?Expires=1775931001&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=pwNPi%2Fy0QVw%2B%2BPI%2B7oMfAy%2FfsQw%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi runs to the meadow. She finds fluffy moss and bright flowers. Milo hops through the grass. He finds smooth pebbles and shiny shells for the den.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fc36aa3f4-1522-4fde-8be9-a712bb6972be_aigc.jpeg?Expires=1775931029&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=unxUZKctekyivzEwsftrqVuiwvQ%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Back at the clearing, Fifi arranges the moss like a soft bed. Milo lines the edges with pebbles. Their paws work side by side, making the den safe and warm.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fde2a84c0-8ae5-4e4b-97bf-d45fbad23723_aigc.jpeg?Expires=1775931131&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=QAIYqXJ8N25t0hGhWdMJ093Z3VQ%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Soon the cozy den is ready! Fifi and Milo curl up inside. They feel proud, because they built it together. Teamwork made their dream come true.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Ffeb13383-0397-45a1-a6c7-83f3849854bc_aigc.jpeg?Expires=1775931162&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=Qb1GGlFyESN%2BqT5Y5zIFYXMgtqU%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Outside, the moon shines bright. Fifi and Milo share a tiny berry snack. They whisper, 'Friends help friends, and together we can do anything!'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F8034dcac-9909-4141-8f5f-f73ab5026317_aigc.jpeg?Expires=1775931183&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=%2B%2BnAuJ053rmyziFn8tqrgwnN66s%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse"
+    ],
+    "theme": "teamwork",
+    "targetAge": "2-5",
+    "wordCount": 163,
+    "generatedAt": "2026-04-10T18:13:05.069601"
+  }
+}

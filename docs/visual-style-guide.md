@@ -67,7 +67,7 @@ All characters use **chibi-adjacent proportions** for child-appeal:
 - Limbs = short and rounded, no sharp angles
 - Hands/paws = mitten-like, not detailed fingers
 
-This applies to Fifi, Bruno, Bella, and Oliver consistently across all books.
+This applies to Fifi, Bruno, Bella, Oliver, and Dottle consistently across all books.
 
 ---
 

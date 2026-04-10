@@ -1,0 +1,56 @@
+{
+  "id": "fifi-milo-challenge",
+  "title": "Fifi the Fox's Challenge Adventure",
+  "description": "Join Fifi the Fox on an exciting challenge adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox loves to explore. One sunny day, she sees a tall hill. She wants to climb it today.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F3d423e01-a39d-439f-af17-7e08f330883d_aigc.jpeg?Expires=1775931475&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=rj%2FVPocOhJ5rpsgRqVFVyzY0z9o%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "She starts to climb the hill. The grass is slippery. She slips and slides down. Fifi feels sad but does not give up.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fdec02a4c-00be-4e8a-a288-bf817672367d_aigc.jpeg?Expires=1775931493&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=I7PUPZYhKXLUqD1TYe3I%2FDAwGFY%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo the Mouse sees Fifi. He hops over and says, 'Let us find a path!' He points to a winding trail.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F5281b39d-96f0-4544-9e87-89d939085a54_aigc.jpeg?Expires=1775931513&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=CY8PzXBsxKlMM5JCCMUQytSPhsw%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi and Milo see Bruno the Bear. Bruno is big and strong. 'Can you help us?' asks Fifi. Bruno smiles and nods.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Ffc2bd8be-488f-42b9-881c-f48cf7a93f0a_aigc.jpeg?Expires=1775931547&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=9A731vnncMC8URu6mgu7QVxeaoQ%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Together they push and pull. Milo finds soft leaves. Bruno lifts the heavy rock. Fifi leads the way up the hill.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fdbc8aabb-9060-4d00-8fd6-5326a5a2ca4b_aigc.jpeg?Expires=1775931608&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=jMGshJY9NpiTDO9NOsWbACdbRDk%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "At the top they see a bright blue lake. They cheer and dance. Fifi says, 'We did it! Working together is fun!'",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F13f2f374-dfa4-4621-a211-48baf521f629_aigc.jpeg?Expires=1775931670&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=JePgDV4kcuUyKBklSrdLktBR11o%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse",
+      "Bruno the Bear"
+    ],
+    "theme": "challenge",
+    "targetAge": "2-5",
+    "wordCount": 129,
+    "generatedAt": "2026-04-10T18:21:12.829103"
+  }
+}

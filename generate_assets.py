@@ -1,8 +1,12 @@
 #!/usr/bin/env python3
 import json
 import os
+import sys
 import requests
 from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from tts_service import TTSService, generate_audio_for_text
 
 API_KEY = "sk-cp-NFnfASzuMPdbIP-UUqccOfX6nG6vqAt8RxNg9vw0o3fxoiRAGV8EnFyPoYhFUmomX_57eWcAcyNfecs8_I6S2B_O_T7cYoa8CEdXMPc-YFkuooURO0nmvqU"
 API_BASE = "https://api.minimax.io/v1"
@@ -40,7 +44,7 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
     response = requests.post(
         f"{API_BASE}/image_generation",
         headers=auth_headers,
-        json={"model": "image-01", "prompt": prompt},
+        json={"model": "image-02", "prompt": prompt},
         timeout=180
     )
     response.raise_for_status()
@@ -54,29 +58,18 @@ Style: Warm, colorful children's book illustration with soft edges, friendly cha
 
 def generate_audio(text, page_num):
     print(f"  Generating audio for page {page_num}...")
-    response = requests.post(
-        f"{API_BASE}/t2a_v2",
-        headers=auth_headers,
-        json={
-            "model": "speech-02-hd",
-            "text": text,
-            "voice_setting": {
-                "voice_id": "female-tianmei",
-                "speed": 0.85,
-                "volume": 1,
-                "pitch": 1
-            }
-        },
-        timeout=60
-    )
-    response.raise_for_status()
-    result = response.json()
-    audio_url = result["data"]["audio_file"]["url"]
-    
     audio_path = book_dir / "audio" / f"page-{page_num}.mp3"
-    download_file(audio_url, audio_path)
-    print(f"    Saved: {audio_path}")
-    return f"audio/page-{page_num}.mp3"
+    try:
+        generate_audio_for_text(
+            text,
+            voice_profile="female-child",
+            output_path=str(audio_path)
+        )
+        print(f"    Saved: {audio_path}")
+        return f"audio/page-{page_num}.mp3"
+    except Exception as e:
+        print(f"    Audio failed: {type(e).__name__}: {e}")
+        return None
 
 print(f"Generating assets for {book_data['title']}")
 print(f"Pages: {len(book_data['pages'])}")

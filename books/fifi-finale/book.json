@@ -1,0 +1,59 @@
+{
+  "id": "fifi-finale",
+  "title": "Fifi the Fox's Celebration Adventure",
+  "description": "Join Fifi the Fox on an exciting celebration adventure!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Fifi the Fox woke up. The sun was bright. She saw blue sky and smiled. \u201cToday I want to have a celebration!\u201d she said. She called her friends.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fc3863969-1f8d-4ebb-82f3-70bbcbbeac21_aigc.jpeg?Expires=1775928790&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=4hiJyhLEJ%2BAy96tBbHDe3cP3vUs%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi ran to Milo the Mouse. \u201cWill you come to my party?\u201d she asked. Milo squeaked, \u201cYes!\u201d Then she ran to Bruno, Bella, Oliver, and Dottle. All said yes!",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fb4251e5b-c494-4f3a-a175-68bb89581302_aigc.jpeg?Expires=1775928815&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=X%2BD3yy59vNhYnoaTVJ1gwotuDlo%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "In the sunny meadow, Fifi spread a big red blanket. Bruno brought berries. Bella brought carrots. Dottle brought shiny stones. Oliver brought a song. They all shared and smiled.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fd8a8e6a3-670d-47ab-903f-6384a5b10996_aigc.jpeg?Expires=1775928914&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=Ev4UiWlunS5xV0oWSH6C%2Fo8iFQs%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi said, \u201cLet\u2019s play hide and seek!\u201d Milo hid behind a flower. Bruno rolled in the grass. Bella hopped in circles. Oliver hooted, \u201cReady or not, here I come!\u201d They laughed and cheered.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2Fd3a9739f-97f1-41ec-a461-ba3084c2ed40_aigc.jpeg?Expires=1775928936&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=tC5%2BpN2jMdZAvNcPBo1rfBlG7f0%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Now it was time for cake! Fifi had a big fruit cake with red berries on top. She cut slices for everyone. \u201cYummy!\u201d said Dottle. Each friend took a bite and felt warm and happy.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F410bb967-4c72-4dd5-8f12-14380a427590_aigc.jpeg?Expires=1775929038&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=L1Bb6TibO9bZvPytH8q9QkFNTNo%3D",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "The friends danced in a circle. \u201cWe love our party!\u201d shouted Milo. They hugged each other. The sun set, but their hearts glowed. \u201cSee you soon!\u201d called Fifi. Everyone smiled, ready for more fun.",
+      "image": "http://hailuo-image-algeng-data-us.oss-us-east-1.aliyuncs.com/image_inference_output%2Ftalkie%2Fprod%2Fimg%2F2026-04-11%2F5b060af6-200a-4ea5-bb89-00a8b3035a38_aigc.jpeg?Expires=1775929059&OSSAccessKeyId=LTAI5tRDTcyEYLLuBEpJRwCi&Signature=%2FvjXkjbtTVkBwj7neopYL%2F4LdD8%3D",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse",
+      "Bruno the Bear",
+      "Bella the Bunny",
+      "Oliver the Owl",
+      "Dottle the Duck"
+    ],
+    "theme": "celebration",
+    "targetAge": "2-5",
+    "wordCount": 188,
+    "generatedAt": "2026-04-10T17:37:41.687535"
+  }
+}
