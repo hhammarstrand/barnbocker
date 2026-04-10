@@ -80,7 +80,7 @@ Viktiga krav:
 Style: Colorful children's book illustration with soft edges, multiple friendly characters, dynamic scenes with lots of activity and life. NO TEXT whatsoever in the image."""
         
         payload = {
-            "model": "image-02",
+            "model": "image-01",
             "prompt": prompt
         }
         if use_base64:
