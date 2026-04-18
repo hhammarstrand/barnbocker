@@ -43,30 +43,43 @@ class TTSService:
             return self._minimax_generate(text, voice_id or voice_profile, output_path)
 
     def _minimax_generate(self, text, voice_id, output_path):
-        response = requests.post(
-            f"{MINIMAX_API_BASE}/t2a_v2",
-            headers={
-                "Authorization": f"Bearer {self.api_key}",
-                "Content-Type": "application/json"
-            },
-            json={
-                "model": "speech-02-hd",
-                "text": text,
-                "voice_setting": {
-                    "voice_id": voice_id,
-                    "speed": 85,
-                    "volume": 100,
-                    "pitch": 11
-                }
-            },
-            timeout=60
-        )
-        response.raise_for_status()
-        result = response.json()
-        audio_url = result["data"]["audio_file"]["url"]
-        if output_path:
-            self._download(audio_url, output_path)
-        return audio_url
+        models_to_try = ["speech-02", "speech-02-hd", "speech-01"]
+        last_error = None
+        
+        for model in models_to_try:
+            try:
+                response = requests.post(
+                    f"{MINIMAX_API_BASE}/t2a_v2",
+                    headers={
+                        "Authorization": f"Bearer {self.api_key}",
+                        "Content-Type": "application/json"
+                    },
+                    json={
+                        "model": model,
+                        "text": text,
+                        "voice_setting": {
+                            "voice_id": voice_id,
+                            "speed": 85,
+                            "volume": 100,
+                            "pitch": 11
+                        }
+                    },
+                    timeout=60
+                )
+                response.raise_for_status()
+                result = response.json()
+                audio_url = result["data"]["audio_file"]["url"]
+                if output_path:
+                    self._download(audio_url, output_path)
+                return audio_url
+            except Exception as e:
+                last_error = e
+                continue
+        
+        if self.api_key != MINIMAX_API_KEY:
+            raise last_error
+        
+        raise ValueError(f"All Minimax TTS models failed. Last error: {last_error}")
 
     def _elevenlabs_generate(self, text, voice_id, output_path):
         voice_id = ELEVENLABS_VOICE_IDS.get(voice_id, voice_id)
