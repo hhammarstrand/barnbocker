@@ -1,0 +1,41 @@
+{
+  "id": "bruno-honey-tree",
+  "title": "Brunos honungtr\u00e4d",
+  "description": "Bruno hittar ett tr\u00e4d fullt av honung. Han bjuder in Lola och Oliver att dela.",
+  "coverColor": "DAA520",
+  "coverEmoji": "\ud83d\udc3b",
+  "pages": [
+    {
+      "text": "En dag gick Bruno p\u00e5 uppt\u00e4cktsf\u00e4rd i skogen. Han var lite hungrig."
+    },
+    {
+      "text": "Pl\u00f6tsligt stannade han. Doftade n\u00e5got gott i luften. Honung!"
+    },
+    {
+      "text": "Bruno hittade ett gammalt tr\u00e4d med massor av honung. Men det var h\u00f6gt upp!"
+    },
+    {
+      "text": "Han sprang och h\u00e4mtade sina v\u00e4nner Lola och Oliver."
+    },
+    {
+      "text": "Tillsammans kl\u00e4ttrade de upp i tr\u00e4det. Vad gott! sa Lola."
+    },
+    {
+      "text": "De delade honungen och \u00e5t tillsammans. Det var den b\u00e4sta dagen!"
+    },
+    {
+      "text": "Sedan dess delar Bruno alltid sin honung med sina v\u00e4nner."
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Bruno",
+    "sideCharacters": [
+      "Lola",
+      "Oliver"
+    ],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 75,
+    "generatedAt": "2026-04-18T00:00:00"
+  }
+}

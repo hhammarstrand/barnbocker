@@ -1,0 +1,40 @@
+{
+  "id": "bruno-finds-friend",
+  "title": "Bruno hittar en v\u00e4n",
+  "description": "Bruno bj\u00f6rnen k\u00e4nner sig ensam. En dag landar Lola p\u00e5 hans nos. De blir b\u00e4sta v\u00e4nner!",
+  "coverColor": "8B4513",
+  "coverEmoji": "\ud83d\udc3b",
+  "pages": [
+    {
+      "text": "Det var en g\u00e5ng en stor, sn\u00e4ll bj\u00f6rn som hette Bruno. Bruno bodde i en liten grotta vid skogens kant."
+    },
+    {
+      "text": "En dag k\u00e4nde sig Bruno lite ensam. Han saknade n\u00e5gon att leka med."
+    },
+    {
+      "text": "Pl\u00f6tsligt h\u00f6rde Bruno ett litet pip. En liten bl\u00e5 f\u00e5gel fl\u00f6g f\u00f6rbi."
+    },
+    {
+      "text": "F\u00e5geln var tr\u00f6tt och landade p\u00e5 Brunos stora nos. Hej, sa f\u00e5geln. Jag heter Lola!"
+    },
+    {
+      "text": "Bruno log. Vill du vara min v\u00e4n? Ja! sa Lola glatt."
+    },
+    {
+      "text": "Tillsammans lekte de hela dagen. De dansade och sj\u00f6ngo i den varma solen."
+    },
+    {
+      "text": "N\u00e4r det blev kv\u00e4ll sa Lola: Tack f\u00f6r den underbara dagen, Bruno. Du \u00e4r min b\u00e4sta v\u00e4n!"
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Bruno",
+    "sideCharacters": [
+      "Lola"
+    ],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 85,
+    "generatedAt": "2026-04-18T00:00:00"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "bruno-needs-help",
+  "title": "Bruno beh\u00f6ver hj\u00e4lp",
+  "description": "Bruno vill baka en t\u00e5rta men beh\u00f6ver hj\u00e4lp av Lola och Oliver. Tillsammans g\u00f6r de den b\u00e4sta t\u00e5rtan!",
+  "coverColor": "FFB6C1",
+  "coverEmoji": "\ud83d\udc3b",
+  "pages": [
+    {
+      "text": "Bruno ville baka en t\u00e5rta till sin f\u00f6delsedag. Men den var f\u00f6r stor f\u00f6r honom ensam."
+    },
+    {
+      "text": "Kan jag hj\u00e4lpa? fr\u00e5gade Lola som fl\u00f6g f\u00f6rbi. Ja, tack! sa Bruno."
+    },
+    {
+      "text": "Oliver kom ocks\u00e5. Han kunde r\u00f6ra i bunken medan Bruno h\u00f6ll i sk\u00e5len."
+    },
+    {
+      "text": "De hade s\u00e5 roligt tillsammans! Men v\u00e4nta, de gl\u00f6mde \u00e4ggen."
+    },
+    {
+      "text": "Inga problem! Lola hittade tre \u00e4gg i sitt bo. Nu blir det t\u00e5rta!"
+    },
+    {
+      "text": "Efter en timme var t\u00e5rtan klar. Det var den st\u00f6rsta t\u00e5rtan Bruno n\u00e5gonsin sett!"
+    },
+    {
+      "text": "De satt tillsammans och \u00e5t. Tack f\u00f6r hj\u00e4lpen, mina v\u00e4nner! sa Bruno glatt."
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Bruno",
+    "sideCharacters": [
+      "Lola",
+      "Oliver"
+    ],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 91,
+    "generatedAt": "2026-04-18T00:00:00"
+  }
+}

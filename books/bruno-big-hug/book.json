@@ -1,0 +1,41 @@
+{
+  "id": "bruno-big-hug",
+  "title": "Brunos stora kram",
+  "description": "Det \u00e4r en kall dag i skogen. Bruno ger varma kramar till alla sina v\u00e4nner.",
+  "coverColor": "8B4513",
+  "coverEmoji": "\ud83d\udc3b",
+  "pages": [
+    {
+      "text": "Det bl\u00e5ste kall vind genom skogen. Bruno var varm i sin feta p\u00e4ls."
+    },
+    {
+      "text": "Hans v\u00e4nner_frus_ och skakade. \u00c5h, vad det \u00e4r kallt! sa r\u00e4ven."
+    },
+    {
+      "text": "Bruno hade en id\u00e9. Han \u00f6ppnade sina stora, varma armar."
+    },
+    {
+      "text": "Kom, mina v\u00e4nner! Sa Bruno. Jag har en varm kram till er!"
+    },
+    {
+      "text": "Ett efter ett kramade Bruno sina v\u00e4nner. Kaninen, ugglan, och till och med den lilla musen."
+    },
+    {
+      "text": "Alla k\u00e4nde sig varma och glada. Tack Bruno! ropade de."
+    },
+    {
+      "text": "Den kalla dagen blev den varmaste och gladaste dagen i skogen."
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Bruno",
+    "sideCharacters": [
+      "Lola",
+      "Oliver"
+    ],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 83,
+    "generatedAt": "2026-04-18T00:00:00"
+  }
+}

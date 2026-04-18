@@ -120,7 +120,7 @@ Style: Colorful children's book illustration with soft edges, multiple friendly 
 
     def generate_book(self, theme, main_character, side_characters=None, 
                      character_prompt=None, book_id=None, target_age="1-5",
-                     auto_push=True):
+                     auto_push=True, skip_audio=False):
         book_id = book_id or main_character.lower().replace(" ", "-") + "-adventure"
         book_dir = self.output_dir / book_id
         images_dir = book_dir / "images"
@@ -154,13 +154,14 @@ Style: Colorful children's book illustration with soft edges, multiple friendly 
                 except Exception as e:
                     print(f"    Image generation failed: {e}")
             
-            try:
-                audio_path = audio_dir / f"page-{i}.mp3"
-                result = self.generate_audio(page["text"], output_path=str(audio_path))
-                page["audio"] = f"audio/page-{i}.mp3"
-                print(f"    Audio saved: page-{i}.mp3")
-            except Exception as e:
-                print(f"    Audio generation failed: {e}")
+            if not skip_audio:
+                try:
+                    audio_path = audio_dir / f"page-{i}.mp3"
+                    result = self.generate_audio(page["text"], output_path=str(audio_path))
+                    page["audio"] = f"audio/page-{i}.mp3"
+                    print(f"    Audio saved: page-{i}.mp3")
+                except Exception as e:
+                    print(f"    Audio generation failed: {e}")
         
         swedish_themes = {
             "friendship": "vänskap",
@@ -245,16 +246,25 @@ Small friendly appearance with soft rounded features. Children's book illustrati
 style. Warm colors, soft edges, adorable and child-friendly. Standing upright 
 in a friendly pose."""
 
+BRUNO_BASE_PROMPT = """A cute baby brown bear with soft fur, large expressive dark eyes full of warmth, fluffy round ears, gentle friendly appearance with soft rounded features. Children's book illustration style. Warm brown colors, soft edges, adorable and child-friendly. Standing upright in a friendly pose."""
+
+DEFAULT_PROMPTS = {
+    "fifi": FIFI_BASE_PROMPT,
+    "bruno": BRUNO_BASE_PROMPT,
+}
+
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print("Usage: python minimax_pipeline.py <theme> <main_character> [side_characters...] [--prompt '<character_prompt>'] [--no-auto-push]")
+        print("Usage: python minimax_pipeline.py <theme> <main_character> [side_characters...] [--prompt '<character_prompt>'] [--no-auto-push] [--skip-audio]")
         sys.exit(1)
     
     theme = sys.argv[1]
     main_character = sys.argv[2]
     side_characters = None
-    character_prompt = FIFI_BASE_PROMPT
+    character_key = main_character.lower()
+    character_prompt = DEFAULT_PROMPTS.get(character_key, FIFI_BASE_PROMPT)
     auto_push = True
+    skip_audio = False
     
     args = sys.argv[3:]
     i = 0
@@ -265,9 +275,12 @@ if __name__ == "__main__":
         elif args[i] == '--no-auto-push':
             auto_push = False
             i += 1
+        elif args[i] == '--skip-audio':
+            skip_audio = True
+            i += 1
         else:
             side_characters = args[i:]
             break
     
     pipeline = MinimaxPipeline()
-    pipeline.generate_book(theme, main_character, side_characters, character_prompt=character_prompt, auto_push=auto_push)
+    pipeline.generate_book(theme, main_character, side_characters, character_prompt=character_prompt, auto_push=auto_push, skip_audio=skip_audio)
