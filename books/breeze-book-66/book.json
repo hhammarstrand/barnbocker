@@ -1,0 +1,77 @@
+{
+  "id": "breeze-book-66",
+  "title": "Breezes Familj-\u00e4ventyr",
+  "description": " f\u00f6ljd Breeze p\u00e5 ett sp\u00e4nnande familj \u00e4ventyr!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Breeze \u00e4r en liten, nyfiken vind som dansar genom himlen. Varje morgon vaknar hon till en bl\u00e5 himmel och k\u00e4nner solens varma str\u00e5lar p\u00e5 sin kind. Breeze skrattar och snurrar runt, redo f\u00f6r \u00e4ventyr.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r solen stiger h\u00f6gre, f\u00e4rgar den himlen i orange och rosa. Breeze k\u00e4nner hur vinden bl\u00e5ser mjukt mot hennes kind. Tillsammans med mamma vinden leker hon bland molnen, och skrattar h\u00f6gt.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze och mamma vind susar \u00f6ver \u00e4ngen, d\u00e4r gr\u00e4set \u00e4r gr\u00f6nt och blommorna lyser gula. De dansar fram och tillbaka medan fj\u00e4rilar fladdrar omkring. F\u00e4rgerna f\u00e5r Breeze att hoppa av gl\u00e4dje.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Pl\u00f6tsligt kommer pappa vind och ropar: 'Kom och leka!'' Tillsammans jagar de varandra genom ett regnb\u00e5ge av f\u00e4rger. Breeze skrattar n\u00e4r hon snurrar fort, och pappa bl\u00e5ser henne h\u00f6gt upp.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze och pappa vind far ut \u00f6ver havet, d\u00e4r v\u00e5gorna glittrar i bl\u00e5tt. De rider p\u00e5 vindarna, k\u00e4nner svalkan mot sina kinder och sjunger glada s\u00e5nger om familj och v\u00e4nskap.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r kv\u00e4llen kommer, f\u00e4rgas himlen i lila och guld. Breeze h\u00f6r mormor vind sjunga en mjuk vaggvisa. Hon kryper ihop och lyssnar, medan stj\u00e4rnor b\u00f6rjar t\u00e4ndas p\u00e5 himlen.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Mormor vind r\u00f6r sig sakta och sveper Breeze i en varm, rosa kram. Tillsammans tittar de p\u00e5 stj\u00e4rnorna som blinkar glatt. Breeze k\u00e4nner sig trygg och \u00e4lskad i familjens v\u00e4rme.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Lillebror vind kommer skrattande och vill leka. Han snurrar runt Breeze och g\u00f6r sm\u00e5 virvlar som lyser i gult. Breeze och han dansar tillsammans, fyllda av gl\u00e4dje och skratt.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Alla vindarna samlas runt det varma tr\u00e4det d\u00e4r mormor och mamma st\u00e5r. De delar varma drycker och ber\u00e4ttar roliga historier. Breeze k\u00e4nner hur k\u00e4rlek fyller luften och v\u00e4rmer hennes hj\u00e4rta.",
+      "image": "images/page-9.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r natten blir mjuk, l\u00e4gger sig Breeze till ro bland sina k\u00e4ra. Hon ritar ett litet hj\u00e4rta p\u00e5 himlen och viskar: 'Tack f\u00f6r min underbara familj.' Stj\u00e4rnorna lyser, och dr\u00f6mmar fyller luften.",
+      "image": "images/page-10.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Breeze",
+    "sideCharacters": [],
+    "theme": "family",
+    "targetAge": "1-5",
+    "wordCount": 305,
+    "generatedAt": "2026-04-26T10:30:45.948456"
+  }
+}

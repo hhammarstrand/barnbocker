@@ -1,0 +1,77 @@
+{
+  "id": "breeze-book-61",
+  "title": "Breezes V\u00e4nskap-\u00e4ventyr",
+  "description": " f\u00f6ljd Breeze p\u00e5 ett sp\u00e4nnande v\u00e4nskap \u00e4ventyr!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Breeze \u00e4r en liten, nyfiken vind. Han bl\u00e5ser \u00f6ver \u00e4ngen och skrattar. Solen lyser klart och himlen \u00e4r bl\u00e5. Breeze k\u00e4nner sig glad och fri.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "En dag hittar Breeze en stor r\u00f6d boll p\u00e5 gr\u00e4set. Han bl\u00e5ser f\u00f6rsiktigt och bollen rullar runt i gr\u00e4set. Det l\u00e5ter som ett litet hj\u00e4rta som sl\u00e5r av gl\u00e4dje.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze ser en gyllene drake i luften. Han bl\u00e5ser mjukt och draken dansar bland molnen. Den snurrar och g\u00f6r glada loopar, och Breeze ler av f\u00f6rtjusning.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "I skogen m\u00f6ter Breeze ett stort tr\u00e4d fullt av gr\u00f6na blad. Han bl\u00e5ser och bladen rasslar som sm\u00e5 fingrar som klappar. Det l\u00e5ter som musik f\u00f6r hans \u00f6ron.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "En regnb\u00e5ge glittrar \u00f6ver en liten p\u00f6l. Breeze bl\u00e5ser och p\u00f6len skapar sm\u00e5 v\u00e5gor som dansar. F\u00e4rgerna i vattnet glittrar rosa och bl\u00e5tt, och Breeze k\u00e4nner sig som en konstn\u00e4r.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze kommer till en solros som lyser gul p\u00e5 \u00e4ngen. Han bl\u00e5ser mjukt och kronbladen \u00f6ppnar sig som sm\u00e5 solar. Doften sprids och fyller luften med lycka.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "H\u00f6gst upp p\u00e5 himlen simmar en fluffig vit moln. Breeze bl\u00e5ser och molnet former sig som en kanin. Det hoppar och skuttar, och Breeze skrattar h\u00f6gt.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Efter regnet visas en stor regnb\u00e5ge med alla f\u00e4rger. Breeze bl\u00e5ser f\u00f6rsiktigt och f\u00e4rgerna verkar dansa. De glittrar i luften och Breeze k\u00e4nner sig som en magisk v\u00e4n.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze rullar uppf\u00f6r en gr\u00f6n kulle och k\u00e4nner sig stark. Han bl\u00e5ser p\u00e5 gr\u00e4set och det vajar som en dans. Uppe p\u00e5 toppen ser han hela v\u00e4rlden i solens varma ljus.",
+      "image": "images/page-9.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r dagen slutar, tackar Breeze alla han har tr\u00e4ffat. Han bl\u00e5ser ett sista v\u00e4nligt vindkast \u00f6ver \u00e4ngen. Alla blommor, moln och f\u00e4rger vinkar tillbaka, och Breeze vet att v\u00e4nskap finns \u00f6verallt.",
+      "image": "images/page-10.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Breeze",
+    "sideCharacters": [],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 281,
+    "generatedAt": "2026-04-26T10:05:51.600778"
+  }
+}

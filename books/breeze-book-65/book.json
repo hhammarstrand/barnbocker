@@ -1,0 +1,77 @@
+{
+  "id": "breeze-book-65",
+  "title": "Breezes \u00c5rstider-\u00e4ventyr",
+  "description": " f\u00f6ljd Breeze p\u00e5 ett sp\u00e4nnande \u00e5rstider \u00e4ventyr!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Breeze \u00e4r en liten, glada vind. Breeze dansar runt och sjunger hela dagen. Alla i byn k\u00e4nner Breezes varma gl\u00e4dje. Breeze vill utforska \u00e5rstiderna tillsammans med dig.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r v\u00e5ren kommer, blommar \u00e4ngen i rosa och gult. Breeze bl\u00e5ser f\u00f6rsiktigt genom kronbladen. Fj\u00e4rilar dansar och humlor surrar. Breeze skrattar och g\u00f6r blomster till glada kamrater.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sommarsolen lyser starkt och Breeze far \u00f6ver sj\u00f6n. Vattnet glittrar som tusen diamanter. Breeze g\u00f6r v\u00e5gor som leker med fiskarna. Barnen kastar simmar och skrattar i vattnet.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "H\u00f6sten m\u00e5lar skogen i r\u00f6da och orangea toner. Breeze r\u00f6r l\u00f6ven i virvlande dans. L\u00f6ven snurrar och falla mjukt ner p\u00e5 marken. Breeze viskar: 'Kom och lek med mig i h\u00f6stluften!'",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Nu sn\u00f6ar det och v\u00e4rlden blir vit. Breeze bl\u00e5ser och g\u00f6r sn\u00f6flingor dansa. Sm\u00e5 sn\u00f6bollar rullar och m\u00f6ter varandra. Breeze fryser inte, f\u00f6r hen \u00e4lskar vinterns magi.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Mitt i parken st\u00e5r ett stort, gr\u00f6nt tr\u00e4d. Breeze kryper upp p\u00e5 grenarna och lyssnar till f\u00e5gels\u00e5ng. Tr\u00e4det s\u00e4ger: 'Hej Breeze! V\u00e4lkommen hit.' Breeze sv\u00e4nger och skrattar.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "F\u00e5glarna sitter p\u00e5 en gren och sjunger h\u00f6gt. Breeze bl\u00e5ser toner som fl\u00f6jter genom luften. Tillsammans g\u00f6r de en glad melodi. Solen ler och musiken sprids \u00f6verallt.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "En liten kanin fryser i kylan. Breeze viskar: 'F\u00f6lj mig!' Breeze bl\u00e5ser mjukt mot en liten h\u00e5la under en buske. Kaninen hoppar in och k\u00e4nner v\u00e4rmen. Breeze ler.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Tidigt p\u00e5 morgonen vaknar himlen i rosa och guld. Breeze dansar \u00f6ver husen och m\u00e5lar luften med l\u00e4tta penseldrag. F\u00e5glar vaknar och sjunger. Dagen b\u00f6rjar med glada f\u00e4rger.",
+      "image": "images/page-9.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "\u00c5rstiderna byter plats och Breeze vinkar hejd\u00e5. V\u00e5ren, sommaren, h\u00f6sten och vintern skrattar tillsammans. Breeze lovar att komma tillbaka med nytt lek och glada vindar. Alla \u00e4r glada.",
+      "image": "images/page-10.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Breeze",
+    "sideCharacters": [],
+    "theme": "seasons",
+    "targetAge": "1-5",
+    "wordCount": 277,
+    "generatedAt": "2026-04-26T10:25:52.799912"
+  }
+}

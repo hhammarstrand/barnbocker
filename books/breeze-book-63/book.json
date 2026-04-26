@@ -1,0 +1,89 @@
+{
+  "id": "breeze-book-63",
+  "title": "Breezes Natur-\u00e4ventyr",
+  "description": " f\u00f6ljd Breeze p\u00e5 ett sp\u00e4nnande natur \u00e4ventyr!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Breeze \u00e4r en liten, nyfiken vind. Varje morgon vaknar hon och k\u00e4nner doften av gr\u00e4s och blommor. Solen lyser r\u00f6tt och oranget p\u00e5 himlen. Breeze dansar med de f\u00f6rsta str\u00e5larna.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze bl\u00e5ser in i \u00e4ngen. D\u00e4r dansar tusen sm\u00e5 blommor i ljusa f\u00e4rger. R\u00f6da, bl\u00e5 och gula kronblad virvlar runt henne. F\u00e5glar kvitter och hoppar p\u00e5 grenarna, och musiken i luften f\u00e5r Breeze att snurra.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze m\u00f6ter en glittrig fj\u00e4ril. Fj\u00e4rilens vingar blinkar i orange och lila. Tillsammans snurrar de runt bland blommorna, och v\u00e4rlden fylls av gl\u00e4dje och f\u00e4rg. Solen ler och skiner ner p\u00e5 dem.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze glider in i den m\u00f6rka skogen. Tr\u00e4dens kronor \u00e4r gr\u00f6na och h\u00f6ga. Solstr\u00e5lar dansar genom l\u00f6ven och m\u00e5lar guld p\u00e5 marken. F\u00e5glar sjunger och ekorrh\u00f6n hoppar glatt. Breeze k\u00e4nner svalkan fr\u00e5n tr\u00e4dkronorna och leker med vindfl\u00e4ktarna.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze bl\u00e5ser \u00f6ver en liten sj\u00f6. Vattnet glittrar bl\u00e5tt och gr\u00f6nt. Fiskar hoppar och skapar sm\u00e5 krusningar. Breeze dansar med v\u00e5gorna och skrattar h\u00f6gt i den varma solen.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze kl\u00e4ttrar upp p\u00e5 en kulle. D\u00e4rifr\u00e5n ser hon hela v\u00e4rlden. Solen stiger r\u00f6tt och gult \u00f6ver bergen. F\u00e4rger sprids som en regnb\u00e5ge. Breeze jublar av lycka och vinden sjunger.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze tr\u00e4ffar en liten kanin i \u00e4ngen. Kaninen hoppar runt och gnuggar nosen. Tillsammans rullar de i gr\u00e4set och skrattar h\u00f6gt. Blommor dansar omkring dem i vinden, och solen v\u00e4rmer deras p\u00e4ls.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze susar fram till en liten vattenfall. Vattnet faller i glittrande str\u00e5lar. \u00c5ngan bildar regnb\u00e5gar i luften. Breeze dansar med dropparna och k\u00e4nner svalkan mot sin kind, och musiken fr\u00e5n vattnet f\u00e5r hj\u00e4rtat att sl\u00e5.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze sitter p\u00e5 en sten och tittar p\u00e5 solnedg\u00e5ngen. Himlen blir lila, rosa och orange. Stj\u00e4rnor b\u00f6rjar titta fram. Breeze viskar godnatt till naturen och somnar mjukt med dr\u00f6mmar om morgondagens \u00e4ventyr.",
+      "image": "images/page-9.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze vaknar med dagg p\u00e5 sin kind. Solen glittrar p\u00e5 gr\u00e4set. Hon k\u00e4nner sig pigg och redo f\u00f6r nya \u00e4ventyr. Idag ska hon hitta fler underbara platser i naturen, och sjunga med vindens melodi.",
+      "image": "images/page-10.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze sveper in i en \u00e4ng full av vilda blommor. R\u00f6da, gula och bl\u00e5 kronblad dansar i luften. Doften \u00e4r s\u00f6t och hon bl\u00e5ser pollen till bin. Bina sjunger glatt i den varma solen.",
+      "image": "images/page-11.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze hittar en hemlig tr\u00e4dg\u00e5rd bakom buskarna. D\u00e4r v\u00e4xer sm\u00e5 ljussk\u00e4ra stj\u00e4rnor p\u00e5 marken. Hon skrattar och snurrar runt bland dem. Kv\u00e4llen kommer och stj\u00e4rnorna lyser starkt, och Breeze k\u00e4nner sig lycklig.",
+      "image": "images/page-12.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Breeze",
+    "sideCharacters": [],
+    "theme": "nature",
+    "targetAge": "1-5",
+    "wordCount": 391,
+    "generatedAt": "2026-04-26T10:17:04.920214"
+  }
+}

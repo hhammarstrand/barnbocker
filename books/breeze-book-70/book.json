@@ -1,0 +1,77 @@
+{
+  "id": "breeze-book-70",
+  "title": "Breezes V\u00e4nskap-\u00e4ventyr",
+  "description": " f\u00f6ljd Breeze p\u00e5 ett sp\u00e4nnande v\u00e4nskap \u00e4ventyr!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Breeze \u00e4r en liten v\u00e4nlig vind som bor uppe i himlen. Varje morgon vaknar Breeze och str\u00e4cker ut sina osynliga armar. Solen ler och himlen lyser bl\u00e5. Breeze k\u00e4nner sig redo f\u00f6r \u00e4ventyr.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze bl\u00e5ste in i en stor gr\u00f6n skog. Tr\u00e4den vajade glatt och l\u00f6ven dansade i vinden. F\u00e4rgglada f\u00e5glar sj\u00f6nk och sj\u00f6ng. Breeze viskade: 'Kom och lek med mig!'",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze virvlade runt en liten rosentr\u00e4dg\u00e5rd. Rosorna nickade och fick glittrande dagg. F\u00e4rgerna lyste: r\u00f6d, rosa och lila. Breeze ville ge rosorna en kram, men vinden kan inte r\u00f6ra.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Pl\u00f6tsligt kom en stor gul solstr\u00e5le ner till Breeze. Solen log och sa: 'Hej, lilla vind! Vill du dansa med mig?' Breeze jublade och dansade runt i ljusa cirklar.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Tillsammans fl\u00f6t Breeze och solstr\u00e5len mot en glittrande \u00e4lv. Vattnet skimrade bl\u00e5tt och vitt. Fiskar hoppade glatt och skapade sm\u00e5 bubblor. Breeze bl\u00e5ste svalka och skrattade.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan reste Breeze upp mot ett molnigt berg. Molnen var fluffiga och vita som bomull. De r\u00f6rde sig sakta och viskade hemligheter. Breeze k\u00e4nde sig som en hj\u00e4lte.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r natten kom, t\u00e4nde stj\u00e4rnorna sm\u00e5 ljuspunkter p\u00e5 himlen. M\u00e5nen log och gav Breeze en mjuk gl\u00f6d. Breeze sj\u00f6ng en l\u00e5t om v\u00e4nskap f\u00f6r alla.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Morgonen efter vaknade Breeze med glittrande dagg i h\u00e5ret. Breeze bl\u00e5ste \u00f6ver en blommig \u00e4ng och fick alla blommor att vicka. Fj\u00e4rilar dansade och skapade regnb\u00e5gar.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze h\u00f6rde ett svagt pip fr\u00e5n en liten f\u00e5gelunge. 'Var \u00e4r du?' ropade Breeze. F\u00e5gelungen svarade med ett pip och fladdrade iv\u00e4g. Breeze f\u00f6ljde glatt och visade v\u00e4gen hem.",
+      "image": "images/page-9.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Till sist stannade Breeze vid en gammal ek. 'Tack f\u00f6r att du \u00e4r min v\u00e4n,' sa Breeze. Ekens l\u00f6v viskade tillbaka: 'Vi \u00e4r alltid v\u00e4nner.' Breeze log och fortsatte sin resa.",
+      "image": "images/page-10.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Breeze",
+    "sideCharacters": [],
+    "theme": "friendship",
+    "targetAge": "1-5",
+    "wordCount": 284,
+    "generatedAt": "2026-04-26T11:21:57.122846"
+  }
+}

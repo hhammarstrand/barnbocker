@@ -1,0 +1,77 @@
+{
+  "id": "breeze-book-69",
+  "title": "Breezes \u00c4ventyr-\u00e4ventyr",
+  "description": " f\u00f6ljd Breeze p\u00e5 ett sp\u00e4nnande \u00e4ventyr \u00e4ventyr!",
+  "coverColor": "6366f1",
+  "coverEmoji": "\ud83d\udcda",
+  "pages": [
+    {
+      "text": "Breeze \u00e4r en liten, sn\u00e4ll vind. En dag vaknar solen och Breeze best\u00e4mmer sig f\u00f6r att utforska. Den bl\u00e5ser genom tr\u00e4dg\u00e5rden och ser en stor, r\u00f6d blomma.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze f\u00f6ljer den glada fj\u00e4rrieln genom luften. Tillsammans dansar de och skrattar. Fj\u00e4rrieln har r\u00f6da och bl\u00e5a vingar som glittrar i solljuset. Breeze bl\u00e5ser f\u00f6rsiktigt och g\u00f6r dem \u00e4nnu finare.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze h\u00f6r ett porlande ljud. Det \u00e4r en liten, glittrande \u00e5. Vattnet \u00e4r klart och bl\u00e5tt. Breeze dansar \u00f6ver vattnet och skapar sm\u00e5 bubblor som glittrar i solen.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze kommer till ett h\u00f6gt tr\u00e4d med gr\u00f6n krona. Bladen viskar och vinkar. Breeze bl\u00e5ser sakta och f\u00e5r l\u00f6ven att rasa ner som sm\u00e5 gr\u00f6na regndroppar. Det \u00e4r roligt!",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Pl\u00f6tsligt syns en stor regnb\u00e5ge p\u00e5 himlen. R\u00f6da, orange, gula, gr\u00f6na, bl\u00e5 och violetta band str\u00e5lar. Breeze bl\u00e5ser genom f\u00e4rgerna och m\u00e5lar sin egen lilla b\u00e5ge i luften.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze vill kl\u00e4ttra upp f\u00f6r en liten kulle. Vinden bl\u00e5ser starkare nu. Breeze snurrar runt och rullar uppf\u00f6r backen, skrattande hela v\u00e4gen till toppen d\u00e4r solen lyser.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "P\u00e5 toppen sitter en liten f\u00e5gel med gult br\u00f6st. F\u00e5geln sjunger en glad s\u00e5ng. Breeze bl\u00e5ser f\u00f6rsiktigt och f\u00e5r fj\u00e4drarna att fladdra i takt med musiken.",
+      "image": "images/page-7.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Nere vid backen kryper en snigel med ett glittrande skal. Skalet skimrar i alla regnb\u00e5gens f\u00e4rger. Breeze bl\u00e5ser p\u00e5 snigeln och g\u00f6r skalet snurra runt och gl\u00e4nsa.",
+      "image": "images/page-8.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "N\u00e4r dagen blir m\u00f6rk b\u00f6rjar stj\u00e4rnor t\u00e4nda p\u00e5 himlen. Breeze k\u00e4nner sig tr\u00f6tt men glad. Den bl\u00e5ser hem\u00e5t, sveper f\u00f6rsiktigt in i sitt varma moln och somnar med ett leende.",
+      "image": "images/page-9.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Breeze vaknar n\u00e4sta morgon med ny energi. Det finns fler \u00e4ventyr att utforska! Med ett glatt hum och varma vindar susar Breeze iv\u00e4g, redo f\u00f6r nya uppt\u00e4ckter.",
+      "image": "images/page-10.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Breeze",
+    "sideCharacters": [],
+    "theme": "adventure",
+    "targetAge": "1-5",
+    "wordCount": 279,
+    "generatedAt": "2026-04-26T11:01:07.560224"
+  }
+}
