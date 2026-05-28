@@ -307,6 +307,42 @@ The Fifi the Fox series is a **developmentally-anchored digital picture book ser
 
 ---
 
+## Actually Produced: Year 3 Books 21-25 (Dottle Introduction Arc)
+
+*Note: These books were produced as a Dottle property launch, bridging from Fifi's world. They differ from the planned Year 3 arc above.*
+
+### Book 21 — **Fifi träffar Dottle** *(Done)*
+**Theme:** New friendship / humor
+**Featured characters:** Fifi, Dottle the Duck, Ducklings
+**Location:** `books/fifi-meets-dottle/`
+**Concept:** Fifi meets the serious Dottle and her chaotic ducklings. They learn that friendship doesn't need to be perfect.
+
+### Book 22 — **Dottles första äventyr** *(Done)*
+**Theme:** Adventure / planning vs spontaneity
+**Featured characters:** Dottle, Fifi
+**Location:** `books/dottle-adventure-1/`
+**Concept:** Dottle and Fifi's first adventure together. Dottle learns that unplanned surprises can be the best part.
+
+### Book 23 — **Dottle sjunger** *(Done)*
+**Theme:** Music / joy
+**Featured characters:** Dottle, Ducklings
+**Location:** `books/dottle-sings/`
+**Concept:** Dottle discovers that singing can make everyone happy - even herself.
+
+### Book 24 — **Dottles perfekta picknick** *(Done)*
+**Theme:** Chaos / letting go
+**Featured characters:** Dottle, Fifi, Ducklings
+**Location:** `books/dottle-organized/`
+**Concept:** Dottle's perfectly planned picnic becomes wonderfully chaotic. She learns to let go.
+
+### Book 25 — **Dottle är modig** *(Done)*
+**Theme:** Bravery / overcoming fear
+**Featured characters:** Dottle, Fifi, Pip the Duckling
+**Location:** `books/dottle-brave/`
+**Concept:** Dottle overcomes her fear of deep water to rescue little Pip. Courage means doing the right thing even when afraid.
+
+---
+
 ## Production Priority Order — Year 3
 
 | Priority | Book | Theme | Characters |

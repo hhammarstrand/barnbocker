@@ -1,0 +1,46 @@
+{
+  "bookId": "fifi-helping",
+  "promptVersion": "1.0",
+  "pages": [
+    {
+      "page": 1,
+      "imagePrompt": "Fifi the little red fox meeting Bruno the big brown bear in the forest, sunny day, green trees, happy atmosphere, children's book illustration style"
+    },
+    {
+      "page": 2,
+      "imagePrompt": "Bruno the bear stuck under a big branch, Fifi the fox watching with concern, forest setting, dramatic moment, children's book illustration"
+    },
+    {
+      "page": 3,
+      "imagePrompt": "Fifi the fox using a long green stick to lift the heavy branch, Bruno bear trying to get free, teamwork moment, children's book style"
+    },
+    {
+      "page": 4,
+      "imagePrompt": "The branch falls to the side, Bruno is free and happy, Fifi and Bruno hugging and dancing in a circle of green leaves, celebration, warm sunlight through trees"
+    },
+    {
+      "page": 5,
+      "imagePrompt": "Fifi the fox jumping on Bruno the bear's back to reach red berries high in a bush, teamwork, summer forest, children's book illustration"
+    },
+    {
+      "page": 6,
+      "imagePrompt": "Bruno the bear waving his big paw to calm buzzing bees, Fifi watching nearby, beehive in tree, getting honey, cooperation, children's book style"
+    },
+    {
+      "page": 7,
+      "imagePrompt": "Fifi and Bruno carefully helping a little blue bird with injured wing, carrying it gently to a cozy nest, caring moment, forest floor"
+    },
+    {
+      "page": 8,
+      "imagePrompt": "Fifi gathering soft leaves and grass while Bruno carries heavy branches, building a cozy shelter together, teamwork, sunny forest clearing"
+    },
+    {
+      "page": 9,
+      "imagePrompt": "Fifi and Bruno sitting on a mossy stone counting sparkling stars together, silver moonlight, magical evening atmosphere, peaceful moment"
+    },
+    {
+      "page": 10,
+      "imagePrompt": "Fifi and Bruno walking home through the light green forest, feeling proud and happy, friendship, golden evening light, children's book illustration"
+    }
+  ]
+}
