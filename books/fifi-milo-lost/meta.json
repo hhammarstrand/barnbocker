@@ -1,0 +1,14 @@
+{
+  "bookId": "fifi-milo-lost",
+  "title": "Milo hittar hem",
+  "title_en": "Milo finds his way home",
+  "theme": "belonging",
+  "mainCharacter": "Fifi the Fox",
+  "sideCharacters": ["Milo the Mouse", "Oliver the Owl"],
+  "targetAge": "3-5",
+  "pageCount": 6,
+  "wordCount": 118,
+  "status": "script_complete",
+  "createdBy": "Creative Director",
+  "createdAt": "2026-05-28T06:02:00.000Z"
+}

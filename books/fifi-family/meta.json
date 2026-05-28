@@ -1,0 +1,14 @@
+{
+  "bookId": "fifi-family",
+  "title": "Fifi och den stora familia",
+  "title_en": "Fifi and the big family",
+  "theme": "family",
+  "mainCharacter": "Fifi the Fox",
+  "sideCharacters": ["Bella the Bunny", "Grandma Fox"],
+  "targetAge": "2-4",
+  "pageCount": 6,
+  "wordCount": 125,
+  "status": "script_complete",
+  "createdBy": "Creative Director",
+  "createdAt": "2026-05-28T06:05:00.000Z"
+}

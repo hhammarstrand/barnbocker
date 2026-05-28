@@ -1,0 +1,23 @@
+{
+  "bookId": "dottle-organized",
+  "title": "Dottles perfekta picknick",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A small grey duck with a serious expression consulting a detailed checklist for a picnic. Everything must be perfect. Neatly arranged picnic items around her. A meadow with sunshine. Child-friendly illustration with soft watercolor style.",
+    "A cute baby red fox with bright orange fur and cream-colored belly arriving at a picnic happily with four fluffy yellow ducklings running around excited. A small grey duck looks concerned because no one is waiting politely for the food. Meadow setting. Child-friendly illustration.",
+    "A small grey duck looking distressed as napkins and picnic items blow away in the wind. Four yellow ducklings are chasing the napkins excitedly thinking they are feathers. A cute red fox is laughing in the wind. Chaotic but fun scene. Child-friendly illustration.",
+    "Four fluffy yellow ducklings playing in the grass chasing each other, completely forgetting about food. A small grey duck watching them with a mix of exasperation and amusement. A cute red fox is rolling in the grass laughing. Beautiful meadow. Child-friendly illustration.",
+    "A small grey duck rolling in the grass laughing with a cute red fox and four ducklings. Everyone is playing together having fun. The picnic is forgotten but nobody cares. Big smiles on all faces. Warm sunny meadow. Child-friendly illustration.",
+    "A small grey duck, a cute red fox, and four yellow ducklings lying together on a picnic blanket looking happy and content. Food scattered around but they are all tired and happy from playing. Beautiful sunset meadow. The most perfect imperfect picnic. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA", "A9A9A9", "FFD700"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "fun, chaos, friendship"
+  },
+  "characterDescriptions": {
+    "dottle": "Small round grey duck learning to let go and have fun. Color palette: #A9A9A9 (grey).",
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "ducklings": "Four small bright yellow fluffy ducklings. Color palette: #FFD700 (bright yellow feathers), #FFA500 (orange beak and feet)."
+  }
+}

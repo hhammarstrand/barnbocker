@@ -1,0 +1,30 @@
+{
+  "bookId": "fifi-magiska-skogen",
+  "promptVersion": "1.0",
+  "pages": [
+    {
+      "page": 1,
+      "imagePrompt": "A little fox named Fifi and a tiny mouse named Milo standing at the edge of a magical forest, bright orange and green colors, children's book illustration style, warm and whimsical, soft lighting"
+    },
+    {
+      "page": 2,
+      "imagePrompt": "Fifi the fox with big excited eyes pointing at a large tree while Milo whispers secrets, magical sparkles around them, fantasy forest setting, children's book illustration, warm colors"
+    },
+    {
+      "page": 3,
+      "imagePrompt": "Fifi and Milo playing pretend, the tree is their castle tower, a mossy stone is their throne, whimsical children's book style, magical forest atmosphere, golden hour lighting"
+    },
+    {
+      "page": 4,
+      "imagePrompt": "Fifi and Milo in a sunny forest clearing with soft moss, pretending it's a royal feast hall, using pinecones and leaves as plates, children's book illustration, warm and magical"
+    },
+    {
+      "page": 5,
+      "imagePrompt": "Milo acting formal welcoming Fifi to the pretend party, small mushroom tables with leaf plates, acorn cups, whimsical children's book style, joyful atmosphere"
+    },
+    {
+      "page": 6,
+      "imagePrompt": "Fifi and Milo waving goodbye to each other as the sun sets, magical forest in background, warm orange sunset colors, sweet friendship moment, children's book illustration"
+    }
+  ]
+}

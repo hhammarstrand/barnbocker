@@ -1,0 +1,55 @@
+{
+  "id": "fifi-secret-garden",
+  "title": "Fifi och Brunoss hemlighet",
+  "description": "Bruno visar Fifi sin hemliga trädgård som han har odlat i hemlighet för sina vänner. Fifi lovar att hålla det hemligt och hjälper honom plantera något nytt.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En dag sa Bruno: 'Fifi, jag vill visa dig något speciellt. Men du måste lova att det är vår hemlighet.'",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi nickade allvarligt. 'Jag lovar!' sa hon. Bruno log och tog hennes tass. 'Följ med mig.'",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De gick in i en hemlig del av skogen som Fifi aldrig hade sett förut. Där fanns en liten trädgård med vackra blommor.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Vad är det här?' viskade Fifi förvånad. 'Det är min hemliga trädgård,' sa Bruno stolt. 'Jag odlar den åt mina vänner.'",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Den är så fin!' sa Fifi andaktigt. Bruno räckte henne en liten planta. 'Vill du hjälpa mig?' Fifi log glatt.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Tillsammans planterade de den nya blomman. 'Våran hemlighet,' sa Bruno. 'Våran hemlighet,' upprepade Fifi. Och det var det finaste av allt.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear"
+    ],
+    "theme": "trust",
+    "targetAge": "3-5",
+    "wordCount": 126,
+    "generatedAt": "2026-05-28T06:10:00.000000"
+  }
+}

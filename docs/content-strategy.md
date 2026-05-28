@@ -136,100 +136,191 @@ The Fifi the Fox series is a **developmentally-anchored digital picture book ser
 
 ---
 
-### Book 12 — **Milo hittar hem** *(Pending)*
+### Book 12 — **Milo hittar hem** *(Done)*
 **Theme:** New friendship / belonging
 **Featured characters:** Fifi, Milo, Oliver
-**Setting:** The meadow and the old oak tree
-**Concept:** Milo ventures further from his usual hiding spot and gets genuinely lost. Fifi and Oliver search and find him just before sunset. The resolution shows that having friends who look for you is the best feeling.
-**Core message:** Being lost is scary — but friends will find you
-**Target age sweet-spot:** 3–5
+**Location:** `books/fifi-milo-lost/`
 **Note:** Deepens the Fifi/Milo bond from Book 9; Oliver as wise helper
 
----
-
-### Book 13 — **Fifi och den stora familia** *(Pending)*
+### Book 13 — **Fifi och den stora familia** *(Done)*
 **Theme:** Family love / grandparents / cousins
 **Featured characters:** Fifi, Bella
-**Setting:** Grandmas house in the forest
-**Concept:** Fifi visits her grandma. Bella is there too — they are cousins! The book shows a cozy day: baking, storytelling, playing in the garden, and a warm goodbye.
-**Core message:** Family comes in all sizes and so much love lives in it
-**Target age sweet-spot:** 2–4
+**Location:** `books/fifi-family/`
 **i18n note:** Family structures vary; keep descriptions visual and inclusive
 
----
-
-### Book 14 — **Fifi har ett pyre** *(Pending)*
+### Book 14 — **Fifi har ett pyre** *(Done)*
 **Theme:** Problem-solving / life skills
 **Featured characters:** Fifi, Bruno
-**Setting:** Fifis den and the forest
-**Concept:** Fifi is building a block tower but it keeps falling. She gets frustrated. Bruno is patient, helps her think of a different approach — wider base, slower stacking. She succeeds and is proud.
-**Core message:** Getting frustrated is okay — try a new way
-**Target age sweet-spot:** 2–5
+**Location:** `books/fifi-blocks/`
 **Note:** Block-tower frustration arc; no potty training or mealtime — keeping it play/social problem-solving
 
----
-
-### Book 15 — **Fifi upptäcker bäcken** *(Pending)*
+### Book 15 — **Fifi upptäcker bäcken** *(Done)*
 **Theme:** Nature exploration / science curiosity
 **Featured characters:** Fifi, Oliver
-**Setting:** A sunny creek in the meadow
-**Concept:** Fifi and Oliver follow the sound of water and discover a creek. They watch insects, skip stones, and follow the water downstream. Oliver names things and Fifi asks endless questions.
-**Core message:** Nature is full of things to discover
-**Target age sweet-spot:** 3–5
+**Location:** `books/fifi-creek/`
 **Note:** Strong visual potential — water, light, small creatures
 
----
-
-### Book 16 — **Fifi och den nyfiknaungen** *(Pending)*
+### Book 16 — **Fifi och den nyfikna ägget** *(Done)*
 **Theme:** Curiosity / new life
 **Featured characters:** Fifi, Bella
-**Setting:** A birds nest in the meadow
-**Concept:** Fifi finds an egg on the ground and is curious what is inside. Bella suggests they carefully put it back in the nest. Days later they return and see a mother bird caring for the chick. Patience and care rewarded.
-**Core message:** Curiosity is wonderful — sometimes the best thing is patience
-**Target age sweet-spot:** 2–4
+**Location:** `books/fifi-nest/`
+**Note:** Patience and care rewarded
 
----
-
-### Book 17 — **Fifi sover över** *(Pending)*
+### Book 17 — **Fifi sover över** *(Done)*
 **Theme:** Sleepover / independence
 **Featured characters:** Fifi, Bella
-**Setting:** Bellas burrow
-**Concept:** Fifi is invited to sleep at Bellas house for the first time. She is nervous about being away from her own den. They have a wonderful evening — games, story, secret whispers — and Fifi realizes she can feel safe away from home too.
-**Core message:** Being away from home can be exciting and fun
-**Target age sweet-spot:** 2–5
+**Location:** `books/fifi-sleepover/`
 **Note:** Older sweet spot; not for 1-3s who may find separation anxiety triggering
 
----
-
-### Book 18 — **Fifi och Brunoss hemlighet** *(Pending)*
+### Book 18 — **Fifi och Brunoss hemlighet** *(Done)*
 **Theme:** Trust / keeping a secret
 **Featured characters:** Fifi, Bruno
-**Setting:** Brunos cave
-**Concept:** Bruno shows Fifi his secret spot — a hidden garden he has been tending quietly. He made it just for his friends. Fifi promises to keep it secret and helps him plant something new.
-**Core message:** Trust means keeping a promise — and sharing something special
-**Target age sweet-spot:** 3–5
+**Location:** `books/fifi-secret-garden/`
 **Note:** Builds on Brunos quiet, thoughtful nature established in Year 1
 
----
-
-### Book 19 — **Fifi och komihåg-bladet** *(Pending)*
+### Book 19 — **Fifi och komihåg-bladet** *(Done)*
 **Theme:** Memory / nostalgia / Autumn
 **Featured characters:** Fifi, Milo
-**Setting:** The forest in late autumn
-**Concept:** It is autumn and leaves are falling. Fifi finds a beautiful coloured leaf and wants to remember this perfect moment forever. Milo suggests they draw what they see. They sit together sketching, and Fifi realizes the memory is in the moment itself, not just the object.
-**Core message:** Beautiful moments are worth pausing for
-**Target age sweet-spot:** 3–5
+**Location:** `books/fifi-leaf-memory/`
+**Note:** Beautiful moments are worth pausing for
+
+### Book 20 — **Fifi och alla sina vänner** *(Done)*
+**Theme:** Gratitude / celebration / series finale
+**Featured characters:** Fifi + ALL recurring characters: Bruno, Bella, Oliver, Milo
+**Location:** `books/fifi-gratitude-finale/`
+**Note:** Series milestone; ensemble cast; MUST be visually epic — full cast, layered scenes, spring colors, celebratory mood
 
 ---
 
-### Book 20 — **Fifi och alla sina vänner** *(Pending)*
-**Theme:** Gratitude / celebration / series finale
-**Featured characters:** Fifi + ALL recurring characters: Bruno, Bella, Oliver, Milo
-**Setting:** The forest clearing in spring
-**Concept:** Fifi wakes up feeling grateful for all her friends. She visits each one in turn and tells them something she loves about them. The final page is a big spring picnic with everyone — a celebration of Year 1 and 2 together.
-**Core message:** Gratitude makes love grow
+## Series arc: Year 3 (Books 21–30)
+
+### Book 21 — **Fifi och den hjälpsamma räven**
+**Theme:** Helping others / kindness in action
+**Featured characters:** Fifi, Bruno
+**Setting:** The forest — Bruno's workshop area
+**Concept:** Bruno is building something and struggling. Fifi notices and offers to help hold pieces, pass tools, cheer him on. Together they finish. Bruno says Fifi is the best friend. Fifi realizes helping feels as good as finishing things yourself.
+**Core message:** Helping others makes you feel good too
+**Target age sweet-spot:** 3–5
+**Notes:** Reinforces Bruno's maker/builder personality from earlier books; collaborative energy; warm workshop palette (browns, oranges, warm light)
+
+---
+
+### Book 22 — **Fifi och det klumpiga ekorret**
+**Theme:** Self-acceptance / being different
+**Featured characters:** Fifi, Milo + **new character: Pip the Squirrel**
+**Setting:** The forest clearing in autumn
+**Concept:** Fifi meets Pip, a clumsy squirrel who drops everything, trips over his own tail, and can't climb smoothly. Milo is embarrassed by Pip. But Fifi sees Pip's heart — he tries so hard, he's kind, and he never gives up. By the end, the others see it too.
+**Core message:** Everyone has something special about them
+**Target age sweet-spot:** 3–5
+**Notes:** Introduces Pip as a recurring character — limited appearances (Books 22, 24, 28); provides a gentle diversity/micro-movement early social lesson; NOT preachy, Pip is endearing and funny
+**New character profile — Pip the Squirrel:** Small reddish-brown squirrel with a fluffy tail that never quite behaves. Clumsy but earnest. Color palette: `#C4713B` (rust), `#E8A86B` (light belly). Heart of gold, constantly apologizing.
+
+---
+
+### Book 23 — **Fifi lär sig vänta**
+**Theme:** Patience / waiting
+**Featured characters:** Fifi, Oliver
+**Setting:** Oliver's library tree on a snowy day
+**Concept:** It's snowing and Fifi wants to go outside immediately. Oliver suggests they read a story while they wait for the snow to stop. They read together, and by the time they finish, the snow has created a beautiful winter wonderland outside. Worth the wait.
+**Core message:** Waiting for something special can be part of the fun
+**Target age sweet-spot:** 2–4
+**Notes:** Snow creates natural "can't go yet" scenario; Oliver's calm wisdom is well-established; winter palette with cozy interior scenes
+
+---
+
+### Book 24 — **Fifi och den glada musiken**
+**Theme:** Music / rhythm / joy
+**Featured characters:** Fifi, Milo, Pip
+**Setting:** A sunny forest clearing
+**Concept:** Fifi finds Pip trying to tap out a rhythm on a hollow log. It sounds silly at first, but then Milo joins with a twig shaker, and Fifi stomps her feet. What starts as noise becomes a forest jam session. They dance together until sunset.
+**Core message:** Making music together is joyful
 **Target age sweet-spot:** 2–5
-**Note:** Series milestone; ensemble cast; MUST be visually epic — full cast, layered scenes, spring colors, celebratory mood
+**Notes:** Introduces Pip again in a positive light; high-energy book with visual rhythm; great read-aloud potential with repeated sounds ("bum, bum, BUM!")
+
+---
+
+### Book 25 — **Fifi målar sin värld**
+**Theme:** Colors / art / creativity
+**Featured characters:** Fifi, Bella
+**Setting:** Bella's art corner in the forest
+**Concept:** Bella shows Fifi her collection of paints and brushes. Fifi is hesitant — "What if I make a mistake?" Bella says there are no mistakes in art. Fifi paints freely, mixing colors, making marks. She's proud of her messy, colorful, unique creation.
+**Core message:** Art is about expression, not perfection
+**Target age sweet-spot:** 3–5
+**Notes:** Supports growth mindset; Bella as gentle art mentor; bright, colorful, paint-splattered visuals
+
+---
+
+### Book 26 — **Fifi drömmer sig bort**
+**Theme:** Dreams / imagination at night
+**Featured characters:** Fifi (solo book)
+**Setting:** Fifi's cozy den — dream sequence
+**Concept:** Fifi falls asleep and enters a dreamy, swirling illustration world. She floats through clouds of color, dances with butterflies, visits the seasons all at once. Soft, surreal, visual poem. She wakes up smiling.
+**Core message:** Dreams are wonderful spaces for your imagination
+**Target age sweet-spot:** 2–4
+**Notes:** Solo book like Book 4 (Bedtime); dream sequence is fully illustrated — abstract shapes, colors, gentle movement; NOT scary or surreal in a disturbing way; perfect as a wind-down book
+
+---
+
+### Book 27 — **Fifi och den lilla grodan**
+**Theme:** New sibling / empathy / being gentle
+**Featured characters:** Fifi, Bruno + **new character: Tad the Frog**
+**Setting:** The forest pond
+**Concept:** Bruno brings Fifi to meet Tad, a tiny baby frog who is new to the pond. Bruno explains that Tad is very small and needs gentle handling. Fifi is fascinated — she's extra careful, speaks softly, moves slowly. Tad hops onto her nose and she laughs.
+**Core message:** Being gentle with those who are small shows how strong you are
+**Target age sweet-spot:** 2–4
+**Notes:** Could seed a "little sibling" parallel for children expecting a new brother/sister; Bruno's caretaker side deepens; introduces Tad as a limited recurring character (pond-themed books)
+**New character profile — Tad the Frog:** Tiny bright green frog, big golden eyes, always slightly damp. Color palette: `#5DAE5B` (green), `#F4E04D` (eyes). Curious, calm, blinks slowly.
+
+---
+
+### Book 28 — **Fifi bygger något stort**
+**Theme:** Teamwork / building together
+**Featured characters:** Fifi, Bruno, Oliver, Milo, Pip
+**Setting:** An open meadow
+**Concept:** The group decides to build something together — a giant leaf raft. Each person has a role: Bruno is the builder, Oliver calculates, Milo finds materials, Pip holds things steady (with varying success), and Fifi coordinates. They launch the raft and float together.
+**Core message:** When we work together, we can build amazing things
+**Target age sweet-spot:** 3–5
+**Notes:** Full ensemble cast; builds on Brunos workshop skills from Book 21; celebration of different strengths; high visual potential — teamwork process shown across pages
+
+---
+
+### Book 29 — **Fifi och det första våren**
+**Theme:** New beginnings / spring
+**Featured characters:** Fifi, Bella
+**Setting:** The forest awakening from winter
+**Concept:** Fifi notices the first signs of spring — a bird singing, a flower budding, warmth returning. Bella teaches her that every season starts small. Fifi thinks about new things she's excited to try this year.
+**Core message:** New beginnings are worth celebrating
+**Target age sweet-spot:** 2–5
+**Notes:** Strong seasonal transition book; hope and renewal themes; soft spring palette emerging from winter tones
+
+---
+
+### Book 30 — **Fifi och alla årstider**
+**Theme:** Year-long journey / milestone celebration
+**Featured characters:** Fifi + ALL recurring characters: Bruno, Bella, Oliver, Milo, Pip, Tad
+**Setting:** The forest across all four seasons
+**Concept:** A year in the life of Fifi and all her friends — spring finds them, summer plays, autumn transforms, winter cozies. Each page captures one season with a moment of friendship. The final page is all characters gathered, looking at the year gone by and the year ahead.
+**Core message:** Friendship carries us through every season
+**Target age sweet-spot:** 2–5
+**Notes:** Series milestone (30 books!); full ensemble including new characters Pip and Tad; visually rich — four distinct seasonal palettes; celebratory, warm, a love letter to the series and its readers
+**Visual note:** Consider a gatefold page or small "year-in-review" illustration on the final spread — a tiny map of all the adventures, like a souvenir
+
+---
+
+## Production Priority Order — Year 3
+
+| Priority | Book | Theme | Characters |
+|----------|------|-------|------------|
+| 1 | Book 21 | Helping others | Fifi + Bruno |
+| 2 | Book 22 | Self-acceptance | Fifi + Milo + Pip (new) |
+| 3 | Book 23 | Patience | Fifi + Oliver |
+| 4 | Book 24 | Music/joy | Fifi + Milo + Pip |
+| 5 | Book 25 | Colors/art | Fifi + Bella |
+| 6 | Book 26 | Dreams | Fifi (solo) |
+| 7 | Book 27 | Gentleness/new sibling | Fifi + Bruno + Tad (new) |
+| 8 | Book 28 | Teamwork | Fifi + full ensemble |
+| 9 | Book 29 | New beginnings/spring | Fifi + Bella |
+| 10 | Book 30 | Year journey/milestone | All characters |
 
 ---
 

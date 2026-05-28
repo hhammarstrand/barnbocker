@@ -1,0 +1,55 @@
+{
+  "id": "fifi-leaf-memory",
+  "title": "Fifi och komihåg-bladet",
+  "description": "Det är höst och löven faller. Fifi hittar ett vackert färgat löv och vill minnas denna perfekta stund för alltid. Milo föreslår att de ska rita tillsammans.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "Det var höst och skogen var full av gyllene löv. Fifi gick genom skogen och beundrade alla vackra färger.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Plötsligt hittade hon ett perfekt löv - rött, orange och guld. 'Åh! Det är det vackraste jag har sett!' ropade hon.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi ville spara lövet för alltid. Men Milo sa: 'Ibland är det finaste att uppleva, inte att äga.'",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Vi kan rita det vi ser!' föreslog Milo glatt. Fifi log. 'Ja! Låt oss göra det!'",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De satte sig bland löven och ritade. Fifi ritade trädet. Milo ritade löven. De jämförde sina bilder och skrattade.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "När de gick hem sa Fifi: 'Nu har jag inte bara ett löv, utan en fin minne av att rita med dig.' Milo log. 'Det var ännu finare.'",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse"
+    ],
+    "theme": "memory-autumn",
+    "targetAge": "3-5",
+    "wordCount": 128,
+    "generatedAt": "2026-05-28T06:11:00.000000"
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "fifi-creek",
+  "title": "Fifi upptäcker bäcken",
+  "description": "Fifi och Oliver följer ljudet av porlande vatten och hittar en liten bäck. De tittar på spindlar, fiskar och följer vattnet genom skogen.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En dag hörde Fifi något konstigt. 'Vad är det för ljud?' frågade hon. 'Det låter som sång,' sa Oliver wys.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi och Oliver följde ljudet genom ängen. Ju närmare de kom, desto starkare blev det. 'Det är vatten!' ropade Fifi.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De hittade en liten bäck som glittrade i solen. 'Det här är fantastiskt!' sa Fifi med stora ögon. Oliver log och sa: 'Detta är en bäck.'",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi såg små fiskar simma i vattnet. 'Vad är det där?' frågade hon. 'Det är fiskar,' förklarade Oliver tålmodigt.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan försökte Fifi kasta stenar i vattnet. PLASK! 'Titta, jag fick den att plaska!' Oliver skrattade och berömde hennes teknik.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De följde bäcken hela vägen till sjön. 'Naturen är full av under!' sa Fifi glad. 'Vi upptäcker mer imorgon,' sa Oliver.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Oliver the Owl"
+    ],
+    "theme": "nature-exploration",
+    "targetAge": "3-5",
+    "wordCount": 132,
+    "generatedAt": "2026-05-28T06:07:00.000000"
+  }
+}

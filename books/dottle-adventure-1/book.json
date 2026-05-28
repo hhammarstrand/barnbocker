@@ -1,0 +1,55 @@
+{
+  "id": "dottle-adventure-1",
+  "title": "Dottles första äventyr",
+  "description": "Dottle och Fifi ger sig ut på ett äventyr. Dottle vill att allt ska vara perfekt och planerat. Men Fifi visar henne att ibland är det bästa äventyren de man inte kan planera.",
+  "coverColor": "A9A9A9",
+  "coverEmoji": "🦆",
+  "pages": [
+    {
+      "text": "Dottle hade planerat varje detalj av dagen. 'Vi går hit, sedan dit!' sa hon bestämt. Men Fifi ville utforska.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Plötsligt hittade Fifi en hemlig stig. 'Vad är det där?' frågade hon. Dottle suckade: 'Det står inte i planen.'",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Men nyfikenheten var för stark. 'Låt oss titta!' ropade Fifi. Dottle följde motvilligt efter.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Den hemliga stigen ledde till en magisk glänta med vackra blommor och fjärilar. 'Åh!' sa båda samtidigt.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Dottle log brett. 'Det här var bättre än min plan.' Fifi fnissade: 'Ibland är det bästa det man inte förväntar sig!'",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De bestämde: nästa gång skulle de göra en plan tillsammans - med utrymme för överraskningar.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Dottle the Duck",
+    "sideCharacters": [
+      "Fifi the Fox"
+    ],
+    "theme": "adventure",
+    "targetAge": "3-5",
+    "wordCount": 122,
+    "generatedAt": "2026-05-28T08:15:00.000000"
+  }
+}

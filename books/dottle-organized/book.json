@@ -1,0 +1,56 @@
+{
+  "id": "dottle-organized",
+  "title": "Dottles perfekta picknick",
+  "description": "Dottle planerar en perfekt picknick för alla sina vänner. Men när allt inte går som planerat lär hon sig att det bästa minnesvärda är när saker blir lite kaotiska.",
+  "coverColor": "A9A9A9",
+  "coverEmoji": "🦆",
+  "pages": [
+    {
+      "text": "Dottle hade planerat en perfekt picknick. 'Allt måste vara exakt rätt!' sa hon och kontrollerade sin lista.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi och ankungarna anlände glada. Men snart sprang de runt och lekte istället för att vänta på maten.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan blåste vinden bort alla servetter! 'Nej!' ropade Dottle. Men Fifi skrattade: 'Det är ju roligt!'",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Ankungarna sprang efter servetterna som om de var fjädrar. Snart lekte alla i gräset istället för att äta.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Dottle gav upp kontrollen och började leka med. 'Det här är faktiskt mer kul,' erkände hon.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Till slut blev det ingen perfekt picknick - det blev en familjeutflykt. Och den var mycket bättre än perfekt.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Dottle the Duck",
+    "sideCharacters": [
+      "Fifi the Fox",
+      "Ducklings"
+    ],
+    "theme": "chaos-play",
+    "targetAge": "3-5",
+    "wordCount": 125,
+    "generatedAt": "2026-05-28T08:17:00.000000"
+  }
+}

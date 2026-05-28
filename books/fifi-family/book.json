@@ -1,0 +1,56 @@
+{
+  "id": "fifi-family",
+  "title": "Fifi och den stora familia",
+  "description": "Fifi hälsar på sin mormor i skogen. Bella är där också - de ärkusiner! En mysig dag med baking, sagor och lek i trädgården.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En solig dag gick Fifi för att hälsa på sin mormor. 'Vem bor där?' frågade hon nyfiket. 'Det är överraskning!' sa mormor leende.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "När Fifi kom fram satt en liten grå kanin i köket. 'Hej! Jag är Bella. Vi är kusiner!' sa kaninen glatt.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Mormor hade dukat för ett mycket speciellt kalas. 'Idag firas familj!' ropade mormor. Det fanns kakor och saft.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Efter kalaset gick de ut i trädgården. Bella och Fifi lekte kurragömma bland blommorna. 'Här är du!' skrattade Fifi.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan satte sig mormor i favoritfåtöljen och berättade en saga om när Fifi var liten. 'Åh, vad mysigt!' viskade Fifi.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "När det var dags att gå hem, gav mormor Fifi och Bella en stor kram. 'Familj är det bästa som finns,' sa Fifi glatt.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bella the Bunny",
+      "Grandma Fox"
+    ],
+    "theme": "family",
+    "targetAge": "2-4",
+    "wordCount": 125,
+    "generatedAt": "2026-05-28T06:05:00.000000"
+  }
+}

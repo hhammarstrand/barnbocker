@@ -1,0 +1,22 @@
+{
+  "bookId": "dottle-adventure-1",
+  "title": "Dottles första äventyr",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A small serious grey duck with proper posture consulting a tiny notebook with a detailed plan. A cute baby red fox with bright orange fur is looking over her shoulder好奇ly. The duck looks organized and determined. Forest path setting with morning light. Child-friendly illustration with soft watercolor style.",
+    "A small grey duck looking annoyed and pointing at a mysterious hidden path while a cute red fox looks at it with big curious eyes. The path is overgrown with interesting plants. Dottle looks like she wants to follow the plan, Fifi clearly wants to explore. Child-friendly illustration.",
+    "A cute red fox running down a secret overgrown path with a small grey duck following reluctantly behind. The path is magical with dappled sunlight. Fifi is excited and adventurous, Dottle is following with a mix of worry and curiosity. Child-friendly illustration.",
+    "A small grey duck and a cute red fox standing amazed in a magical forest clearing full of beautiful colorful flowers and butterflies. Both have wide eyes of wonder. The clearing is enchanted and magical. Soft golden light filtering through trees. Child-friendly illustration.",
+    "A small grey duck and a cute red fox laughing together in a magical clearing. Both have big smiles. Dottle looks like she has relaxed and is enjoying the moment. Fifi looks proud. The flowers around them are bright and beautiful. Child-friendly illustration with warm happy feeling.",
+    "A small grey duck and a cute red fox sitting together making a joint plan with scribbles and drawings, leaving room for 'mystery' and 'surprises' marked with little stars. They are smiling at each other. A cozy outdoor setting. Child-friendly illustration conveying teamwork and planning together."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA", "A9A9A9"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "adventure, friendship, wonder"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "dottle": "Small round grey duck who is very serious about everything. Color palette: #A9A9A9 (grey), #87CEEB (water accents). Has a dignified but lovable stern expression."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bookId": "fifi-creek",
+  "title": "Fifi upptäcker bäcken",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail. Children's book illustration style. Fifi and Oliver the owl with spectacles are walking through a sunny meadow, Fifi looking curious and pointing ahead. Warm golden morning light. Child-friendly illustration with soft colors.",
+    "A cute baby red fox with bright orange fur and Oliver the owl walking together through a meadow following a sound. They look excited and curious. Tall grass and wildflowers on both sides. Beautiful warm light filtering through. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and cream-colored belly standing at the edge of a sparkling clear creek. The water glitters in the sunlight. Oliver the owl is beside her pointing at the water. Beautiful natural scene with smooth stones and gentle flow. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur crouching by a creek watching small fish swimming in the clear water. Oliver the owl with spectacles is nearby naming the fish gently. The water is crystal clear showing pebbles on the bottom. Sunny day, dappled light through trees. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur throwing a small stone into a creek. PLASK! Water splashing beautifully. Oliver the owl is watching and laughing nearby. The scene captures joyful movement and splash. Warm sunny day by the water. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Oliver the owl standing at the edge where the creek flows into a larger lake. The water is calm and sparkling. They look happy and amazed. Lots of water plants and gentle reeds around. Beautiful sunset warm light reflecting on water. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "curious, wonder, nature discovery"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "oliver": "Round, fluffy owl with warm tan/brown feathers, big round spectacles, a wise tuft. Color palette: #C8A96E (tan), #FFFFFF (chest), #8B5E3C (wing tips), gold spectacle frames."
+  }
+}

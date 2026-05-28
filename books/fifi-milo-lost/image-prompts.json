@@ -1,0 +1,23 @@
+{
+  "bookId": "fifi-milo-lost",
+  "title": "Milo hittar hem",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of curiosity. Fluffy white-tipped tail. Children's book illustration style. Milo the tiny brown mouse is exploring a sunny meadow with tall grass and wildflowers, looking around with wonder and curiosity. Warm golden sunlight. Child-friendly and cozy. No sharp edges.",
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of curiosity. Children's book illustration style. Small brown Milo the mouse looking worried and uncertain in an unfamiliar part of the meadow, surrounded by tall grass. The scene conveys nervousness but is still child-friendly and not scary. Warm afternoon light.",
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout standing with Oliver the owl. Oliver is a round fluffy owl with warm tan feathers and big round spectacles. Both looking concerned and determined. They are searching through a meadow calling out 'Milo!'. Warm afternoon light filtering through trees. Child-friendly children's book illustration.",
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout calling out 'Milo!' in a sunny meadow. Oliver the owl with spectacles is looking around carefully. Beautiful meadow with soft grass, flowers, and gentle breeze. Warm golden late afternoon sunlight. Child-friendly children's book illustration.",
+    "A cute baby red fox with bright orange fur comforting a small brown Milo the mouse who is sitting sadly on a big rock. Oliver the owl stands nearby with a gentle expression. The scene is emotional but warm and reassuring. Soft evening light. Child-friendly children's book illustration with warm colors.",
+    "A cute baby red fox, Milo the small brown mouse, and Oliver the owl walking together through a meadow at sunset. The sky is painted in warm oranges and soft purples. They look happy and relieved. Milo is smiling. Warm, cozy feeling. Child-friendly children's book illustration with soft watercolor style."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "warm, reassuring, cozy"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of curiosity. Fluffy white-tipped tail. Standing upright in a friendly pose.",
+    "milo": "Tiny brown field mouse, big round ears, bright nervous eyes. Color palette: #A0785A (brown), #F5DEB3 (belly). Small and timid but sweet.",
+    "oliver": "Round, fluffy owl with warm tan/brown feathers, big round spectacles, a wise tuft. Color palette: #C8A96E (tan), #FFFFFF (chest), #8B5E3C (wing tips), gold spectacle frames."
+  }
+}

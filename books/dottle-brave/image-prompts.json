@@ -1,0 +1,23 @@
+{
+  "bookId": "dottle-brave",
+  "title": "Dottle är modig",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A small grey duck looking worried standing at the edge of a lake, clearly afraid of the deep water despite being a duck. She is surrounded by four fluffy yellow ducklings looking up at her trustingly. The lake looks deep and dark. Child-friendly illustration showing fear but not scary.",
+    "A tiny fluffy yellow duckling standing alone on a small island in the middle of a lake, looking scared and calling out 'Mamma! Mamma!'. The other ducks and Fifi are on the shore looking concerned. Child-friendly illustration.",
+    "A small grey duck taking a deep breath looking at the water with determination. Fifi the red fox is beside her looking supportive. The grey duck looks nervous but resolute. Lake setting with morning light. Child-friendly illustration.",
+    "A small grey duck looking at her smallest yellow duckling on the island. The duckling looks small and scared. Dottle has a tender determined expression. 'Pip needs me' feeling. Child-friendly illustration with warm supportive feeling.",
+    "A small grey duck swimming through calm lake water carrying a tiny yellow duckling on her back. Both looking determined and safe. Water rippling around them. The duckling is clinging on securely. Child-friendly illustration conveying courage and safety.",
+    "A small grey duck with four fluffy yellow ducklings surrounding her on the shore, all looking amazed and proud. Dottle is smiling bashfully but proudly. Fifi the red fox is giving her a big thumbs up. Beautiful sunset over the lake. Child-friendly illustration conveying triumph and bravery."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA", "A9A9A9", "FFD700", "87CEEB"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "courage, bravery, maternal love"
+  },
+  "characterDescriptions": {
+    "dottle": "Small round grey duck learning to be brave. Color palette: #A9A9A9 (grey), #87CEEB (water accents).",
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "pip": "The smallest fluffy yellow duckling. Color palette: #FFD700 (bright yellow feathers), #FFA500 (orange beak and feet). Very small and vulnerable but lovable."
+  }
+}

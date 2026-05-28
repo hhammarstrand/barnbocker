@@ -1,0 +1,30 @@
+{
+  "bookId": "fifi-meets-dottle",
+  "promptVersion": "1.0",
+  "pages": [
+    {
+      "page": 1,
+      "imagePrompt": "A cute little orange baby fox named Fifi with bright eyes and a fluffy tail standing at a peaceful lake shore, meeting a serious-looking small grey duck with large eyes. Soft watercolor children's book illustration style. Warm golden morning light, gentle ripples on the water, reeds and cattails in the background. No text in image."
+    },
+    {
+      "page": 2,
+      "imagePrompt": "A small grey duck named Dottle looking slightly overwhelmed, standing with four tiny yellow fluffy ducklings who are running in different directions in a chaotic but adorable way. Dottle has a resigned but loving expression. Soft watercolor children's book style. A cozy pond environment with lily pads and flowers. No text in image."
+    },
+    {
+      "page": 3,
+      "imagePrompt": "Fifi the orange fox bouncing excitedly wanting to play, while Dottle the grey duck holds up one wing as if saying 'wait, we need rules first.' The four yellow ducklings are watching curiously nearby. Expressive faces showing the contrast between Fifi's exuberance and Dottle's seriousness. Soft watercolor children's book illustration. No text in image."
+    },
+    {
+      "page": 4,
+      "imagePrompt": "Rain falling from grey clouds over a pond scene. The four yellow ducklings are running around chaotically with their wings flapping, splashing in puddles. Dottle the grey duck looks worried with wings spread as if trying to gather them. Fifi the fox watches with wide eyes. Dynamic scene with raindrops, ripples, and movement everywhere. Soft watercolor children's book style. No text in image."
+    },
+    {
+      "page": 5,
+      "imagePrompt": "Fifi the orange fox leading a fun game, singing and dancing while gathering the four yellow ducklings who are now happily following her in a line. Dottle the grey duck is smiling for the first time, watching with a warm expression. Sunny scene breaking through the clouds. Joyful, warm children's book illustration with soft watercolor style. No text in image."
+    },
+    {
+      "page": 6,
+      "imagePrompt": "Fifi the fox and Dottle the grey duck sitting together on a hill overlooking the pond at sunset, the four yellow ducklings sleeping peacefully nearby under Dottle's wing. A cozy, warm scene showing deep friendship. Orange and purple sunset colors reflecting on the calm water. Sweet, heartwarming children's book illustration. No text in image."
+    }
+  ]
+}

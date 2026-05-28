@@ -1,0 +1,58 @@
+{
+  "id": "fifi-gratitude-finale",
+  "title": "Fifi och alla sina vänner",
+  "description": "Fifi vaknar och känner tacksamhet för alla sina vänner. Hon besöker var och en och säger något hon älskar hos dem. Den sista sidan är en stor vårpicknick med alla.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En vacker vårdag vaknade Fifi och log. 'Vad glad jag är för mina vänner!' sa hon för sig själv.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi gick till Bruno. 'Du är så snäll och stabil,' sa hon. 'Som en stor varm filt.' Bruno log och kramade henne.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan hittade hon Bella. 'Du är så modig,' sa Fifi. 'Fast du är lite blyg, vågar du ändå.' Bella rodnade och log.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Oliver satt i sitt bibliotek. 'Du lär mig så mycket,' sa Fifi. 'Varje dag är en ny upptäckt.' Oliver nickade vänligt.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Till sist hittade hon Milo. 'Du är min modigaste vän,' sa hon. 'Liten men så modig.' Milos ögon tändes av glädje.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Och så hade de en stor vårpicknick i skogen - alla tillsammans! 'Tacksamhet är kärlek som växer,' sa Fifi. 'Och jag har så mycket kärlek!'",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear",
+      "Bella the Bunny",
+      "Oliver the Owl",
+      "Milo the Mouse"
+    ],
+    "theme": "gratitude",
+    "targetAge": "2-5",
+    "wordCount": 142,
+    "generatedAt": "2026-05-28T06:12:00.000000"
+  }
+}

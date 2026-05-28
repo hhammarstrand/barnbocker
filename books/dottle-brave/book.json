@@ -1,0 +1,56 @@
+{
+  "id": "dottle-brave",
+  "title": "Dottle är modig",
+  "description": "Dottle är rädd för vatten - trots att hon är en anka! När hennes minsta ankunge fastnar på en ö i sjön måste hon övervinna sin rädsla.",
+  "coverColor": "A9A9A9",
+  "coverEmoji": "🦆",
+  "pages": [
+    {
+      "text": "Dottle var ledare för alla ankungarna. Men det var en sak hon aldrig berättade: hon var rädd för djupt vatten.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "En dag var lilla Pip - den minsta ankungen - på en liten ö i sjön. 'Mamma! Mamma!' ropade Pip ledset.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Alla såg på Dottle. 'Jag... jag kan simma ut till henne,' sa Dottle tveksamt. 'Men jag...'",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Pip behöver dig,' sa Fifi lugnt. Dottle tittade på sin lilla ankunge. 'Ja. Pip behöver mig.'",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Dottle tog ett djupt andetag och hoppade i. Vattnet var kallt men inte läskigt. Hon simmade och simmade tills hon nådde Pip.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Med Pip trygg på ryggen simmade Dottle tillbaka. 'Du var så modig!' sa alla. Dottle log: 'Att vara modig är inte att inte vara rädd. Det är att göra det rätta ändå.'",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Dottle the Duck",
+    "sideCharacters": [
+      "Fifi the Fox",
+      "Pip the Duckling"
+    ],
+    "theme": "bravery",
+    "targetAge": "3-5",
+    "wordCount": 130,
+    "generatedAt": "2026-05-28T08:18:00.000000"
+  }
+}

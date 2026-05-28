@@ -1,0 +1,22 @@
+{
+  "bookId": "fifi-nest",
+  "title": "Fifi och den nyfikna ägget",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail. Children's book illustration style. Fifi is crouching on the ground near a tree trunk looking at a small white egg with speckles lying on the forest floor. She looks very curious and wondering. Soft morning light filtering through trees. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur carefully touching a small speckled egg with her nose. A small pale-grey rabbit with long pink ears (Bella the Bunny) is standing nearby looking surprised. The egg looks warm and special. Soft natural light. Child-friendly illustration with gentle atmosphere.",
+    "A cute baby red fox with bright orange fur and Bella the small pale rabbit looking up at a bird's nest high in a tree branch. The nest is made of twigs and moss. Bella is pointing up at it. They both look understanding and concerned. Warm sunny day in the meadow. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur looking thoughtful and tempted, her paw near the egg. Small thought bubbles around her showing curiosity. Bella the bunny is shaking her head gently saying no with a kind expression. The scene captures the moment of temptation vs kindness. Warm, gentle feeling. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bella the bunny carefully lifting a speckled egg together, placing it back into a bird's nest in a tree. A small parent bird is watching them from a nearby branch with gratitude. Warm gentle scene. Soft natural lighting. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bella the bunny looking up at a bird's nest in a tree. Inside the nest is a tiny fluffy baby bird with its mouth open waiting for food. The mother bird is feeding it. Fifi and Bella look amazed and happy. Beautiful soft warm lighting, spring meadow feeling. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "curious, gentle, rewarding patience"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "bella": "Small pale-grey rabbit with long ears, fluffy white tail, pink inner ears. Color palette: #D3D3D3 (grey), #FFFFFF (tail/belly), #FFB6C1 (inner ears, nose)."
+  }
+}

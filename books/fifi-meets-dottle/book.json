@@ -1,0 +1,56 @@
+{
+  "id": "fifi-meets-dottle",
+  "title": "Fifi träffar Dottle",
+  "description": "Fifi hittar en liten grå anka som är väldigt allvarlig. Dottle tycker om ordning och regler. Men tillsammans upptäcker de att vänskap kan vara lite kaotisk och mysig.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En dag hittade Fifi en liten grå anka vid sjön. 'Hej! Vad heter du?' frågade Fifi glatt. 'Dottle,' sa ankan seriously.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Dottle hade fyra små halv syskon som var väldigt kaotiska. 'De är så röriga!' sa Dottle och suckade. 'Men de är mina.'",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi tyckte det var så roligt! 'Låt oss leka!' ropade hon. Men Dottle sa: 'Nej, vi måste ha regler.'",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan kom ett regn och alla ankungarna sprang runt utan kontroll. 'Hjälp!' sa Dottle oroligt.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi tog ledningen och samlade ankungarna med sånger och lekar. Dottle log för första gången. 'Det var faktiskt roligt!'",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Vänskap behöver inte vara perfekt,' sa Fifi. Dottle nickade. 'Men det kan vara väldigt mysigt ändå.'",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Dottle the Duck",
+      "Ducklings"
+    ],
+    "theme": "new-friendship",
+    "targetAge": "3-5",
+    "wordCount": 128,
+    "generatedAt": "2026-05-28T07:40:00.000000"
+  }
+}

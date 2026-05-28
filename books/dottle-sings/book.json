@@ -1,0 +1,55 @@
+{
+  "id": "dottle-sings",
+  "title": "Dottle sjunger",
+  "description": "Dottle är allvarlig om allt - utom när hon sjunger. När hennes syskon är ledsna börjar hon sjunga och upptäcker att musik kan göra vem som helst glad.",
+  "coverColor": "A9A9A9",
+  "coverEmoji": "🦆",
+  "pages": [
+    {
+      "text": "Dottle var känd för att vara väldigt allvarlig. Men när hon var ensam brukade hon nynna små melodier för sig själv.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "En dag var alla ankungarna ledsna. 'Varför är alla så dystra?' frågade Dottle. 'Vi saknar mamma,' svarade de.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Dottle kände sig hjälplös. Sedan började hon nynna - och det blev till en sång. 'Vad gör du?' frågade ankungarna.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Jag sjunger!' sa Dottle överraskat. Ochsnart sjöng alla ankungarna med - även de som inte kunde tonen.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Snart log alla och dansade runt dammen. Dottle skrattade för första gången på riktigt.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Musik gör alla glad,' sa Dottle. 'Till och med mig.' Sedan tog hon ledningen och de sjöng hela vägen hem.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Dottle the Duck",
+    "sideCharacters": [
+      "Ducklings"
+    ],
+    "theme": "music-joy",
+    "targetAge": "3-5",
+    "wordCount": 118,
+    "generatedAt": "2026-05-28T08:16:00.000000"
+  }
+}

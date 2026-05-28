@@ -1,0 +1,22 @@
+{
+  "bookId": "fifi-blocks",
+  "title": "Fifi har ett pyre",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of excitement. Fluffy white-tipped tail. Children's book illustration style. Fifi is happily stacking colorful building blocks on a carpet in her cozy den. She looks determined and excited. Warm indoor lighting, child-friendly atmosphere.",
+    "A cute baby red fox with bright orange fur looking frustrated. Building blocks scattered on the floor after a tower collapsed. Fifi has a disappointed expression but not scary or sad - more annoyed. Her arms are crossed. A cozy playroom setting with soft colors. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur sitting on the floor looking frustrated and sad. Scattered blocks around her. She has a small frown but is not crying - just a bit grumpy. Bruno the large warm brown bear is standing nearby looking concerned and friendly. Cozy den interior. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur talking to Bruno the large warm brown bear in her cozy den. Bruno is kneeling down to her level with a kind gentle smile. Fifi looks up at him hopefully. The blocks are still on the floor but the mood is hopeful. Warm, supportive feeling. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bruno the large brown bear building a block tower together on the floor. They are placing a wide block at the bottom first. Both look focused and happy. The tower is small but stable. Cozy den with warm lighting. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and cream-colored belly jumping with joy, arms raised in celebration. Next to her is a tall but stable block tower they built together. Bruno the brown bear is smiling proudly beside her. Happy triumphant atmosphere. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "warm, encouraging, problems solved"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "bruno": "Large, warm brown bear with round belly, soft fur, and a kind smile. Color palette: #8B5E3C (warm brown), #F5DEB3 (muzzle/chest cream), #2C3E50 (eyes)."
+  }
+}

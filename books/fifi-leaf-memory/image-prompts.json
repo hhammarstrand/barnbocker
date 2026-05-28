@@ -1,0 +1,22 @@
+{
+  "bookId": "fifi-leaf-memory",
+  "title": "Fifi och komihåg-bladet",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail. Children's book illustration style. Fifi is walking through an autumn forest full of golden, orange, and red falling leaves. She looks amazed by the beautiful colors around her. Warm autumn light filtering through trees. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur picking up a beautiful perfect autumn leaf that is red, orange and gold. She is holding it up with wonder, her eyes wide with excitement. The leaf is detailed and beautiful against the soft autumn forest background. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur looking thoughtful while Milo the small brown mouse is standing next to her talking. Milo is gesturing with his tiny paws. Fifi looks like she is thinking about what he said. Autumn forest setting with soft light. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Milo the small brown mouse sitting on fallen leaves with drawing pads and crayons, drawing happily. They are surrounded by autumn leaves. Both are smiling and drawing. Warm autumn atmosphere. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur comparing her drawing to Milo the mouse's drawing and laughing. Both drawings show a tree with colorful leaves. Milo is holding up his drawing proudly. They are sitting among autumn leaves having fun. Warm golden autumn light. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Milo the mouse walking home together through an autumn forest, leaving the beautiful tree behind. They are holding their drawings and smiling. The autumn leaves are falling gently around them. Warm sunset light. Child-friendly illustration with a nostalgic but happy feeling."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA", "E74C3C", "C39BD3"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "autumn, nostalgia, friendship"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "milo": "Tiny brown field mouse, big round ears, bright nervous eyes. Color palette: #A0785A (brown), #F5DEB3 (belly)."
+  }
+}

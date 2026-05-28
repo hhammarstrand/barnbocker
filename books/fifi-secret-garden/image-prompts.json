@@ -1,0 +1,22 @@
+{
+  "bookId": "fifi-secret-garden",
+  "title": "Fifi och Brunoss hemlighet",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail. Children's book illustration style. Bruno the large warm brown bear is talking seriously to Fifi, holding out his paw for a pinky promise. Fifi looks serious and understanding, nodding. The forest setting is warm and intimate. Child-friendly illustration with soft lighting.",
+    "A cute baby red fox with bright orange fur reaching out her small paw to touch Brunos large paw, making a pinky promise. Bruno the brown bear is smiling warmly. They are standing in a sunny forest clearing. The mood is serious but warm - keeping a precious secret. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur following Bruno the large brown bear through a hidden path in the forest. The path is overgrown with gentle leaves and soft light filtering through. Bruno is leading the way with a gentle smile. The scene feels magical and secret. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur standing in a hidden secret garden surrounded by beautiful flowers, butterflies, and soft plants. Bruno the brown bear is standing proudly in his garden. Fifi looks amazed and surprised, eyes wide open. Beautiful magical hidden clearing with warm golden light. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur looking at a beautiful flower in a secret garden with wonder and admiration. Bruno the brown bear is watching her proudly. There are colorful flowers, gentle bees, and soft sunlight. The scene conveys pride and joy in sharing something special. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bruno the large brown bear planting a new flower together in the secret garden. Both are smiling happily, working as a team. The garden is full of beautiful flowers around them. Warm golden late afternoon light filtering through trees. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "secret, trust, nature beauty"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "bruno": "Large, warm brown bear with round belly, soft fur, and a kind smile. Color palette: #8B5E3C (warm brown), #F5DEB3 (muzzle/chest cream), #2C3E50 (eyes)."
+  }
+}

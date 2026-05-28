@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="sv">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <title>Fifi upptäcker bäcken</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #1a1a2e; color: #fff; min-height: 100vh; display: flex; flex-direction: column; }
+    .header { background: #16213e; padding: 16px 20px; display: flex; align-items: center; justify-content: space-between; }
+    .header h1 { font-size: 18px; font-weight: 600; }
+    .page-indicator { font-size: 14px; color: #888; }
+    .book-container { flex: 1; display: flex; align-items: center; justify-content: center; padding: 20px; max-width: 800px; margin: 0 auto; width: 100%; }
+    .page { background: #fff; border-radius: 16px; overflow: hidden; box-shadow: 0 8px 32px rgba(0,0,0,0.4); max-width: 100%; width: 100%; display: none; }
+    .page.active { display: block; }
+    .page img { width: 100%; aspect-ratio: 4/3; object-fit: cover; display: block; }
+    .page-text { padding: 24px 20px; color: #333; font-size: 20px; line-height: 1.6; text-align: center; }
+    .nav-controls { display: flex; gap: 12px; justify-content: center; padding: 20px; background: #16213e; }
+    .nav-btn { background: #6366f1; color: white; border: none; padding: 14px 32px; border-radius: 12px; font-size: 16px; font-weight: 600; cursor: pointer; min-width: 120px; }
+    .nav-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+    .nav-btn:active:not(:disabled) { transform: scale(0.97); }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>Fifi upptäcker bäcken</h1>
+    <span class="page-indicator" id="pageIndicator">1 / 6</span>
+  </div>
+  <div class="book-container">
+    <div class="page active" id="page0">
+      <img src="books/fifi-creek/images/page-1.png" alt="Page 1">
+      <div class="page-text">En dag hörde Fifi något konstigt. 'Vad är det för ljud?' frågade hon. 'Det låter som sång,' sa Oliver.</div>
+    </div>
+    <div class="page" id="page1">
+      <img src="books/fifi-creek/images/page-2.png" alt="Page 2">
+      <div class="page-text">Fifi och Oliver följde ljudet genom ängen. Ju närmare de kom, desto starkare blev det. 'Det är vatten!' ropade Fifi.</div>
+    </div>
+    <div class="page" id="page2">
+      <img src="books/fifi-creek/images/page-3.png" alt="Page 3">
+      <div class="page-text">De hittade en liten bäck som glittrade i solen. 'Det här är fantastiskt!' sa Fifi med stora ögon. Oliver log.</div>
+    </div>
+    <div class="page" id="page3">
+      <img src="books/fifi-creek/images/page-4.png" alt="Page 4">
+      <div class="page-text">Fifi såg små fiskar simma i vattnet. 'Vad är det där?' frågade hon. 'Det är fiskar,' förklarade Oliver tålmodigt.</div>
+    </div>
+    <div class="page" id="page4">
+      <img src="books/fifi-creek/images/page-5.png" alt="Page 5">
+      <div class="page-text">Sedan försökte Fifi kasta stenar i vattnet. PLASK! 'Titta, jag fick den att plaska!' Oliver skrattade och berömde hennes teknik.</div>
+    </div>
+    <div class="page" id="page5">
+      <img src="books/fifi-creek/images/page-6.png" alt="Page 6">
+      <div class="page-text">De följde bäcken hela vägen till sjön. 'Naturen är full av under!' sa Fifi glad. 'Vi upptäcker mer imorgon,' sa Oliver.</div>
+    </div>
+  </div>
+  <div class="nav-controls">
+    <button class="nav-btn" id="prevBtn" onclick="prevPage()">Previous</button>
+    <button class="nav-btn" id="nextBtn" onclick="nextPage()">Next</button>
+  </div>
+  <script>
+    const totalPages = 6;
+    let currentPage = 0;
+    const pages = document.querySelectorAll('.page');
+    
+    function showPage(index) {
+      pages.forEach((p, i) => p.classList.toggle('active', i === index));
+      document.getElementById('pageIndicator').textContent = `${index + 1} / ${totalPages}`;
+      document.getElementById('prevBtn').disabled = index === 0;
+      document.getElementById('nextBtn').disabled = index === totalPages - 1;
+    }
+    
+    function prevPage() { if (currentPage > 0) showPage(--currentPage); }
+    function nextPage() { if (currentPage < totalPages - 1) showPage(++currentPage); }
+    
+    document.addEventListener('keydown', (e) => { 
+      if (e.key === 'ArrowLeft') prevPage(); 
+      if (e.key === 'ArrowRight') nextPage(); 
+    });
+    
+    showPage(0);
+  </script>
+</body>
+</html>

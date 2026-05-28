@@ -1,0 +1,14 @@
+{
+  "bookId": "fifi-magiska-skogen",
+  "title": "Fifi och den magiska skogen",
+  "title_en": "Fifi and the magical forest",
+  "theme": "imagination",
+  "mainCharacter": "Fifi the Fox",
+  "sideCharacters": ["Milo the Mouse"],
+  "targetAge": "3-5",
+  "pageCount": 6,
+  "wordCount": 128,
+  "status": "script_complete",
+  "createdBy": "CTO",
+  "createdAt": "2026-05-28T08:00:00.000Z"
+}

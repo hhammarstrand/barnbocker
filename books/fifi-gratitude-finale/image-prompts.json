@@ -1,0 +1,25 @@
+{
+  "bookId": "fifi-gratitude-finale",
+  "title": "Fifi och alla sina vänner",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail. Children's book illustration style. Fifi is waking up in her cozy den on a beautiful spring morning, sunlight streaming through the window. She has a big happy smile and looks grateful and content. Spring flowers visible outside. Warm golden morning light. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur hugging Bruno the large warm brown bear in a forest clearing. Bruno is hugging her back with a big gentle smile. Cherry blossom trees in full bloom around them. Spring setting with flowers and butterflies. The mood is warm and loving. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur standing with Bella the small pale rabbit who is blushing and smiling shyly. They are in a sunny meadow with spring flowers. Bella looks surprised and touched by the compliment. The scene conveys bravery and friendship. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur sitting in Oliver the owl's library tree surrounded by books. Oliver is on his branch wearing his spectacles and looking wise and warm. Fifi is looking up at him with gratitude. The library tree has lots of books and cozy reading spots. Spring light coming through windows. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur high-fiving or doing a small handshake with Milo the tiny brown mouse. Milo is standing on a tree stump so they can be at the same height. Both are smiling big. Spring forest setting with flowers. The moment captures bravery and friendship despite size difference. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur sitting at a picnic with ALL friends - Bruno the bear, Bella the bunny, Oliver the owl with spectacles, and Milo the mouse. They are in a beautiful forest clearing with spring flowers, picnic blankets, food, and celebration. Everyone is smiling happily. Spring blossoms on trees, butterflies, warm sunshine. A joyful group celebration scene. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "celebration, gratitude, spring joy"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "bruno": "Large, warm brown bear with round belly, soft fur, and a kind smile. Color palette: #8B5E3C (warm brown), #F5DEB3 (muzzle/chest cream), #2C3E50 (eyes).",
+    "bella": "Small pale-grey rabbit with long ears, fluffy white tail, pink inner ears. Color palette: #D3D3D3 (grey), #FFFFFF (tail/belly), #FFB6C1 (inner ears, nose).",
+    "oliver": "Round, fluffy owl with warm tan/brown feathers, big round spectacles, a wise tuft. Color palette: #C8A96E (tan), #FFFFFF (chest), #8B5E3C (wing tips), gold spectacle frames.",
+    "milo": "Tiny brown field mouse, big round ears, bright nervous eyes. Color palette: #A0785A (brown), #F5DEB3 (belly)."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "fifi-nest",
+  "title": "Fifi och den nyfikna ägget",
+  "description": "Fifi hittar ett ägg på marken och undrar vad som finns inuti. Bella hjälper henne lägga tillbaka det i boet. Senare ser de en liten fågelunge.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En morgon hittade Fifi något runt och vitt på marken nära ett träd. 'Vad är det här?' undrade hon nyfiket.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi rörde försiktigt ägget med sin lilla nos. Det var varmt! 'Det måste vara ett ägg,' sa Bella som kom förbi.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Titta! Där är fågelboet,' sa Bella och pekade upp i trädet. 'Ägget måste ha ramlat ner,' förstod Fifi.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi var så nyfiken på vad som fanns inuti. 'Öppna det!' tänkte hon. Men Bella sa: 'Nej! Vi måste vara snälla.'",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Tillsammans lyfte de försiktigt ägget och la det tillbaka i boet. 'Bra gjort av er,' sa en liten fågel som flög dit.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Några dagar senare såg Fifi och Bella in i boet igen. Där satt en liten fågelunge och öppnade sin mun för mat. 'Åh!' sa Fifi glad.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bella the Bunny"
+    ],
+    "theme": "curiosity-life",
+    "targetAge": "2-4",
+    "wordCount": 134,
+    "generatedAt": "2026-05-28T06:08:00.000000"
+  }
+}

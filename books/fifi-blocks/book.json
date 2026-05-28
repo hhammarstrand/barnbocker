@@ -1,0 +1,55 @@
+{
+  "id": "fifi-blocks",
+  "title": "Fifi har ett pyre",
+  "description": "Fifi bygger ett högt torn med klossar men det ramlar ner. Hon blir frustrerad. Bruno är tålmodig och hjälper henne tänka på ett nytt sätt.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En dag bestämde sig Fifi för att bygga det högsta tornet ever. 'Jag ska bygga något fantastiskt!' sa hon glatt.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi staplande klossarna högt, en efter en. ' Nästan klart! Nu bara-' KLANK! Hela tornet ramlade.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi kände sig frustrerad. 'Det funkar aldrig!' sa hon och sparkade till en kloss. Hon satte sig på golvet och suckade.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Bruno kom förbi och såg vad som hänt. 'Vill du ha hjälp?' frågade han vänligt. 'Jag har byggt många torn.'",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Tillsammans började de om. Den här gången byggde de en bred bas först. 'Langsamt och stabilt!' sa Bruno. Och det fungerade!",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Snart hade de byggt det vackraste tornet. 'Vi gjorde det!' ropade Fifi stolt. 'Att försöka igen är det bästa man kan göra.'",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Bruno the Bear"
+    ],
+    "theme": "problem-solving",
+    "targetAge": "2-5",
+    "wordCount": 128,
+    "generatedAt": "2026-05-28T06:06:00.000000"
+  }
+}

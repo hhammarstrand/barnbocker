@@ -1,0 +1,56 @@
+{
+  "id": "fifi-milo-lost",
+  "title": "Milo hittar hem",
+  "description": "Milo ger sig iväg längre än vanligt och blir vilse. Fifi och Oliver letar tills de hittar honom precis innan solnedgången.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En dag bestämde sig Milo för att utforska ängen bortanför eken. 'Vad ska jag upptäcka idag?' tänkte han nyfiket.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Plötsligt kände sig Milo osäker. Var var han? Allt såg främmande ut. 'Var är mitt bo?' viskade han oroligt.",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi och Oliver märkte att Milo var borta. 'Vi måste hitta honom!' sa Fifi bestämt. Tillsammans började de söka.",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De ropade Milos namn genom ängen. 'Milo! Milo!' Fifi tittade försiktigt bakom varje sten och buske.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Där hittade de honom! Milo satt vid en stor sten och var ledsen. 'Jag var så rädd,' sa han med tårar i ögonen.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "'Du är inte vilse längre,' tröstade Fifi. Oliver log. 'Vi hittade dig!' Tillsammans gick de hem precis som solen gick ner.",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": [
+      "Milo the Mouse",
+      "Oliver the Owl"
+    ],
+    "theme": "belonging",
+    "targetAge": "3-5",
+    "wordCount": 118,
+    "generatedAt": "2026-05-28T06:02:00.000000"
+  }
+}

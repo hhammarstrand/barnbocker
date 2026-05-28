@@ -1,0 +1,23 @@
+{
+  "bookId": "fifi-family",
+  "title": "Fifi och den stora familia",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of curiosity. Fluffy white-tipped tail. Children's book illustration style. Fifi is walking happily through a sunny forest path toward a cozy cottage with smoke coming from the chimney. Warm golden morning light filtering through trees. Child-friendly and cozy.",
+    "A cute baby red fox with bright orange fur and cream-colored belly sitting in a warm cozy kitchen. A small pale-grey rabbit with long ears and pink inner ears (Bella the Bunny) is there too. They are looking at each other with happy smiles. Grandma's kitchen with warm lighting, flowers on the table. Child-friendly children's book illustration with soft watercolor style.",
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout at a family celebration. An elderly fox (grandma) with kind eyes and grey-tipped fur is serving cake and juice. Small pale Bella the Bunny is also present. A cozy kitchen decorated for a party with balloons and flowers. Warm, festive, child-friendly children's book illustration.",
+    "A cute baby red fox with bright orange fur and cream-colored belly playing hide and seek with Bella the small grey rabbit in a beautiful garden full of colorful flowers. They are laughing and playing. The garden has butterflies and sunshine. Child-friendly children's book illustration with warm pastel colors.",
+    "A cute baby red fox with bright orange fur listening intently while an elderly kind fox (grandma) sits in a cozy armchair telling a story. The scene is warm and intimate with soft lamplight. Child-friendly children's book illustration with warm colors and gentle atmosphere.",
+    "A cute baby red fox with bright orange fur and cream-colored belly hugging an elderly fox (grandma) warmly. Small pale Bella the Bunny is joining the hug. They are at the doorstep saying goodbye. Golden sunset light. Child-friendly children's book illustration with warm, loving feeling."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "warm, loving, cozy family"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes with sparkle of curiosity. Fluffy white-tipped tail. Standing upright in a friendly pose.",
+    "bella": "Small pale-grey rabbit with long ears, fluffy white tail, pink inner ears. Color palette: #D3D3D3 (grey), #FFFFFF (tail/belly), #FFB6C1 (inner ears, nose). Shy but sweet expression.",
+    "grandma": "Elderly red fox with grey-tipped fur, kind warm eyes, gentle smile. Similar coloring to Fifi but with silver/grey highlights. Wearing a cozy shawl."
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "bookId": "dottle-sings",
+  "title": "Dottle sjunger",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A small serious grey duck humming a melody to herself by a calm pond, eyes closed with a peaceful expression. Small music notes floating around her. Late afternoon golden light on the water. The scene is intimate and gentle. Child-friendly illustration.",
+    "A small grey duck looking worried surrounded by four fluffy yellow ducklings who look sad and forlorn. The ducklings are huddled together. A quiet pond scene with muted colors conveying sadness. Child-friendly illustration.",
+    "A small grey duck with wide eyes of surprise, realizing she has started singing. Four ducklings looking up at her curiously. Music notes starting to float in the air. The mood is shifting from sad to curious. Child-friendly illustration.",
+    "A small grey duck leading a joyful singing session with four fluffy yellow ducklings around her, all with open mouths singing. The scene is chaotic and joyful with music notes floating everywhere. A sunny pond setting with bright colors. Child-friendly illustration with warm happy feeling.",
+    "A small grey duck and four yellow ducklings dancing around a pond in a circle, laughing and having fun. Water splashing playfully. Big smiles on all faces. Bright sunny day with joyful atmosphere. Child-friendly illustration.",
+    "A small grey duck walking with a line of four fluffy yellow ducklings singing together down a sunny path. Dottle is leading proudly, one duckling has a tiny musical note by its head. They look happy and united. Warm golden hour light. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA", "A9A9A9", "FFD700"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "joy, music, togetherness"
+  },
+  "characterDescriptions": {
+    "dottle": "Small round grey duck who is very serious but discovered she loves singing. Color palette: #A9A9A9 (grey), #87CEEB (water accents).",
+    "ducklings": "Four small bright yellow fluffy ducklings. Color palette: #FFD700 (bright yellow feathers), #FFA500 (orange beak and feet)."
+  }
+}

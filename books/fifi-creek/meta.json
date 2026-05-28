@@ -1,0 +1,14 @@
+{
+  "bookId": "fifi-creek",
+  "title": "Fifi upptäcker bäcken",
+  "title_en": "Fifi discovers the creek",
+  "theme": "nature-exploration",
+  "mainCharacter": "Fifi the Fox",
+  "sideCharacters": ["Oliver the Owl"],
+  "targetAge": "3-5",
+  "pageCount": 6,
+  "wordCount": 132,
+  "status": "script_complete",
+  "createdBy": "Creative Director",
+  "createdAt": "2026-05-28T06:07:00.000Z"
+}

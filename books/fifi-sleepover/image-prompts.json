@@ -1,0 +1,22 @@
+{
+  "bookId": "fifi-sleepover",
+  "title": "Fifi sover över",
+  "promptLanguage": "sv",
+  "imagePrompts": [
+    "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail. Children's book illustration style. Fifi is holding a letter excitedly, her eyes wide with happiness and anticipation. She looks delighted. Cozy indoor setting with warm lighting. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur looking a bit worried and nervous, sitting on her bed holding her packed bag. She has a small uncertain expression but not scared. Her mom is hugging her nearby. Cozy bedroom with warm evening light. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur receiving a warm hug from her mother fox. Both are smiling. The mother has a gentle loving expression. Fifi looks reassured and happy. Cozy home interior with soft warm lighting. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bella the small pale rabbit playing board games and drawing pictures together on the floor of Bella's cozy burrow. They are laughing and having fun. The burrow has soft warm lighting, flowers, and cozy carpets. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bella the bunny in their pajamas getting ready for bed. Bellas mother is tucking them in with a night light on. The scene is warm and cozy with soft amber lighting. The mother bunny has a kind smile. Child-friendly illustration.",
+    "A cute baby red fox with bright orange fur and Bella the bunny whispering and giggling in bed together in the dark. They have big smiles and are clearly having fun with their secret whispers. Soft moonlight coming through a window. Night time cozy bedroom scene. Child-friendly illustration."
+  ],
+  "styleNotes": {
+    "palette": ["E67E22", "FDEBD0", "6AAB5E", "AED6F1", "F4C542", "8B5E3C", "F8BBD0", "FAFAFA"],
+    "technique": "soft watercolor-inspired digital illustration",
+    "mood": "cozy, friendship, adventure"
+  },
+  "characterDescriptions": {
+    "fifi": "A cute baby red fox with bright orange fur and cream-colored belly and snout. Large expressive dark eyes. Fluffy white-tipped tail.",
+    "bella": "Small pale-grey rabbit with long ears, fluffy white tail, pink inner ears. Color palette: #D3D3D3 (grey), #FFFFFF (tail/belly), #FFB6C1 (inner ears, nose)."
+  }
+}

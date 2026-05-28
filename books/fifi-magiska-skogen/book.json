@@ -1,0 +1,53 @@
+{
+  "id": "fifi-magiska-skogen",
+  "title": "Fifi och den magiska skogen",
+  "description": "Fifi och Milo förvandlar skogen till ett magiskt kungadöme där de är upptäcktsresande, riddare och vänner på samma gång.",
+  "coverColor": "E67E22",
+  "coverEmoji": "🦊",
+  "pages": [
+    {
+      "text": "En dag gick Fifi ut i skogen nära sin lya. 'Vad ska vi göra idag?' frågade hon. 'Jag har en idé!' sa Milo.",
+      "image": "images/page-1.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Milo viskade: 'Skogen är ett magiskt kungadöme!' Fifis ögon blev stora av förtjusning. 'Vi är upptäcktsresande!'",
+      "image": "images/page-2.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Fifi pekade på ett stort träd. 'Det är ett slotttorn!' ropade hon. Milo skrattade. 'Och den där steninen är en tron!'",
+      "image": "images/page-3.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "Sedan hittade de en liten glänta med mjuk mossa. 'Ett festlok för prinsar och prinsessor!' sa Fifi glatt.",
+      "image": "images/page-4.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "De dukade upp med kottar och blad. 'Välkommen till festen!' sa Milo formellt. 'Tack för att du kom!' svarade Fifi.",
+      "image": "images/page-5.png",
+      "audio": null,
+      "video": null
+    },
+    {
+      "text": "När solen gick ner tackade de varandra för den magiska dagen. 'Imagination gör allt roligare!' sa Fifi. 'Vi ses imorgon!'",
+      "image": "images/page-6.png",
+      "audio": null,
+      "video": null
+    }
+  ],
+  "metadata": {
+    "mainCharacter": "Fifi the Fox",
+    "sideCharacters": ["Milo the Mouse"],
+    "theme": "imagination",
+    "targetAge": "3-5",
+    "wordCount": 128,
+    "generatedAt": "2026-05-28T08:00:00.000000"
+  }
+}
