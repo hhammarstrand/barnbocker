@@ -10,7 +10,9 @@ from pathlib import Path
 sys.path.insert(0, str(Path(__file__).parent))
 from tts_service import TTSService, generate_audio_for_text
 
-MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY", "sk-cp-NFnfASzuMPdbIP-UUqccOfX6nG6vqAt8RxNg9vw0o3fxoiRAGV8EnFyPoYhFUmomX_57eWcAcyNfecs8_I6S2B_O_T7cYoa8CEdXMPc-YFkuooURO0nmvqU")
+MINIMAX_API_KEY = os.environ.get("MINIMAX_API_KEY")
+if not MINIMAX_API_KEY:
+    raise ValueError("MINIMAX_API_KEY environment variable is required")
 MINIMAX_GROUP_ID = os.environ.get("MINIMAX_GROUP_ID", "2031978439547822419")
 MINIMAX_API_BASE = "https://api.minimax.io/v1"
 
